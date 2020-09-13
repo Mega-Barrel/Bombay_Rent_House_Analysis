@@ -375,14 +375,315 @@ area,bathroom_num,bedroom_num,dev_name,furnishing,locality,post_date,price,type,
 2800.0,4.0,4.0,HCBS Developer,Semi-Furnished,Andheri West,2020-01-07,90000.0,Apartment,Agent,2020,01
 2700.0,4.0,4.0,HCBS Developer,Semi-Furnished,Andheri West,2019-12-24,88000.0,Apartment,Agent,2019,12
 2900.0,4.0,4.0,HCBS Developer,Furnished,Andheri West,2019-12-29,95000.0,Apartment,Agent,2019,12
+2000.0,4.0,4.0,Hiranandani Group,Semi-Furnished,Powai,2019-12-29,110000.0,Apartment,Agent,2019,12
+2400.0,5.0,4.0,Ekta World,Semi-Furnished,Powai,2020-01-14,110000.0,Apartment,Agent,2020,01
+1850.0,3.0,4.0,Satyam Developers,Furnished,Chembur,2019-11-18,115000.0,Apartment,Agent,2019,11
+2400.0,4.0,4.0,Sabari Group,Unfurnished,Chembur,2020-01-13,110000.0,Apartment,Agent,2020,01
+1800.0,3.0,4.0,Godrej Properties,Semi-Furnished,Vikhroli,2019-12-25,110000.0,Apartment,Agent,2019,12
+2525.0,4.0,4.0,HCBS Developer,Semi-Furnished,Four Bungalows,2019-12-30,110000.0,Apartment,Agent,2019,12
+2295.0,4.0,4.0,The Wadhwa Group,Furnished,Goregaon West,2020-01-13,110000.0,Apartment,Agent,2020,01
+1800.0,4.0,4.0,Nahar Group,Semi-Furnished,Chandivali,2020-01-13,115000.0,Apartment,Agent,2020,01
+2100.0,4.0,4.0,Safal Group,Unfurnished,Chembur,2020-01-13,125000.0,Apartment,Agent,2020,01
+2600.0,3.0,4.0,The Wadhwa Group,Unfurnished,Ghatkopar West,2020-01-12,110000.0,Apartment,Agent,2020,01
+2090.0,4.0,4.0,The Wadhwa Group,Furnished,BEST Housing Colony,2020-01-04,115000.0,Apartment,Agent,2020,01
+1950.0,4.0,4.0,Kanakia Spaces Realty Pvt. Ltd.,Furnished,Andheri East,2019-12-20,125000.0,Apartment,Owner,2019,12
+2200.0,4.0,4.0,The Wadhwa Group,Furnished,Goregaon West,2020-01-13,120000.0,Apartment,Agent,2020,01
+2100.0,3.0,4.0,The Wadhwa Group,Furnished,Goregaon West,2020-01-14,120000.0,Apartment,Agent,2020,01
+1995.0,4.0,4.0,Raheja Developers Ltd.,Semi-Furnished,Andheri West,2020-01-14,120000.0,Apartment,Agent,2020,01
 2200.0,4.0,4.0,Lodha Group,Furnished,CAMA Industrial Estate,2020-01-14,105000.0,Apartment,Agent,2020,01
+2900.0,5.0,4.0,Cooperative Group Housing Society,Semi-Furnished,Chembur,2020-01-13,115000.0,Apartment,Agent,2020,01
+2600.0,3.0,4.0,Cooperative Group Housing Society,Semi-Furnished,Chembur,2020-01-14,125000.0,Apartment,Agent,2020,01
+2326.0,3.0,4.0,Adani Realty,Unfurnished,4 Bunglows,2020-01-13,125000.0,Apartment,Agent,2020,01
+2920.0,4.0,4.0,The Wadhwa Group,Furnished,Ghatkopar West,2020-01-13,118000.0,Apartment,Agent,2020,01
+1850.0,4.0,4.0,Cooperative Group Housing Society,Unfurnished,Oshiwara,2020-01-13,125000.0,Apartment,Agent,2020,01
+2365.0,4.0,4.0,Ekta World,Semi-Furnished,Powai,2020-01-13,120000.0,Apartment,Agent,2020,01
+2044.0,4.0,4.0,Samarth Development Corporation,Unfurnished,Andheri West,2020-01-13,120000.0,Apartment,Agent,2020,01
+2350.0,4.0,4.0,Nahar Group,Semi-Furnished,Powai,2020-01-12,115000.0,Apartment,Agent,2020,01
+2700.0,6.0,4.0,L&T Realty,Semi-Furnished,Powai,2020-01-14,125000.0,Apartment,Agent,2020,01
+2200.0,4.0,4.0,The Wadhwa Group,Furnished,Udyog Nagar,2020-01-09,120000.0,Apartment,Agent,2020,01
+2700.0,4.0,4.0,The Wadhwa Group,Furnished,Unnat Nagar,2020-01-10,112000.0,Apartment,Agent,2020,01
+2000.0,4.0,4.0,Raheja Developers Ltd.,Unfurnished,Andheri West,2020-01-13,120000.0,Apartment,Agent,2020,01
+3259.0,6.0,4.0,Dynamix Group,Semi-Furnished,Malad East,2019-09-09,125000.0,Apartment,Agent,2019,09
+2280.0,4.0,4.0,The Wadhwa Group,Semi-Furnished,Ghatkopar West,2020-01-14,125000.0,Apartment,Agent,2020,01
+2250.0,4.0,4.0,Sheth Developers,Unfurnished,Malad West,2020-01-08,115000.0,Apartment,Agent,2020,01
+2800.0,4.0,4.0,DB Realty Limited,Furnished,Goregaon East,2020-01-13,120000.0,Apartment,Agent,2020,01
+2500.0,4.0,4.0,Kabra Group,Unfurnished,Andheri West,2019-12-23,125000.0,Apartment,Agent,2019,12
 1700.0,4.0,4.0,Evershine Builders,Semi-Furnished,Andheri West,2020-01-05,105000.0,Apartment,Agent,2020,01
+1820.0,3.0,4.0,Adani Realty,Semi-Furnished,Andheri West,2020-01-13,115000.0,Apartment,Agent,2020,01
+2815.0,4.0,4.0,The Wadhwa Group,Unfurnished,BEST Housing Colony,2020-01-13,120000.0,Apartment,Agent,2020,01
+2726.0,4.0,4.0,Kanakia Spaces Realty Pvt. Ltd.,Unfurnished,Malad East,2019-11-28,110000.0,Apartment,Agent,2019,11
+2370.0,4.0,4.0,Ekta World,Furnished,Central Area,2019-11-18,125000.0,Apartment,Agent,2019,11
+2190.0,4.0,4.0,The Wadhwa Group,Unfurnished,Goregaon West,2019-12-10,110000.0,Apartment,Agent,2019,12
+2100.0,4.0,4.0,Evershine Builders,Furnished,Andheri West,2019-12-23,120000.0,Apartment,Agent,2019,12
+2365.0,5.0,4.0,Ekta World,Furnished,Powai,2020-01-02,120000.0,Apartment,Agent,2020,01
+1850.0,3.0,4.0,Samarth Development Corporation,Furnished,Lokhandwala Complex,2019-12-25,122000.0,Apartment,Agent,2019,12
+1800.0,4.0,4.0,Adani Realty,Furnished,4 Bunglows,2019-12-22,125000.0,Apartment,Agent,2019,12
+2600.0,4.0,4.0,Adani Realty,Semi-Furnished,Andheri West,2019-12-10,125000.0,Apartment,Agent,2019,12
+2021.0,4.0,4.0,HDIL Group,Furnished,Premier Colony,2019-12-02,110000.0,Apartment,Agent,2019,12
+3300.0,4.0,4.0,The Dynamix Group,Unfurnished,Malad East,2019-12-16,125000.0,Apartment,Agent,2019,12
+2200.0,5.0,4.0,K Raheja Corp,Semi-Furnished,Lokhandwala Complex,2019-12-24,125000.0,Apartment,Agent,2019,12
+1950.0,5.0,4.0,Runwal Developers,Semi-Furnished,Andheri West,2019-11-15,125000.0,Apartment,Agent,2019,11
+2410.0,4.0,4.0,Kabra Group,Semi-Furnished,Andheri West,2019-12-05,110000.0,Apartment,Agent,2019,12
+2366.0,4.0,4.0,Kanakia Spaces Realty Pvt. Ltd.,Unfurnished,Bhavani Nagar,2019-12-08,110000.0,Apartment,Agent,2019,12
+1800.0,4.0,4.0,Raheja Universal Pvt Ltd.,Semi-Furnished,Goregaon East,2019-12-15,115000.0,Apartment,Agent,2019,12
+1450.0,3.0,4.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2019-12-24,125000.0,Apartment,Agent,2019,12
+1750.0,4.0,4.0,Godrej Properties,Semi-Furnished,Vikhroli East,2020-01-01,120000.0,Apartment,Agent,2020,01
+2400.0,4.0,4.0,Cooperative Group Housing Society,Furnished,Tunga,2019-12-21,125000.0,Apartment,Agent,2019,12
 2400.0,4.0,4.0,Cooperative Group Housing Society,Semi-Furnished,Chandivali,2020-01-05,108000.0,Apartment,Agent,2020,01
+3825.0,6.0,4.0,Ajmera Realty & Infra India Ltd.,Furnished,Wadala,2019-11-03,125000.0,Apartment,Agent,2019,11
+3060.0,4.0,4.0,Rajesh LifeSpaces,Semi-Furnished,Powai lake,2019-12-01,125000.0,Apartment,Agent,2019,12
+3000.0,4.0,4.0,Neelkanth Group,Unfurnished,Ghatkopar East,2020-01-05,115000.0,Apartment,Agent,2020,01
 2200.0,4.0,4.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2019-11-20,105000.0,Apartment,Owner,2019,11
+2365.0,4.0,4.0,Ekta World,Semi-Furnished,Powai,2019-12-04,115000.0,Apartment,Agent,2019,12
+2100.0,3.0,4.0,The Wadhwa Group,Furnished,Goregaon West,2020-01-14,120000.0,Apartment,Agent,2020,01
+1700.0,3.0,4.0,Godrej Properties,Semi-Furnished,Vikhroli,2019-12-27,110000.0,Apartment,Agent,2019,12
+2090.0,4.0,4.0,The Wadhwa Group,Furnished,Goregaon West,2020-01-13,110000.0,Apartment,Agent,2020,01
+3125.0,5.0,4.0,The Wadhwa Group,Semi-Furnished,Goregaon West,2020-01-13,115000.0,Apartment,Agent,2020,01
+3000.0,4.0,4.0,Radius Developers,Semi-Furnished,Goregaon West,2020-01-04,120000.0,Apartment,Agent,2020,01
+2090.0,3.0,4.0,Radius Developers,Semi-Furnished,Goregaon West,2020-01-13,115000.0,Apartment,Agent,2020,01
+2778.0,5.0,4.0,Cooperative Group Housing Society,Unfurnished,Chembur,2020-01-13,110000.0,Apartment,Agent,2020,01
+2001.0,3.0,4.0,Adani Realty,Unfurnished,Andheri West,2020-01-12,120000.0,Apartment,Agent,2020,01
+2180.0,4.0,4.0,The Wadhwa Group,Furnished,Ghatkopar West,2020-01-12,115000.0,Apartment,Agent,2020,01
+1600.0,4.0,4.0,K Raheja Corp,Semi-Furnished,Andheri West,2020-01-14,125002.0,Apartment,Agent,2020,01
+2000.0,4.0,4.0,Raheja Developers Ltd.,Unfurnished,Andheri West,2019-12-27,120000.0,Apartment,Agent,2019,12
+2680.0,4.0,4.0,The Wadhwa Group,Semi-Furnished,Ghatkopar West,2020-01-14,120000.0,Apartment,Agent,2020,01
+3640.0,4.0,4.0,L&T Realty,Semi-Furnished,Powai,2020-01-12,120001.0,Apartment,Agent,2020,01
+2500.0,4.0,4.0,Adani Realty,Semi-Furnished,4 Bunglows,2019-12-04,125000.0,Apartment,Agent,2019,12
 2365.0,5.0,4.0,Ekta World,Semi-Furnished,Powai,2019-11-22,105000.0,Apartment,Agent,2019,11
+2350.0,4.0,4.0,Kukreja Construction Company,Unfurnished,Chembur,2019-12-28,120000.0,Apartment,Agent,2019,12
+3000.0,5.0,4.0,Adani Realty,Semi-Furnished,Andheri West,2019-12-21,125000.0,Apartment,Agent,2019,12
+2200.0,4.0,4.0,Samarth Development Corporation,Semi-Furnished,Lokhandwala Complex,2019-11-22,125000.0,Apartment,Agent,2019,11
+2150.0,5.0,4.0,BTM Developers,Furnished,Bhandup West,2019-11-17,115000.0,Apartment,Agent,2019,11
+2260.0,4.0,4.0,Cooperative Group Housing Society,Furnished,Chandivali,2019-12-23,110000.0,Apartment,Agent,2019,12
+2500.0,3.0,4.0,Nahar Group,Semi-Furnished,Andheri East,2019-12-06,125000.0,Apartment,Agent,2019,12
+2090.0,3.0,4.0,The Wadhwa Group,Furnished,Goregaon West,2020-01-10,120000.0,Apartment,Agent,2020,01
+2730.0,5.0,4.0,The Wadhwa Group,Semi-Furnished,Best Nagar - Goregaon West,2020-01-11,125000.0,Apartment,Agent,2020,01
+2295.0,3.0,4.0,The Wadhwa Group,Furnished,Goregaon West,2020-01-13,115000.0,Apartment,Agent,2020,01
+2090.0,4.0,4.0,The Wadhwa Group,Furnished,Goregaon West,2020-01-04,110000.0,Apartment,Agent,2020,01
+2254.0,3.0,4.0,Adani Realty,Unfurnished,Andheri West,2020-01-14,120000.0,Apartment,Agent,2020,01
+2390.0,4.0,4.0,Raheja Universal Pvt Ltd.,Semi-Furnished,Chembur,2020-01-02,125000.0,Apartment,Agent,2020,01
+2280.0,4.0,4.0,Godrej Properties,Semi-Furnished,Vikhroli East,2020-01-10,120000.0,Apartment,Agent,2020,01
+2270.0,4.0,4.0,Cooperative Group Housing Society,Unfurnished,Chembur,2019-12-07,123900.0,Apartment,Agent,2019,12
 2125.0,4.0,4.0,HCBS Developer,Furnished,Andheri West,2019-11-21,105000.0,Apartment,Agent,2019,11
+2365.0,4.0,4.0,Ekta World,Furnished,Powai,2019-11-24,125000.0,Apartment,Agent,2019,11
+2400.0,4.0,4.0,Cooperative Group Housing Society,Furnished,Chandivali,2020-01-12,118000.0,Apartment,Agent,2020,01
 2315.0,4.0,4.0,The Wadhwa Group,Semi-Furnished,Goregaon West,2020-01-04,105000.0,Apartment,Agent,2020,01
+2700.0,4.0,4.0,Cooperative Group Housing Society,Furnished,Chembur,2019-12-24,120000.0,Apartment,Agent,2019,12
+2450.0,5.0,4.0,The Wadhwa Group,Semi-Furnished,Ghatkopar West,2020-01-09,120000.0,Apartment,Agent,2020,01
+3500.0,5.0,4.0,Shiv Shakti Group,Semi-Furnished,Andheri West,2019-12-04,110000.0,Apartment,Agent,2019,12
+2500.0,4.0,4.0,Samarth Development Corporation,Semi-Furnished,Lokhandwala Complex,2019-11-17,125000.0,Apartment,Agent,2019,11
+2300.0,4.0,4.0,Cooperative Group Housing Society,Furnished,Chandivali,2020-01-03,111000.0,Apartment,Agent,2020,01
+2850.0,4.0,4.0,Cooperative Group Housing Society,Unfurnished,Chembur,2020-01-14,125000.0,Apartment,Agent,2020,01
+2750.0,4.0,4.0,Tridhaatu Realty and Infra Pvt. Ltd.,Semi-Furnished,Chembur,2019-12-11,125000.0,Apartment,Agent,2019,12
+3150.0,4.0,4.0,The Wadhwa Group,Semi-Furnished,Ghatkopar West,2020-01-09,110000.0,Apartment,Agent,2020,01
+2250.0,4.0,4.0,Raheja Universal Pvt Ltd.,Semi-Furnished,Govandi Station Road,2019-12-07,120000.0,Apartment,Agent,2019,12
+2100.0,4.0,4.0,Adani Realty,Furnished,Andheri West,2019-12-04,115000.0,Apartment,Agent,2019,12
+2875.0,4.0,4.0,Cooperative Group Housing Society,Unfurnished,Central Avenue Road,2020-01-14,125000.0,Apartment,Agent,2020,01
+2400.0,4.0,4.0,Raheja Universal Pvt Ltd.,Semi-Furnished,Chembur,2020-01-02,125000.0,Apartment,Agent,2020,01
+2380.0,4.0,4.0,Cooperative Group Housing Society,Semi-Furnished,Chembur,2019-11-26,120000.0,Apartment,Agent,2019,11
+2800.0,4.0,4.0,Sabari Group,Semi-Furnished,Chembur,2019-12-24,110000.0,Apartment,Agent,2019,12
+2600.0,4.0,4.0,Cooperative Group Housing Society,Semi-Furnished,Chembur,2019-12-02,116000.0,Apartment,Agent,2019,12
+2900.0,4.0,4.0,Cooperative Group Housing Society,Semi-Furnished,Chembur,2020-01-12,111000.0,Apartment,Agent,2020,01
 3450.0,4.0,4.0,Cooperative Group Housing Society,Semi-Furnished,Chembur,2019-12-30,106000.0,Apartment,Agent,2019,12
+1600.0,3.0,4.0,Adani Realty,Semi-Furnished,Andheri West,2020-01-12,150000.0,Apartment,Agent,2020,01
+2695.0,3.0,4.0,Ajmera Realtyand Infra India,Semi-Furnished,Bhakti Park,2020-01-14,130000.0,Apartment,Agent,2020,01
+2550.0,4.0,4.0,Adani Realty,Semi-Furnished,Andheri West,2020-01-12,148000.0,Apartment,Agent,2020,01
+3000.0,5.0,4.0,L&T Realty,Semi-Furnished,Powai,2020-01-14,150000.0,Apartment,Agent,2020,01
+1440.0,4.0,4.0,Hiranandani Group,Semi-Furnished,Powai,2019-11-15,133000.0,Apartment,Agent,2019,11
+2500.0,4.0,4.0,Kabra Group,Semi-Furnished,Andheri West,2020-01-10,130000.0,Apartment,Agent,2020,01
+2500.0,6.0,4.0,Lodha Group,Semi-Furnished,Wadala East,2019-12-20,140000.0,Apartment,Agent,2019,12
+3200.0,4.0,4.0,Cooperative Group Housing Society,Unfurnished,Chembur,2020-01-13,130000.0,Apartment,Agent,2020,01
+3640.0,4.0,4.0,L&T Realty,Semi-Furnished,Powai,2020-01-13,135001.0,Apartment,Agent,2020,01
+2400.0,4.0,4.0,Kalpataru Limited,Furnished,Andheri East,2019-12-06,135000.0,Apartment,Agent,2019,12
+4000.0,5.0,4.0,Lodha Group,Semi-Furnished,Bhakti Park,2020-01-14,135000.0,Apartment,Agent,2020,01
+3500.0,6.0,4.0,L&T Realty,Semi-Furnished,Powai,2020-01-13,140000.0,Apartment,Agent,2020,01
+2200.0,4.0,4.0,Ajmera Realty & Infra India Ltd.,Furnished,Andheri West,2020-01-13,150000.0,Apartment,Agent,2020,01
+2800.0,6.0,4.0,Oberoi Realty Limited,Semi-Furnished,Andheri East,2020-01-14,140000.0,Apartment,Agent,2020,01
+2062.0,4.0,4.0,Kanakia Spaces Realty Pvt. Ltd.,Unfurnished,Marol,2020-01-07,130000.0,Apartment,Agent,2020,01
+1700.0,4.0,4.0,Adani Realty,Semi-Furnished,Andheri West,2019-12-28,140000.0,Apartment,Agent,2019,12
+3178.0,5.0,4.0,Oberoi Realty Limited,Semi-Furnished,Andheri East,2020-01-14,145000.0,Apartment,Agent,2020,01
+2500.0,4.0,4.0,The Wadhwa Group,Semi-Furnished,Ghatkopar West,2020-01-14,130000.0,Apartment,Agent,2020,01
+3500.0,5.0,4.0,Raheja Universal Pvt Ltd.,Furnished,"Thakur Village, Kandivali East",2020-01-14,145000.0,Apartment,Agent,2020,01
+3195.0,4.0,4.0,Lodha Group,Semi-Furnished,Goregaon East,2020-01-13,135000.0,Apartment,Agent,2020,01
+2550.0,5.0,4.0,Adani Realty,Unfurnished,Andheri West,2020-01-14,145000.0,Apartment,Agent,2020,01
+2925.0,5.0,4.0,Cooperative Group Housing Society,Furnished,Chembur,2020-01-13,151000.0,Apartment,Agent,2020,01
+3120.0,4.0,4.0,L&T Realty,Semi-Furnished,Powai,2020-01-14,135000.0,Apartment,Agent,2020,01
+2400.0,4.0,4.0,Kukreja Construction Company,Semi-Furnished,Chembur,2020-01-13,130000.0,Apartment,Agent,2020,01
+2560.0,3.0,4.0,Adani Realty,Unfurnished,Andheri West,2020-01-13,150000.0,Apartment,Agent,2020,01
+2190.0,5.0,4.0,Supreme Universal,Semi-Furnished,Chembur,2020-01-14,150000.0,Apartment,Agent,2020,01
+2100.0,4.0,4.0,Ajmera Realty & Infra India Ltd.,Furnished,Andheri West,2020-01-13,155000.0,Apartment,Agent,2020,01
+3195.0,5.0,4.0,Lodha Group,Semi-Furnished,Goregaon East,2020-01-12,144000.0,Apartment,Agent,2020,01
+3500.0,6.0,4.0,L&T Realty,Semi-Furnished,Powai,2020-01-08,130000.0,Apartment,Agent,2020,01
+2320.0,5.0,4.0,Lodha Group,Semi-Furnished,Wadala East,2020-01-13,152000.0,Apartment,Agent,2020,01
+3204.0,4.0,4.0,The Wadhwa Group,Semi-Furnished,Ghatkopar West,2020-01-09,138000.0,Apartment,Agent,2020,01
+2572.0,3.0,4.0,Adani Realty,Semi-Furnished,Andheri West,2020-01-14,135000.0,Apartment,Agent,2020,01
+2600.0,6.0,4.0,Oberoi Realty Limited,Semi-Furnished,Andheri East,2020-01-07,150000.0,Apartment,Agent,2020,01
+2600.0,4.0,4.0,Adani Realty,Semi-Furnished,4 Bunglows,2020-01-11,150000.0,Apartment,Agent,2020,01
+2707.0,4.0,4.0,Adani Realty,Semi-Furnished,Andheri West,2020-01-14,145500.0,Apartment,Agent,2020,01
+3000.0,4.0,4.0,L&T Realty,Semi-Furnished,Powai,2020-01-13,150000.0,Apartment,Agent,2020,01
+2400.0,4.0,4.0,K Raheja Corp,Unfurnished,Lokhandwala Complex,2020-01-13,150000.0,Apartment,Agent,2020,01
+2360.0,5.0,4.0,Ekta World,Furnished,Powai,2020-01-08,128000.0,Apartment,Agent,2020,01
+1850.0,4.0,4.0,Cooperative Group Housing Society,Unfurnished,Oshiwara,2020-01-12,130000.0,Apartment,Agent,2020,01
+2900.0,4.0,4.0,Hiranandani Group,Furnished,Powai,2020-01-14,150000.0,Apartment,Agent,2020,01
+3195.0,4.0,4.0,Lodha Group,Semi-Furnished,Goregaon East,2020-01-13,130000.0,Apartment,Agent,2020,01
+2600.0,5.0,4.0,Oberoi Realty Limited,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,2020-01-13,150000.0,Apartment,Agent,2020,01
+2930.0,4.0,4.0,Ekta World,Semi-Furnished,Chembur,2020-01-11,150000.0,Apartment,Agent,2020,01
+2500.0,3.0,4.0,Ajmera Realty & Infra India Ltd.,Furnished,Andheri West,2020-01-10,150000.0,Apartment,Agent,2020,01
+2700.0,3.0,4.0,Rajesh LifeSpaces,Semi-Furnished,Powai,2020-01-13,140000.0,Apartment,Agent,2020,01
+3204.0,5.0,4.0,Lodha Group,Semi-Furnished,Goregaon East,2020-01-13,150000.0,Apartment,Agent,2020,01
+2060.0,4.0,4.0,Hiranandani Group,Unfurnished,Powai,2019-11-25,145000.0,Apartment,Agent,2019,11
+2240.0,4.0,4.0,Adani Realty,Semi-Furnished,Andheri West,2020-01-13,150000.0,Apartment,Agent,2020,01
+2500.0,4.0,4.0,Adani Realty,Unfurnished,Andheri West,2019-12-03,150000.0,Apartment,Agent,2019,12
+2475.0,4.0,4.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-12,130000.0,Apartment,Agent,2020,01
+2000.0,4.0,4.0,Adani Realty,Furnished,Andheri West,2019-12-20,130000.0,Apartment,Agent,2019,12
+3195.0,5.0,4.0,Lodha Group,Semi-Furnished,Aarey Milk Colony,2019-12-23,140000.0,Apartment,Agent,2019,12
+3178.0,4.0,4.0,Oberoi Realty Limited,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,2019-12-19,150000.0,Apartment,Agent,2019,12
+2800.0,6.0,4.0,Oberoi Realty Limited,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,2020-01-14,135000.0,Apartment,Agent,2020,01
+2400.0,5.0,4.0,K Raheja Corp,Unfurnished,Lokhandwala Complex,2019-12-02,149000.0,Apartment,Agent,2019,12
+2500.0,4.0,4.0,Nahar Group,Semi-Furnished,Powai,2019-11-23,130000.0,Apartment,Agent,2019,11
+2000.0,4.0,4.0,Cooperative Group Housing Society,Semi-Furnished,Andheri West,2020-01-02,130000.0,Apartment,Agent,2020,01
+1934.0,4.0,4.0,DOSTI REALTY,Furnished,Parel,2019-12-12,135000.0,Apartment,Agent,2019,12
+2400.0,4.0,4.0,K Raheja Corp,Semi-Furnished,Lokhandwala Complex,2019-12-11,140000.0,Apartment,Agent,2019,12
+2400.0,5.0,4.0,K Raheja Corp,Semi-Furnished,New Link Road,2019-12-11,155000.0,Apartment,Agent,2019,12
+2400.0,4.0,4.0,K Raheja Corp,Semi-Furnished,Andheri West,2019-12-18,140000.0,Apartment,Agent,2019,12
+2800.0,6.0,4.0,Oberoi Realty Limited,Furnished,JVLR-Jogeshwari Vikhroli Link Road,2019-12-05,150000.0,Apartment,Agent,2019,12
+3600.0,4.0,4.0,Lodha Group,Unfurnished,Goregaon East,2020-01-13,140000.0,Apartment,Agent,2020,01
+2000.0,4.0,4.0,Adani Realty,Semi-Furnished,4 Bunglows,2019-11-20,150000.0,Apartment,Agent,2019,11
+2200.0,4.0,4.0,Cooperative Group Housing Society,Furnished,Chandivali,2019-11-24,135000.0,Apartment,Agent,2019,11
+1500.0,3.0,4.0,AUM Group,Semi-Furnished,Dadar West,2020-01-01,140000.0,Apartment,Owner,2020,01
+2600.0,6.0,4.0,Oberoi Realty Limited,Semi-Furnished,Andheri East,2020-01-02,145000.0,Apartment,Agent,2020,01
+3195.0,6.0,4.0,Lodha Group,Semi-Furnished,Goregaon East,2019-11-22,135000.0,Apartment,Agent,2019,11
+3240.0,3.0,4.0,Lodha Group,Semi-Furnished,Wadala,2020-01-12,135000.0,Apartment,Agent,2020,01
+3050.0,4.0,4.0,Lodha Group,Semi-Furnished,Wadala,2020-01-13,145000.0,Apartment,Agent,2020,01
+2525.0,4.0,4.0,Adani Realty,Semi-Furnished,Andheri West,2020-01-12,145000.0,Apartment,Agent,2020,01
+3120.0,5.0,4.0,L&T Realty,Semi-Furnished,Powai lake,2020-01-14,135000.0,Apartment,Agent,2020,01
+3100.0,4.0,4.0,Lodha Group,Semi-Furnished,CAMA Industrial Estate,2020-01-12,150000.0,Apartment,Agent,2020,01
+1850.0,4.0,4.0,DOSTI REALTY,Furnished,Sewri,2019-11-20,140000.0,Apartment,Agent,2019,11
+2298.0,3.0,4.0,Godrej Properties,Unfurnished,Vikhroli,2020-01-13,150000.0,Apartment,Agent,2020,01
+3234.0,3.0,4.0,Raheja Universal Pvt Ltd.,Semi-Furnished,Chembur,2020-01-12,140000.0,Apartment,Agent,2020,01
+1806.0,3.0,4.0,Adani Realty,Semi-Furnished,Andheri West,2020-01-12,150000.0,Apartment,Agent,2020,01
+3285.0,5.0,4.0,Ajmera Realty & Infra India Ltd.,Semi-Furnished,Wadala,2020-01-14,145000.0,Apartment,Agent,2020,01
+2600.0,3.0,4.0,The Wadhwa Group,Unfurnished,Ghatkopar West,2020-01-14,130000.0,Apartment,Agent,2020,01
+2880.0,4.0,4.0,Godrej Properties,Semi-Furnished,Vikhroli,2020-01-12,140000.0,Apartment,Agent,2020,01
+3120.0,6.0,4.0,L&T Realty,Semi-Furnished,Powai,2020-01-14,150000.0,Apartment,Agent,2020,01
+2500.0,4.0,4.0,Kabra Group,Semi-Furnished,Andheri West,2020-01-14,130000.0,Apartment,Agent,2020,01
+3500.0,5.0,4.0,Lodha Group,Unfurnished,Wadala East,2020-01-14,155000.0,Apartment,Agent,2020,01
+2560.0,3.0,4.0,Adani Realty,Unfurnished,Andheri West,2020-01-13,140000.0,Apartment,Agent,2020,01
+2500.0,5.0,4.0,Cooperative Group Housing Society,Semi-Furnished,Chembur,2020-01-14,140000.0,Apartment,Agent,2020,01
+2400.0,4.0,4.0,K Raheja Corp,Furnished,Lokhandwala Complex,2020-01-13,150000.0,Apartment,Agent,2020,01
+3195.0,6.0,4.0,Lodha Group,Unfurnished,Goregaon East,2020-01-12,145000.0,Apartment,Agent,2020,01
+3500.0,6.0,4.0,L&T Realty,Semi-Furnished,Powai,2019-12-29,136000.0,Apartment,Agent,2019,12
+3207.0,4.0,4.0,The Wadhwa Group,Semi-Furnished,Ghatkopar West,2020-01-08,133000.0,Apartment,Agent,2020,01
+2572.0,4.0,4.0,Adani Realty,Semi-Furnished,Andheri West,2019-12-26,135000.0,Apartment,Agent,2019,12
+1700.0,4.0,4.0,Cooperative Group Housing Society,Furnished,Oshiwara,2019-12-29,135000.0,Apartment,Agent,2019,12
+2500.0,4.0,4.0,Raheja Universal Pvt Ltd.,Semi-Furnished,Chembur,2020-01-13,130000.0,Apartment,Agent,2020,01
+2400.0,4.0,4.0,K Raheja Corp,Unfurnished,Lokhandwala Complex,2020-01-13,150000.0,Apartment,Agent,2020,01
+2365.0,4.0,4.0,Ekta World,Unfurnished,Powai,2020-01-10,135000.0,Apartment,Agent,2020,01
+2550.0,4.0,4.0,Ajmera Realty & Infra India Ltd.,Furnished,Andheri West,2019-12-24,155000.0,Apartment,Agent,2019,12
+3193.0,6.0,4.0,Oberoi Realty Limited,Furnished,Andheri East,2020-01-14,140000.0,Apartment,Agent,2020,01
+3060.0,5.0,4.0,Rajesh LifeSpaces,Semi-Furnished,Powai lake,2020-01-14,130000.0,Apartment,Agent,2020,01
+1750.0,3.0,4.0,Adani Realty,Semi-Furnished,Andheri West,2020-01-13,150000.0,Apartment,Agent,2020,01
+3285.0,4.0,4.0,Ajmera Realty and Infra,Semi-Furnished,Wadala,2020-01-11,130000.0,Apartment,Agent,2020,01
+2800.0,6.0,4.0,Oberoi Realty Limited,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,2019-12-29,135000.0,Apartment,Agent,2019,12
+3400.0,5.0,4.0,Raheja Universal Pvt Ltd.,Semi-Furnished,"Thakur Village, Kandivali East",2019-12-15,152000.0,Apartment,Agent,2019,12
+1934.0,4.0,4.0,DOSTI REALTY,Furnished,Parel,2019-11-29,130000.0,Apartment,Agent,2019,11
+2400.0,5.0,4.0,K Raheja Corp,Unfurnished,New Link Road,2019-12-11,150000.0,Apartment,Agent,2019,12
+2600.0,6.0,4.0,Oberoi Realty Limited,Semi-Furnished,Andheri East,2019-12-02,145000.0,Apartment,Agent,2019,12
+3285.0,5.0,4.0,Ajmera Realty and Infra,Semi-Furnished,Wadala East,2020-01-12,135000.0,Apartment,Agent,2020,01
+3640.0,4.0,4.0,L&T Realty,Semi-Furnished,Powai,2020-01-14,135000.0,Apartment,Agent,2020,01
+3000.0,4.0,4.0,Godrej Properties,Semi-Furnished,Chembur,2019-12-25,135000.0,Apartment,Agent,2019,12
+2572.0,4.0,4.0,Adani Realty,Unfurnished,Andheri West,2020-01-12,135000.0,Apartment,Agent,2020,01
+3195.0,5.0,4.0,Lodha Group,Semi-Furnished,Goregaon East,2020-01-12,140000.0,Apartment,Agent,2020,01
+3500.0,6.0,4.0,L&T Realty,Semi-Furnished,Powai,2019-12-12,138000.0,Apartment,Agent,2019,12
+2572.0,4.0,4.0,Adani Realty,Semi-Furnished,Andheri West,2019-12-23,135000.0,Apartment,Agent,2019,12
+2365.0,5.0,4.0,Ekta World,Furnished,Powai,2019-12-09,130000.0,Apartment,Agent,2019,12
+2764.0,4.0,4.0,Oberoi Realty Limited,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,2020-01-14,140000.0,Apartment,Agent,2020,01
+2700.0,4.0,4.0,Elpro International,Semi-Furnished,Chembur,2019-11-20,135000.0,Apartment,Agent,2019,11
+3640.0,4.0,4.0,L&T Realty,Semi-Furnished,Powai,2020-01-12,140001.0,Apartment,Agent,2020,01
+2200.0,4.0,4.0,Kalpataru Limited,Furnished,Andheri,2019-12-03,149000.0,Apartment,Agent,2019,12
+2800.0,5.0,4.0,Oberoi Realty Limited,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,2019-12-19,135000.0,Apartment,Agent,2019,12
+3240.0,4.0,4.0,Lodha Group,Semi-Furnished,Wadala East,2019-12-07,149000.0,Apartment,Agent,2019,12
+2600.0,5.0,4.0,Oberoi Realty Limited,Semi-Furnished,Andheri East,2019-12-02,140000.0,Apartment,Agent,2019,12
+3285.0,4.0,4.0,Ajmera Realty and Infra,Semi-Furnished,Wadala,2020-01-12,130000.0,Apartment,Agent,2020,01
+3150.0,4.0,4.0,Sabari Group,Furnished,Chembur,2020-01-13,150000.0,Apartment,Agent,2020,01
+4239.0,4.0,4.0,Lodha Group,Semi-Furnished,Wadala,2019-12-05,140000.0,Apartment,Agent,2019,12
+2850.0,4.0,4.0,Cooperative Group Housing Society,Semi-Furnished,Chembur,2020-01-12,130000.0,Apartment,Agent,2020,01
+2850.0,4.0,4.0,Sabari Group,Semi-Furnished,Chembur,2019-12-17,135000.0,Apartment,Agent,2019,12
+2040.0,1.0,4.0,Adani Realty,Unfurnished,Andheri West,2020-01-14,130000.0,Apartment,Agent,2020,01
+3500.0,7.0,4.0,L&T Realty,Semi-Furnished,Powai,2019-12-29,142000.0,Apartment,Agent,2019,12
+2870.0,4.0,4.0,Godrej Properties,Semi-Furnished,Vikhroli,2019-12-17,155000.0,Apartment,Agent,2019,12
+2572.0,4.0,4.0,Adani Realty,Semi-Furnished,Andheri West,2019-12-24,135000.0,Apartment,Agent,2019,12
+2100.0,4.0,4.0,Ajmera Realty & Infra India Ltd.,Furnished,Shastri Nagar,2019-12-24,140000.0,Apartment,Agent,2019,12
+2600.0,6.0,4.0,Oberoi Realty Limited,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,2020-01-10,150000.0,Apartment,Agent,2020,01
+2200.0,4.0,4.0,Kalpataru Limited,Furnished,JVLR-Jogeshwari Vikhroli Link Road,2019-11-27,150000.0,Apartment,Agent,2019,11
+2800.0,6.0,4.0,Oberoi Realty Limited,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,2019-12-19,135000.0,Apartment,Agent,2019,12
+3285.0,4.0,4.0,Ajmera Realty and Infra,Semi-Furnished,Bhakti Park,2019-11-25,145000.0,Apartment,Agent,2019,11
+2500.0,4.0,4.0,Adani Realty,Semi-Furnished,Andheri West,2019-12-06,150000.0,Apartment,Agent,2019,12
+2600.0,6.0,4.0,Oberoi Realty Limited,Semi-Furnished,Andheri East,2019-11-15,140000.0,Apartment,Agent,2019,11
+2700.0,3.0,4.0,Ajmera Realtyand Infra India,Unfurnished,Bhakti Park,2020-01-13,150000.0,Apartment,Agent,2020,01
+2975.0,4.0,4.0,Cooperative Group Housing Society,Semi-Furnished,Central Avenue Road,2019-12-17,150000.0,Apartment,Agent,2019,12
+2350.0,4.0,4.0,Adani Realty,Furnished,Andheri West,2020-01-14,135000.0,Apartment,Agent,2020,01
+3300.0,4.0,4.0,L&T Realty,Semi-Furnished,Central Area,2019-12-22,130000.0,Apartment,Agent,2019,12
+2895.0,4.0,4.0,Godrej Properties,Semi-Furnished,Vikhroli,2019-12-11,155000.0,Apartment,Agent,2019,12
+2572.0,4.0,4.0,Adani Realty,Semi-Furnished,Andheri West,2019-12-25,135000.0,Apartment,Agent,2019,12
+2090.0,3.0,4.0,The Wadhwa Group,Furnished,Best Nagar - Goregaon West,2019-11-15,149000.0,Apartment,Agent,2019,11
+2600.0,6.0,4.0,Oberoi Realty Limited,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,2020-01-11,140000.0,Apartment,Agent,2020,01
+2800.0,6.0,4.0,Oberoi Realty Limited,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,2019-11-21,135000.0,Apartment,Agent,2019,11
+1950.0,4.0,4.0,Samarth Development Corporation,Furnished,Oshiwara,2019-11-21,155000.0,Apartment,Agent,2019,11
+3285.0,5.0,4.0,Ajmera Realty and Infra,Semi-Furnished,Bhakti Park,2020-01-14,140000.0,Apartment,Agent,2020,01
+3000.0,4.0,4.0,Godrej Properties,Semi-Furnished,Chembur,2019-12-16,135000.0,Apartment,Agent,2019,12
+3500.0,6.0,4.0,L&T Realty,Semi-Furnished,Powai,2019-12-21,132000.0,Apartment,Agent,2019,12
+3259.0,4.0,4.0,The Wadhwa Group,Semi-Furnished,Ghatkopar West,2019-12-12,133000.0,Apartment,Agent,2019,12
+2572.0,3.0,4.0,Adani Realty,Semi-Furnished,4 Bunglows,2019-11-30,140000.0,Apartment,Agent,2019,11
+2400.0,4.0,4.0,K Raheja Corp,Semi-Furnished,Andheri West,2019-12-04,140000.0,Apartment,Agent,2019,12
+3320.0,4.0,4.0,Godrej Properties,Semi-Furnished,Chembur,2020-01-09,135500.0,Apartment,Agent,2020,01
+2700.0,4.0,4.0,Oberoi Realty Limited,Semi-Furnished,Andheri East,2019-12-11,140000.0,Apartment,Agent,2019,12
+3500.0,6.0,4.0,Lodha Group,Semi-Furnished,CAMA Industrial Estate,2019-12-06,130000.0,Apartment,Agent,2019,12
+2400.0,3.0,4.0,K Raheja Corp,Furnished,New Link Road,2019-11-14,150000.0,Apartment,Agent,2019,11
+3190.0,4.0,4.0,Cooperative Group Housing Society,Semi-Furnished,Chembur,2019-12-16,146000.0,Apartment,Agent,2019,12
+2572.0,4.0,4.0,Adani Realty,Unfurnished,Andheri West,2020-01-13,135000.0,Apartment,Agent,2020,01
+3500.0,6.0,4.0,L&T Realty,Semi-Furnished,Powai,2019-12-20,139000.0,Apartment,Agent,2019,12
+3262.0,4.0,4.0,The Wadhwa Group,Semi-Furnished,Ghatkopar West,2019-12-21,133000.0,Apartment,Agent,2019,12
+2572.0,3.0,4.0,Adani Realty,Semi-Furnished,Andheri West,2019-11-30,130000.0,Apartment,Agent,2019,11
+2750.0,4.0,4.0,Tridhaatu Realty and Infra Pvt. Ltd.,Semi-Furnished,Chembur,2020-01-09,150000.0,Apartment,Agent,2020,01
+2764.0,4.0,4.0,Oberoi Realty Limited,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,2019-11-29,140000.0,Apartment,Agent,2019,11
+3500.0,6.0,4.0,Lodha Group,Semi-Furnished,CAMA Industrial Estate,2019-11-21,130000.0,Apartment,Agent,2019,11
+3285.0,4.0,4.0,Ajmera Realty and Infra,Semi-Furnished,Bhakti Park,2019-12-27,139000.0,Apartment,Agent,2019,12
+2640.0,4.0,4.0,Ekta World,Semi-Furnished,Chembur,2020-01-05,130000.0,Apartment,Agent,2020,01
+3300.0,6.0,4.0,L&T Realty,Semi-Furnished,Powai,2019-12-12,145000.0,Apartment,Agent,2019,12
+3259.0,4.0,4.0,The Wadhwa Group,Semi-Furnished,Ghatkopar West,2019-12-17,138000.0,Apartment,Agent,2019,12
+3200.0,4.0,4.0,Adani Realty,Semi-Furnished,Andheri West,2020-01-07,150000.0,Apartment,Agent,2020,01
+2600.0,6.0,4.0,Oberoi Realty Limited,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,2019-12-02,140000.0,Apartment,Agent,2019,12
+3500.0,6.0,4.0,Lodha Group,Semi-Furnished,CAMA Industrial Estate,2019-12-06,130000.0,Apartment,Agent,2019,12
+2897.0,4.0,4.0,Godrej Properties,Semi-Furnished,Vikhroli,2019-12-24,155000.0,Apartment,Agent,2019,12
+3000.0,4.0,4.0,Adani Realty,Semi-Furnished,Andheri West,2019-12-20,135000.0,Apartment,Agent,2019,12
+2800.0,4.0,4.0,Sabari Group,Unfurnished,Chembur,2020-01-02,127000.0,Apartment,Agent,2020,01
+3300.0,4.0,4.0,Godrej Properties,Semi-Furnished,Chembur,2019-12-07,135000.0,Apartment,Agent,2019,12
+2867.0,4.0,4.0,Godrej Properties,Semi-Furnished,Vikhroli,2019-12-17,147000.0,Apartment,Agent,2019,12
+2750.0,4.0,4.0,Tridhaatu Realty and Infra Pvt. Ltd.,Semi-Furnished,Chembur,2019-12-31,135000.0,Apartment,Agent,2019,12
+3345.0,4.0,4.0,Godrej Properties,Unfurnished,Chembur,2019-11-26,130500.0,Apartment,Agent,2019,11
+2867.0,4.0,4.0,Godrej Properties,Semi-Furnished,Vikhroli,2019-12-12,148000.0,Apartment,Agent,2019,12
+2895.0,4.0,4.0,Godrej Properties,Semi-Furnished,Vikhroli,2019-12-21,148000.0,Apartment,Agent,2019,12
+3300.0,4.0,4.0,Godrej Properties,Unfurnished,Chembur,2020-01-02,129000.0,Apartment,Agent,2020,01
+2897.0,4.0,4.0,Godrej Properties,Semi-Furnished,Vikhroli,2019-12-22,148000.0,Apartment,Agent,2019,12
+3265.0,4.0,4.0,The Wadhwa Group,Semi-Furnished,Ghatkopar West,2019-12-22,138000.0,Apartment,Agent,2019,12
+2880.0,4.0,4.0,Cooperative Group Housing Society,Semi-Furnished,Chembur,2019-11-28,130000.0,Apartment,Agent,2019,11
+2894.0,4.0,4.0,Godrej Properties,Semi-Furnished,Vikhroli,2019-12-26,150000.0,Apartment,Agent,2019,12
+2874.0,4.0,4.0,Godrej Properties,Semi-Furnished,Vikhroli,2019-12-17,155000.0,Apartment,Agent,2019,12
+2892.0,4.0,4.0,Godrej Properties,Semi-Furnished,Vikhroli,2019-12-06,150000.0,Apartment,Agent,2019,12
+3255.0,4.0,4.0,The Wadhwa Group,Semi-Furnished,Ghatkopar West,2019-12-06,136000.0,Apartment,Agent,2019,12
+3255.0,4.0,4.0,The Wadhwa Group,Semi-Furnished,Ghatkopar West,2019-11-30,135000.0,Apartment,Agent,2019,11
+3250.0,4.0,4.0,The Wadhwa Group,Semi-Furnished,Ghatkopar West,2019-11-26,135000.0,Apartment,Agent,2019,11
+3250.0,4.0,4.0,The Wadhwa Group,Semi-Furnished,Ghatkopar West,2019-12-04,135000.0,Apartment,Agent,2019,12
+2894.0,3.0,4.0,Godrej Properties,Semi-Furnished,Vikhroli,2019-12-06,150000.0,Apartment,Agent,2019,12
+2895.0,4.0,4.0,Godrej Properties,Semi-Furnished,Vikhroli,2019-12-07,150000.0,Apartment,Agent,2019,12
+3220.0,4.0,4.0,The Wadhwa Group,Semi-Furnished,Ghatkopar West,2019-11-29,134000.0,Apartment,Agent,2019,11
+3200.0,4.0,4.0,The Wadhwa Group,Semi-Furnished,Ghatkopar West,2019-11-21,135000.0,Apartment,Agent,2019,11
+3210.0,4.0,4.0,The Wadhwa Group,Semi-Furnished,Ghatkopar West,2019-11-24,132000.0,Apartment,Agent,2019,11
+3220.0,4.0,4.0,The Wadhwa Group,Semi-Furnished,Ghatkopar West,2019-11-27,136000.0,Apartment,Agent,2019,11
+2897.0,4.0,4.0,Godrej Properties,Semi-Furnished,Vikhroli,2019-12-08,150000.0,Apartment,Agent,2019,12
+3256.0,4.0,4.0,The Wadhwa Group,Semi-Furnished,Ghatkopar West,2019-11-28,136000.0,Apartment,Agent,2019,11
+3200.0,4.0,4.0,The Wadhwa Group,Semi-Furnished,Ghatkopar West,2019-11-14,137800.0,Apartment,Agent,2019,11
 690.0,2.0,1.0,Sahakar Global Ltd,Semi-Furnished,Mira Road,2020-01-13,14500.0,Apartment,Agent,2020,01
 680.0,1.0,1.0,Raj Realty Group,Unfurnished,Mira Road,2020-01-12,14000.0,Apartment,Agent,2020,01
 710.0,2.0,1.0,Sadguru Developers,Semi-Furnished,Mira Road,2020-01-09,13500.0,Apartment,Agent,2020,01
@@ -1408,6 +1709,52 @@ area,bathroom_num,bedroom_num,dev_name,furnishing,locality,post_date,price,type,
 1800.0,5.0,5.0,Nahar Group,Furnished,Seven Bungalows,2019-11-17,95000.0,Apartment,Agent,2019,11
 2815.0,4.0,5.0,Radius Group,Semi-Furnished,Goregaon West,2020-01-14,105000.0,Multistorey Apartment,Agent,2020,01
 3125.0,4.0,5.0,Radius Developers,Semi-Furnished,Goregaon West,2020-01-14,105000.0,Multistorey Apartment,Agent,2020,01
+3250.0,5.0,5.0,The Wadhwa Group,Semi-Furnished,BEST Housing Colony,2020-01-14,110000.0,Multistorey Apartment,Agent,2020,01
+3125.0,5.0,5.0,The Wadhwa Group,Semi-Furnished,Goregaon West,2020-01-14,110000.0,Multistorey Apartment,Agent,2020,01
+2815.0,4.0,5.0,Radius Developers,Semi-Furnished,Oshiwara,2020-01-14,110000.0,Multistorey Apartment,Agent,2020,01
+2815.0,5.0,5.0,The Wadhwa Group,Semi-Furnished,Goregaon West,2020-01-14,110000.0,Multistorey Apartment,Agent,2020,01
+2710.0,5.0,5.0,The Wadhwa Group,Semi-Furnished,Best Nagar - Goregaon West,2020-01-14,115000.0,Multistorey Apartment,Agent,2020,01
+3100.0,5.0,5.0,Oberoi Realty Limited,Semi-Furnished,"Thakur Village, Kandivali East",2020-01-08,111000.0,Multistorey Apartment,Agent,2020,01
+2480.0,4.0,5.0,Kalpataru Limited,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,2020-01-13,120000.0,Multistorey Apartment,Agent,2020,01
+2480.0,4.0,5.0,Kalpataru Limited,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,2020-01-14,120000.0,Multistorey Apartment,Agent,2020,01
+2815.0,4.0,5.0,The Wadhwa Group,Semi-Furnished,Goregaon West,2020-01-13,120000.0,Multistorey Apartment,Agent,2020,01
+3000.0,4.0,5.0,The Wadhwa Group,Semi-Furnished,Goregaon West,2020-01-13,120000.0,Multistorey Apartment,Agent,2020,01
+2270.0,5.0,5.0,Runwal Developers,Semi-Furnished,Ghatkopar West,2019-12-26,120000.0,Multistorey Apartment,Agent,2019,12
+3251.0,5.0,5.0,Sunteck Realty Limited,Unfurnished,Magathane,2019-11-24,120000.0,Multistorey Apartment,Agent,2019,11
+2500.0,4.0,5.0,Keshav Vitthal Sonawane,Semi-Furnished,Kurla,2020-01-02,125000.0,Apartment,Owner,2020,01
+2250.0,5.0,5.0,Keshav Vitthal Sonawane,Semi-Furnished,Kurla West,2020-01-08,125000.0,Apartment,Agent,2020,01
+2260.0,5.0,5.0,Runwal Developers,Semi-Furnished,Ghatkopar West,2020-01-08,125000.0,Apartment,Agent,2020,01
+2500.0,5.0,5.0,Romell Real Estate Pvt Ltd,Furnished,Churi Wadi,2019-11-23,125000.0,Apartment,Agent,2019,11
+2120.0,5.0,5.0,Runwal Developers,Semi-Furnished,Ghatkopar West,2019-11-03,125100.0,Apartment,Agent,2019,11
+2270.0,5.0,5.0,Runwal Developers,Semi-Furnished,Ghatkopar West,2019-12-17,125000.0,Apartment,Agent,2019,12
+2268.0,5.0,5.0,Runwal Developers,Semi-Furnished,Ghatkopar West,2019-12-11,125000.0,Apartment,Agent,2019,12
+2240.0,5.0,5.0,Runwal Developers,Semi-Furnished,Ghatkopar West,2019-11-27,124000.0,Apartment,Agent,2019,11
+2245.0,5.0,5.0,Runwal Developers,Semi-Furnished,Ghatkopar West,2019-12-06,124000.0,Apartment,Agent,2019,12
+2240.0,5.0,5.0,Runwal Developers,Semi-Furnished,Ghatkopar West,2019-11-29,123000.0,Apartment,Agent,2019,11
+2225.0,5.0,5.0,Runwal Developers,Semi-Furnished,Ghatkopar West,2019-11-22,125000.0,Apartment,Agent,2019,11
+2250.0,5.0,5.0,Runwal Developers,Semi-Furnished,Ghatkopar West,2019-12-08,123000.0,Apartment,Agent,2019,12
+2210.0,5.0,5.0,Runwal Developers,Semi-Furnished,Ghatkopar West,2019-11-14,125800.0,Apartment,Agent,2019,11
+2200.0,5.0,5.0,Runwal Developers,Semi-Furnished,Ghatkopar West,2019-11-20,124000.0,Apartment,Agent,2019,11
+2500.0,4.0,5.0,Kalpataru Limited,Furnished,JVLR-Jogeshwari Vikhroli Link Road,2020-01-14,150000.0,Apartment,Agent,2020,01
+3000.0,6.0,5.0,Shiv Shakti Group,Unfurnished,Andheri West,2020-01-14,150000.0,Apartment,Agent,2020,01
+2815.0,5.0,5.0,The Wadhwa Group,Furnished,Goregaon West,2020-01-04,150000.0,Apartment,Agent,2020,01
+2980.0,5.0,5.0,Rustomjee,Furnished,Goregaon West,2020-01-13,151000.0,Apartment,Agent,2020,01
+2200.0,3.0,5.0,Keshav Vitthal Sonawane,Semi-Furnished,Kurla West,2020-01-13,130000.0,Apartment,Agent,2020,01
+2950.0,4.0,5.0,Oberoi Realty Limited,Semi-Furnished,Yeshodham,2020-01-12,150000.0,Apartment,Agent,2020,01
+2754.0,4.0,5.0,Oberoi Realty Limited,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,2020-01-14,150000.0,Apartment,Agent,2020,01
+2250.0,4.0,5.0,The Advantage Raheja,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,2020-01-07,130000.0,Apartment,Agent,2020,01
+3200.0,5.0,5.0,Shiv Shakti Group,Unfurnished,Andheri West,2019-12-20,150000.0,Apartment,Agent,2019,12
+3592.0,5.0,5.0,Raheja Universal Pvt Ltd.,Furnished,"Thakur Village, Kandivali East",2019-11-23,135000.0,Apartment,Agent,2019,11
+1900.0,4.0,5.0,Samarth Development Corporation,Furnished,Andheri West,2019-11-21,150000.0,Apartment,Agent,2019,11
+2200.0,5.0,5.0,Aashish Promotors & Builders,Furnished,Goregaon West,2019-12-27,150000.0,Apartment,Owner,2019,12
+2300.0,4.0,5.0,Omkar Realtors and Developers Pvt. Ltd.,Semi-Furnished,Malad East,2019-12-16,150000.0,Apartment,Owner,2019,12
+2754.0,4.0,5.0,Oberoi Realty Limited,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,2020-01-08,150000.0,Apartment,Agent,2020,01
+2950.0,4.0,5.0,Oberoi Realty Limited,Semi-Furnished,Andheri East,2019-12-04,143000.0,Apartment,Agent,2019,12
+2754.0,4.0,5.0,Oberoi Realty Limited,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,2019-12-15,150000.0,Apartment,Agent,2019,12
+2754.0,4.0,5.0,Oberoi Realty Limited,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,2019-12-19,150000.0,Apartment,Agent,2019,12
+2754.0,4.0,5.0,Oberoi Realty Limited,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,2019-12-12,150000.0,Apartment,Agent,2019,12
+2754.0,4.0,5.0,Oberoi Realty Limited,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,2019-12-28,150000.0,Apartment,Agent,2019,12
+2754.0,4.0,5.0,Oberoi Realty Limited,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,2019-12-12,150000.0,Apartment,Agent,2019,12
 712.0,2.0,1.0,HDIL,Semi-Furnished,Kurla West,2020-01-13,28000.0,Apartment,Agent,2020,01
 600.0,2.0,1.0,Lok Housing and Constructions Ltd.,Unfurnished,Chandivali,2020-01-13,28000.0,Apartment,Agent,2020,01
 650.0,2.0,1.0,Mayuresh Group,Unfurnished,Bhandup West,2020-01-13,27000.0,Apartment,Agent,2020,01
@@ -3328,6 +3675,12 @@ area,bathroom_num,bedroom_num,dev_name,furnishing,locality,post_date,price,type,
 575.0,2.0,1.0,Cooperative Group Housing Society,Semi-Furnished,Malad East,2019-12-02,100000.0,Apartment,Owner,2019,12
 625.0,2.0,1.0,Makers Developers,Furnished,Cuffe Parade,2020-01-12,100000.0,Apartment,Agent,2020,01
 650.0,1.0,1.0,Kamala Group,Semi-Furnished,Bandra West,2019-12-03,90000.0,Apartment,Agent,2019,12
+800.0,1.0,1.0,Makers Developers,Furnished,Cuffe Parade,2020-01-12,110000.0,Apartment,Agent,2020,01
+750.0,2.0,1.0,Makers Developers,Furnished,Cuffe Parade,2019-12-12,125000.0,Apartment,Agent,2019,12
+650.0,1.0,1.0,Makers Developers,Unfurnished,Cuffe Parade,2019-12-05,125000.0,Apartment,Agent,2019,12
+1050.0,2.0,1.0,Krypton Developer,Furnished,Prabhadevi,2019-12-15,120000.0,Apartment,Agent,2019,12
+750.0,1.0,1.0,Makers Developers,Furnished,World Trade Centre,2019-12-09,125000.0,Apartment,Agent,2019,12
+550.0,1.0,1.0,DOSTI REALTY,Unfurnished,Wadala,2019-11-29,142000.0,Apartment,Agent,2019,11
 545.0,1.0,1.0,Reliable HomeMakers,Unfurnished,Vasai East,2020-01-12,4000.0,Multistorey Apartment,Owner,2020,01
 533.0,2.0,2.0,Neptune Group,Unfurnished,Kalyan,2019-11-25,5000.0,Apartment,Owner,2019,11
 525.0,2.0,2.0,Neptune Group,Unfurnished,Kalyan,2019-12-29,5000.0,Apartment,Owner,2019,12
@@ -9952,48 +10305,378 @@ area,bathroom_num,bedroom_num,dev_name,furnishing,locality,post_date,price,type,
 1250.0,2.0,2.0,Hilla Builder Pvt. Ltd.,Furnished,Bandra West,2019-12-07,85000.0,Apartment,Agent,2019,12
 1100.0,2.0,2.0,Hilla Builder Pvt. Ltd.,Furnished,Bandra West,2019-11-21,80000.0,Apartment,Agent,2019,11
 1225.0,2.0,2.0,Hilla Builder Pvt. Ltd.,Furnished,Bandra West,2019-11-14,90000.0,Apartment,Agent,2019,11
+1366.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli Sea Face,2020-01-12,120000.0,Apartment,Agent,2020,01
 1200.0,2.0,2.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-14,105000.0,Apartment,Agent,2020,01
+1218.0,2.0,2.0,Sheth Creators,Semi-Furnished,Bandra West,2019-12-31,120000.0,Apartment,Agent,2019,12
 1300.0,2.0,2.0,Aristo Realty Developers Limited,Semi-Furnished,Prabhadevi,2020-01-07,105000.0,Apartment,Agent,2020,01
+1295.0,2.0,2.0,Oberoi Realty Limited,Furnished,Andheri West,2020-01-14,120000.0,Apartment,Agent,2020,01
 1446.0,2.0,2.0,Lodha Group,Unfurnished,Worli Sea Face,2020-01-13,105000.0,Apartment,Agent,2020,01
+1250.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,120000.0,Apartment,Agent,2020,01
+1100.0,2.0,2.0,Hilla Builder Pvt. Ltd.,Semi-Furnished,Bandra West,2020-01-13,125000.0,Apartment,Agent,2020,01
+1218.0,2.0,2.0,Sheth Creators,Semi-Furnished,Bandra West,2019-12-16,120000.0,Apartment,Agent,2019,12
+1200.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,120000.0,Apartment,Agent,2020,01
+1368.0,2.0,2.0,Lodha Group,Unfurnished,Worli,2020-01-14,120000.0,Apartment,Agent,2020,01
 1389.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,109000.0,Apartment,Agent,2020,01
+1150.0,2.0,2.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-13,125000.0,Apartment,Agent,2020,01
+1150.0,2.0,2.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Mahim,2019-12-07,115000.0,Apartment,Owner,2019,12
+1645.0,2.0,2.0,Lodha Group,Semi-Furnished,Parel,2020-01-12,120000.0,Apartment,Agent,2020,01
 1262.0,2.0,2.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-14,105000.0,Apartment,Agent,2020,01
 1550.0,2.0,2.0,L&T Realty,Semi-Furnished,Bhoiwada,2020-01-12,105000.0,Apartment,Agent,2020,01
+1200.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2020-01-12,110000.0,Apartment,Agent,2020,01
+1050.0,2.0,2.0,Supreme Universal,Semi-Furnished,Bandra West,2020-01-14,120000.0,Apartment,Agent,2020,01
+1035.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,114000.0,Apartment,Agent,2020,01
+1050.0,2.0,2.0,Kanakia Spaces Realty Pvt. Ltd.,Furnished,Bandra Kurla Complex,2020-01-09,115000.0,Apartment,Agent,2020,01
+1150.0,2.0,2.0,Lodha Group,Furnished,Worli,2020-01-09,110000.0,Apartment,Agent,2020,01
+850.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2020-01-12,120000.0,Apartment,Agent,2020,01
+1000.0,2.0,2.0,Hiranandani Group,Furnished,Powai,2020-01-11,115000.0,Apartment,Agent,2020,01
+1000.0,2.0,2.0,Lokhandwala Infrastructure,Unfurnished,Worli,2020-01-09,110000.0,Apartment,Agent,2020,01
+1250.0,2.0,2.0,Millennium Group,Semi-Furnished,Lower Parel,2020-01-09,120000.0,Apartment,Agent,2020,01
+1332.0,2.0,2.0,Lodha Group,Semi-Furnished,Mahalakshmi,2020-01-09,125000.0,Apartment,Agent,2020,01
+950.0,2.0,2.0,Millennium Group,Furnished,Lower Parel,2020-01-06,125000.0,Apartment,Agent,2020,01
+1450.0,2.0,2.0,Neev Infrastructure,Semi-Furnished,Prabhadevi,2020-01-11,120000.0,Apartment,Agent,2020,01
+1255.0,2.0,2.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-02,125000.0,Apartment,Agent,2020,01
+1388.0,2.0,2.0,Marathon Realty Pvt Ltd,Semi-Furnished,Lower Parel,2020-01-14,125000.0,Apartment,Agent,2020,01
+1300.0,2.0,2.0,Lodha Group,Semi-Furnished,Late Sadashivrao Shirke Chowk,2019-12-11,110000.0,Apartment,Agent,2019,12
+1400.0,2.0,2.0,Peninsula Land Limited,Semi-Furnished,Parel,2020-01-13,120002.0,Apartment,Agent,2020,01
+1250.0,2.0,2.0,Lodha Group,Furnished,Mahalakshmi,2020-01-12,125000.0,Apartment,Agent,2020,01
+1600.0,2.0,2.0,Lodha Group,Unfurnished,Worli,2019-12-12,110000.0,Apartment,Agent,2019,12
+1280.0,2.0,2.0,Mayfair Housing,Semi-Furnished,Bandra West,2020-01-14,110000.0,Apartment,Agent,2020,01
+1125.0,2.0,2.0,Peninsula Land Limited,Semi-Furnished,Parel,2020-01-10,110000.0,Apartment,Agent,2020,01
+1125.0,2.0,2.0,Peninsula Land,Semi-Furnished,Parel,2020-01-13,120000.0,Apartment,Agent,2020,01
+1332.0,2.0,2.0,Lodha Group,Unfurnished,Mahalakshmi,2019-11-15,110000.0,Apartment,Agent,2019,11
 1000.0,2.0,2.0,Darvesh Group,Furnished,Old Khar,2020-01-07,105000.0,Apartment,Agent,2020,01
+1000.0,2.0,2.0,Millennium Group,Furnished,Lower Parel,2019-12-12,120000.0,Apartment,Agent,2019,12
 1280.0,2.0,2.0,Lokhandwala Infrastructure,Furnished,Worli,2019-12-14,105000.0,Apartment,Agent,2019,12
+1050.0,2.0,2.0,Kanakia Spaces Realty Pvt. Ltd.,Furnished,Bandra Kurla Complex,2019-12-12,121000.0,Apartment,Agent,2019,12
+1430.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-26,110000.0,Apartment,Agent,2019,12
+850.0,2.0,2.0,Wellingdon Groups,Unfurnished,Tardeo,2019-12-24,110000.0,Apartment,Agent,2019,12
+1350.0,2.0,2.0,Peninsula Land Limited,Furnished,Parel,2019-12-26,125000.0,Apartment,Agent,2019,12
+1361.0,2.0,2.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2019-12-02,125000.0,Apartment,Agent,2019,12
+1280.0,2.0,2.0,Lodha Group,Semi-Furnished,Mahalakshmi,2020-01-09,115000.0,Apartment,Agent,2020,01
+1295.0,2.0,2.0,Oberoi Realty Limited,Semi-Furnished,Andheri West,2019-12-11,110000.0,Apartment,Agent,2019,12
+1250.0,2.0,2.0,Kanakia Spaces Realty Pvt. Ltd.,Unfurnished,Bandra Kurla Complex,2019-12-10,110000.0,Apartment,Agent,2019,12
+1950.0,2.0,2.0,Hubtown Limited,Furnished,Andheri East,2019-12-29,110000.0,Apartment,Agent,2019,12
+1250.0,2.0,2.0,Peninsula Land Limited,Semi-Furnished,Lal Baug,2020-01-03,125000.0,Apartment,Agent,2020,01
+1090.0,2.0,2.0,Peninsula Land,Furnished,Parel,2019-12-30,120000.0,Apartment,Agent,2019,12
+1400.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-18,120000.0,Apartment,Agent,2019,12
+1338.0,3.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-19,110000.0,Apartment,Agent,2019,12
+1200.0,2.0,2.0,Millennium Group,Semi-Furnished,Lower Parel,2019-11-27,120000.0,Apartment,Agent,2019,11
+1150.0,2.0,2.0,Supreme Universal,Unfurnished,Khar West,2019-11-25,125000.0,Apartment,Agent,2019,11
+1750.0,2.0,2.0,Aristo Realty Developers Limited,Unfurnished,Prabhadevi,2019-12-11,110000.0,Apartment,Agent,2019,12
 1350.0,2.0,2.0,Lodha Group,Unfurnished,Worli,2020-01-13,100500.0,Apartment,Agent,2020,01
+1350.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-29,110000.0,Apartment,Agent,2019,12
+1332.0,2.0,2.0,Lodha Group,Semi-Furnished,Mahalakshmi,2019-12-25,125000.0,Apartment,Agent,2019,12
+1200.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-30,110000.0,Apartment,Agent,2019,12
+11.0,2.0,2.0,Hiranandani Group,Furnished,Powai,2020-01-12,125000.0,Apartment,Agent,2020,01
+1500.0,2.0,2.0,Lodha Group,Unfurnished,Worli,2019-11-14,115000.0,Apartment,Owner,2019,11
 895.0,2.0,2.0,L&T Realty,Furnished,Parel,2019-12-14,105000.0,Apartment,Owner,2019,12
 1850.0,2.0,2.0,The Wadhwa Group,Semi-Furnished,Ghatkopar West,2019-12-13,105000.0,Apartment,Owner,2019,12
+625.0,2.0,2.0,Makers Developers,Furnished,Cuffe Parade,2019-11-18,120000.0,Apartment,Owner,2019,11
+1400.0,2.0,2.0,Adani Realty,Semi-Furnished,Andheri West,2019-11-20,110000.0,Apartment,Owner,2019,11
+1674.0,3.0,2.0,Neev Infrastructure,Furnished,Prabhadevi,2019-12-10,120000.0,Apartment,Owner,2019,12
+1000.0,3.0,2.0,Chandra Builders and Developers,Unfurnished,Khar West,2019-12-19,120000.0,Apartment,Owner,2019,12
+1732.0,2.0,2.0,Aristo Realty Developers Limited,Semi-Furnished,Prabhadevi,2019-12-11,110000.0,Apartment,Owner,2019,12
+1800.0,2.0,2.0,Peninsula Land Limited,Semi-Furnished,Bhoiwada,2020-01-13,120000.0,Apartment,Agent,2020,01
 1350.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,105000.0,Apartment,Agent,2020,01
+1175.0,2.0,2.0,Peninsula Land Limited,Semi-Furnished,Parel,2020-01-13,120000.0,Apartment,Agent,2020,01
+1200.0,2.0,2.0,Lodha Group,Furnished,Mahalakshmi,2020-01-12,125000.0,Apartment,Agent,2020,01
+1218.0,2.0,2.0,Sheth Creators,Semi-Furnished,Bandra West,2019-12-14,120000.0,Apartment,Agent,2019,12
 1320.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2020-01-03,105000.0,Apartment,Agent,2020,01
+1295.0,2.0,2.0,Oberoi Realty Limited,Furnished,Andheri West,2019-12-03,120000.0,Apartment,Agent,2019,12
+1475.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli Hill,2020-01-13,110000.0,Apartment,Agent,2020,01
+1250.0,2.0,2.0,Peninsula Land,Semi-Furnished,Parel,2020-01-01,115000.0,Apartment,Agent,2020,01
+1000.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,110000.0,Apartment,Agent,2020,01
+1150.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,120000.0,Apartment,Agent,2020,01
+1150.0,3.0,2.0,Lodha Group,Unfurnished,Worli,2019-12-26,120000.0,Apartment,Agent,2019,12
+1050.0,2.0,2.0,Kanakia Spaces Realty Pvt. Ltd.,Furnished,Bandra Kurla Complex,2020-01-12,120000.0,Apartment,Agent,2020,01
 1250.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,106000.0,Apartment,Agent,2020,01
 1300.0,2.0,2.0,Aristo Realty Developers Limited,Semi-Furnished,Prabhadevi,2020-01-13,105000.0,Apartment,Agent,2020,01
+1250.0,2.0,2.0,Hiranandani Group,Furnished,Powai,2020-01-14,120000.0,Apartment,Agent,2020,01
 1150.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2020-01-12,106000.0,Apartment,Agent,2020,01
+1402.0,2.0,2.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-14,115000.0,Apartment,Agent,2020,01
+1386.0,2.0,2.0,Lodha Group,Unfurnished,Worli,2019-12-28,110000.0,Apartment,Agent,2019,12
+986.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,114000.0,Apartment,Agent,2020,01
+950.0,2.0,2.0,Kanakia Spaces Realty Pvt. Ltd.,Furnished,Bandra Kurla Complex,2020-01-09,120000.0,Apartment,Agent,2020,01
+1000.0,2.0,2.0,Hiranandani Group,Furnished,Central Area,2020-01-07,115000.0,Apartment,Agent,2020,01
 1350.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2020-01-10,102000.0,Apartment,Agent,2020,01
+1320.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-16,110000.0,Apartment,Agent,2019,12
+1251.0,2.0,2.0,Hiranandani Group,Furnished,Powai,2020-01-02,119000.0,Apartment,Agent,2020,01
+1000.0,2.0,2.0,Supreme Universal,Semi-Furnished,Khar West,2020-01-14,120000.0,Apartment,Agent,2020,01
+1332.0,2.0,2.0,Lodha Group,Semi-Furnished,Mahalakshmi,2019-12-18,115000.0,Apartment,Agent,2019,12
 1150.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2020-01-12,105000.0,Apartment,Agent,2020,01
+1850.0,3.0,2.0,Orchid Builders,Furnished,Santacruz West,2019-12-06,125000.0,Apartment,Agent,2019,12
+1125.0,2.0,2.0,Peninsula Land Limited,Semi-Furnished,Parel,2020-01-13,125000.0,Apartment,Agent,2020,01
 1050.0,2.0,2.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-05,105000.0,Apartment,Agent,2020,01
+1090.0,1.0,2.0,Peninsula Land Limited,Furnished,Parel,2019-12-24,125000.0,Apartment,Agent,2019,12
+1361.0,2.0,2.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2019-11-16,125000.0,Apartment,Agent,2019,11
+1200.0,2.0,2.0,Darsshan Properties,Semi-Furnished,Nana Chowk Grant Road,2019-12-25,125000.0,Apartment,Agent,2019,12
+1500.0,2.0,2.0,JP Developers,Semi-Furnished,Matunga East,2019-12-13,120000.0,Apartment,Agent,2019,12
+1200.0,2.0,2.0,Millennium Group,Semi-Furnished,Lower Parel,2019-11-27,110000.0,Apartment,Agent,2019,11
+1250.0,2.0,2.0,Supreme Universal,Unfurnished,Khar West,2019-11-25,120000.0,Apartment,Agent,2019,11
 1350.0,3.0,2.0,Lodha Group,Unfurnished,Worli,2020-01-10,104000.0,Apartment,Agent,2020,01
+1220.0,2.0,2.0,Lokhandwala Infrastructure,Furnished,Worli,2019-12-29,110000.0,Apartment,Agent,2019,12
+1200.0,2.0,2.0,Millennium Group,Semi-Furnished,Lower Parel,2019-12-25,110000.0,Apartment,Agent,2019,12
+1200.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-16,110000.0,Apartment,Agent,2019,12
+1760.0,2.0,2.0,Aristo Realty Developers Limited,Unfurnished,Kowli Chowk,2020-01-13,112000.0,Apartment,Agent,2020,01
+1368.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-12,110000.0,Apartment,Agent,2019,12
+1300.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-18,120000.0,Apartment,Agent,2019,12
+1250.0,2.0,2.0,Peninsula Land,Furnished,Parel,2020-01-01,120000.0,Apartment,Agent,2020,01
+1200.0,2.0,2.0,Sheetal Builders and Developers,Semi-Furnished,Bandra West,2020-01-13,110000.0,Apartment,Agent,2020,01
+1250.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,120000.0,Apartment,Agent,2020,01
+1050.0,2.0,2.0,Kanakia Spaces Realty Pvt. Ltd.,Furnished,Bandra Kurla Complex,2020-01-12,122000.0,Apartment,Agent,2020,01
 1130.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,108000.0,Apartment,Agent,2020,01
 997.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,105000.0,Apartment,Agent,2020,01
+950.0,2.0,2.0,Kanakia Spaces Realty Pvt. Ltd.,Furnished,Bandra Kurla Complex,2020-01-09,110000.0,Apartment,Agent,2020,01
+1000.0,2.0,2.0,Lodha Group,Unfurnished,Worli,2019-12-19,110000.0,Apartment,Agent,2019,12
+1000.0,2.0,2.0,Hiranandani Group,Furnished,Central Area,2019-12-14,110000.0,Apartment,Agent,2019,12
+1320.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-16,120000.0,Apartment,Agent,2019,12
+1368.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-31,115000.0,Apartment,Agent,2019,12
 1368.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2020-01-10,109000.0,Apartment,Agent,2020,01
+1350.0,2.0,2.0,Marathon Realty Pvt Ltd,Semi-Furnished,Lower Parel,2019-12-21,125000.0,Apartment,Agent,2019,12
+1045.0,2.0,2.0,Peninsula Land,Unfurnished,Parel,2020-01-13,110000.0,Apartment,Agent,2020,01
+1050.0,2.0,2.0,Millennium Group,Furnished,Lower Parel,2020-01-02,110000.0,Apartment,Agent,2020,01
+1000.0,2.0,2.0,Chandra Builders and Developers,Furnished,Danda,2019-11-28,120000.0,Apartment,Agent,2019,11
+1350.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-05,110000.0,Apartment,Agent,2019,12
 1650.0,3.0,2.0,Redstone Group,Semi-Furnished,Mazgaon,2019-12-11,100000.0,Apartment,Agent,2019,12
+1200.0,2.0,2.0,Millennium Group,Semi-Furnished,Lower Parel,2019-11-28,110000.0,Apartment,Agent,2019,11
 1350.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-16,105000.0,Apartment,Agent,2019,12
+1200.0,2.0,2.0,Lodha Group,Unfurnished,Worli,2019-12-18,110000.0,Apartment,Agent,2019,12
 1200.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2020-01-01,105000.0,Apartment,Agent,2020,01
+1125.0,2.0,2.0,Peninsula Land Limited,Semi-Furnished,Parel,2020-01-13,115000.0,Apartment,Agent,2020,01
+1674.0,3.0,2.0,Neev Infrastructure,Furnished,Prabhadevi,2020-01-14,120000.0,Apartment,Agent,2020,01
+1200.0,2.0,2.0,Kanakia Spaces Realty Pvt. Ltd.,Furnished,Bandra Kurla Complex,2020-01-12,120000.0,Apartment,Agent,2020,01
+1150.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,120000.0,Apartment,Agent,2020,01
+1000.0,2.0,2.0,Hiranandani Group,Furnished,Powai,2019-12-24,115000.0,Apartment,Agent,2019,12
+1000.0,2.0,2.0,Cooperative Group Housing Society,Semi-Furnished,Prabhadevi,2019-12-15,125000.0,Apartment,Agent,2019,12
+1090.0,2.0,2.0,Peninsula Land Limited,Furnished,Lal Baug,2020-01-03,110000.0,Apartment,Agent,2020,01
 1157.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-11-24,100000.0,Apartment,Agent,2019,11
+1375.0,3.0,2.0,Millennium Group,Furnished,Lower Parel,2020-01-08,115000.0,Apartment,Agent,2020,01
+1350.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-16,120000.0,Apartment,Agent,2019,12
+1820.0,2.0,2.0,Redstone Group,Unfurnished,Mazgaon,2020-01-12,120000.0,Apartment,Agent,2020,01
 1000.0,2.0,2.0,Siddhivinayak Constructions,Semi-Furnished,Babasaheb Worlikar Chowk,2020-01-03,105000.0,Apartment,Agent,2020,01
+1368.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-14,120000.0,Apartment,Agent,2019,12
+1200.0,2.0,2.0,Aristo Realty Developers Limited,Semi-Furnished,Prabhadevi,2019-12-06,120000.0,Apartment,Agent,2019,12
+1250.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-11-23,110000.0,Apartment,Agent,2019,11
+1125.0,2.0,2.0,Peninsula Land Limited,Semi-Furnished,Parel,2019-12-01,120000.0,Apartment,Agent,2019,12
+1230.0,2.0,2.0,Millennium Group,Semi-Furnished,Lower Parel,2020-01-06,120000.0,Apartment,Agent,2020,01
+1450.0,2.0,2.0,Mittal Builders,Furnished,JVPD Scheme,2019-11-14,115000.0,Apartment,Agent,2019,11
+1350.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-11-21,110000.0,Apartment,Agent,2019,11
+1500.0,2.0,2.0,Peninsula Land,Semi-Furnished,Parel,2019-12-05,120000.0,Apartment,Agent,2019,12
+1500.0,2.0,2.0,Aristo Realty Developers Limited,Semi-Furnished,Prabhadevi,2020-01-06,120000.0,Apartment,Agent,2020,01
+1250.0,2.0,2.0,Peninsula Land Limited,Semi-Furnished,Lal Baug,2019-12-04,125000.0,Apartment,Agent,2019,12
+1820.0,3.0,2.0,Redstone Group,Semi-Furnished,Mazgaon,2019-12-28,125000.0,Apartment,Agent,2019,12
+1150.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-11-25,120000.0,Apartment,Agent,2019,11
+1350.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-16,110000.0,Apartment,Agent,2019,12
+1200.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-24,120000.0,Apartment,Agent,2019,12
+1250.0,2.0,2.0,Peninsula Land,Semi-Furnished,Parel,2020-01-01,110000.0,Apartment,Agent,2020,01
+1020.0,2.0,2.0,Peninsula Land,Semi-Furnished,Parel,2020-01-12,125000.0,Apartment,Agent,2020,01
+1050.0,2.0,2.0,Kanakia Spaces Realty Pvt. Ltd.,Furnished,Bandra Kurla Complex,2020-01-12,125000.0,Apartment,Agent,2020,01
+1000.0,2.0,2.0,Hiranandani Group,Furnished,Powai,2019-12-07,110000.0,Apartment,Agent,2019,12
+1290.0,2.0,2.0,Lodha Group,Furnished,Mahalakshmi,2019-12-20,125000.0,Apartment,Agent,2019,12
+1413.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-01,125000.0,Apartment,Agent,2019,12
+1325.0,2.0,2.0,Aristo Realty Developers Limited,Semi-Furnished,Prabhadevi,2020-01-08,115000.0,Apartment,Agent,2020,01
+1287.0,2.0,2.0,Lodha Group,Semi-Furnished,Mahalakshmi,2019-12-21,115000.0,Apartment,Agent,2019,12
+1250.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-11-25,110000.0,Apartment,Agent,2019,11
+1320.0,2.0,2.0,Lodha Group,Unfurnished,Worli,2019-12-28,115000.0,Apartment,Agent,2019,12
+1350.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-11-16,110000.0,Apartment,Agent,2019,11
+1200.0,2.0,2.0,Siddhivinayak Constructions,Semi-Furnished,Prabhadevi,2020-01-06,110000.0,Apartment,Agent,2020,01
+1150.0,2.0,2.0,Lodha Group,Semi-Furnished,Mahalakshmi,2019-11-27,122000.0,Apartment,Agent,2019,11
+1820.0,3.0,2.0,Redstone Group,Unfurnished,Mazgaon,2019-12-28,110000.0,Apartment,Agent,2019,12
+1150.0,2.0,2.0,Lodha Group,Unfurnished,Worli,2019-12-05,120000.0,Apartment,Agent,2019,12
+850.0,2.0,2.0,Hilla Builder Pvt. Ltd.,Furnished,Bandra West,2019-12-30,120000.0,Apartment,Agent,2019,12
+1350.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-07,110000.0,Apartment,Agent,2019,12
+1313.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-11-28,125000.0,Apartment,Agent,2019,11
+1000.0,2.0,2.0,Hiranandani Group,Furnished,Central Area,2019-12-07,110000.0,Apartment,Agent,2019,12
+1335.0,2.0,2.0,Lodha Group,Semi-Furnished,Mahalakshmi,2019-12-11,125000.0,Apartment,Agent,2019,12
+1125.0,2.0,2.0,Peninsula Land Limited,Semi-Furnished,Parel,2020-01-08,110000.0,Apartment,Agent,2020,01
+1650.0,3.0,2.0,Redstone Group,Semi-Furnished,Mazgaon,2020-01-12,110000.0,Apartment,Agent,2020,01
+1388.0,2.0,2.0,Marathon Realty Pvt Ltd,Furnished,Lower Parel,2019-12-19,125000.0,Apartment,Agent,2019,12
 906.0,2.0,2.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2019-12-29,100000.0,Apartment,Agent,2019,12
+1050.0,2.0,2.0,Dotom Realty,Unfurnished,Khar West,2020-01-12,110000.0,Apartment,Agent,2020,01
 1368.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-23,100000.0,Apartment,Agent,2019,12
+1820.0,3.0,2.0,Redstone Group,Semi-Furnished,Mazgaon,2019-12-28,120000.0,Apartment,Agent,2019,12
+1300.0,2.0,2.0,Aristo Realty Developers Limited,Semi-Furnished,Prabhadevi,2019-11-20,110000.0,Apartment,Agent,2019,11
 1200.0,2.0,2.0,Lodha Group,Unfurnished,Worli,2019-12-31,105000.0,Apartment,Agent,2019,12
+1250.0,2.0,2.0,Ariisto Realtors,Semi-Furnished,Santacruz West,2020-01-02,115000.0,Apartment,Agent,2020,01
 1100.0,2.0,2.0,Millennium Group,Semi-Furnished,Lower Parel,2019-12-13,105000.0,Apartment,Agent,2019,12
+1350.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-04,120000.0,Apartment,Agent,2019,12
+1650.0,3.0,2.0,Redstone Group,Unfurnished,Mazgaon,2019-12-05,125000.0,Apartment,Agent,2019,12
+1368.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-04,111000.0,Apartment,Agent,2019,12
+1157.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2020-01-12,110000.0,Apartment,Agent,2020,01
+1040.0,2.0,2.0,Peninsula Land Limited,Semi-Furnished,Parel,2019-12-09,120000.0,Apartment,Agent,2019,12
+1467.0,2.0,2.0,Lodha Group,Furnished,Mahalakshmi,2019-12-23,125000.0,Apartment,Agent,2019,12
+1413.0,2.0,2.0,Lodha Group,Unfurnished,Worli,2019-11-19,125000.0,Apartment,Agent,2019,11
 1200.0,2.0,2.0,Lodha Group,Unfurnished,Worli,2019-12-31,105000.0,Apartment,Agent,2019,12
 1000.0,2.0,2.0,Dotom Realty,Unfurnished,Khar West,2020-01-02,105000.0,Apartment,Agent,2020,01
+1000.0,2.0,2.0,Hiranandani Group,Furnished,Powai,2019-11-22,115000.0,Apartment,Agent,2019,11
+1300.0,2.0,2.0,Aristo Realty Developers Limited,Semi-Furnished,Prabhadevi,2019-12-11,115000.0,Apartment,Agent,2019,12
+1350.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-04,120000.0,Apartment,Agent,2019,12
+1368.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-11-15,110000.0,Apartment,Agent,2019,11
 1368.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-16,100000.0,Apartment,Agent,2019,12
+1150.0,2.0,2.0,Lodha Group,Semi-Furnished,Mahalakshmi,2019-11-30,122000.0,Apartment,Agent,2019,11
+1650.0,3.0,2.0,Redstone Group,Semi-Furnished,Mazgaon,2019-12-28,120000.0,Apartment,Agent,2019,12
+1332.0,2.0,2.0,Lodha Group,Semi-Furnished,Mahalaxmi Race Course,2019-11-22,120000.0,Apartment,Agent,2019,11
+1200.0,2.0,2.0,Lodha Group,Unfurnished,Worli,2019-12-31,120000.0,Apartment,Agent,2019,12
+1000.0,2.0,2.0,Hiranandani Group,Furnished,Powai,2019-11-22,110000.0,Apartment,Agent,2019,11
+1200.0,2.0,2.0,Rizvi Builders,Furnished,Bandra West,2019-11-14,110000.0,Apartment,Agent,2019,11
+1050.0,2.0,2.0,Peninsula Land Limited,Semi-Furnished,Parel,2019-12-25,120000.0,Apartment,Agent,2019,12
+1350.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-04,120000.0,Apartment,Agent,2019,12
+675.0,2.0,2.0,Makers Developers,Semi-Furnished,Cuffe Parade,2019-11-19,110000.0,Apartment,Agent,2019,11
+1350.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-27,110000.0,Apartment,Agent,2019,12
 1368.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-11-26,100000.0,Apartment,Agent,2019,11
+1650.0,3.0,2.0,Redstone Group,Furnished,Mazgaon,2019-11-14,115000.0,Apartment,Agent,2019,11
+1150.0,2.0,2.0,Lodha Group,Unfurnished,Worli,2019-11-19,115000.0,Apartment,Agent,2019,11
+1200.0,2.0,2.0,Lodha Group,Unfurnished,Worli,2019-12-31,110000.0,Apartment,Agent,2019,12
+1050.0,2.0,2.0,Darvesh Group,Furnished,Khar West,2020-01-05,110000.0,Apartment,Agent,2020,01
+1000.0,2.0,2.0,Hiranandani Group,Furnished,Central Area,2019-11-18,120000.0,Apartment,Agent,2019,11
 1175.0,2.0,2.0,Parasmani Developer,Furnished,Dadar East,2020-01-06,100000.0,Apartment,Agent,2020,01
+1350.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-04,120000.0,Apartment,Agent,2019,12
+1900.0,2.0,2.0,Godrej Properties,Semi-Furnished,Advocate Devarshi N Khuman Chowk,2019-12-16,120000.0,Apartment,Agent,2019,12
+950.0,2.0,2.0,Supreme Universal,Semi-Furnished,Khar West,2020-01-02,110000.0,Apartment,Agent,2020,01
+1000.0,2.0,2.0,Hiranandani Group,Furnished,Central Area,2019-11-19,115000.0,Apartment,Agent,2019,11
+1350.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-04,120000.0,Apartment,Agent,2019,12
 1368.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-08,105000.0,Apartment,Agent,2019,12
+1250.0,2.0,2.0,Lodha Group,Unfurnished,Worli,2019-12-31,110000.0,Apartment,Agent,2019,12
+1175.0,2.0,2.0,Kanakia Spaces Realty Pvt. Ltd.,Furnished,Bandra Kurla Complex,2019-12-17,115000.0,Apartment,Agent,2019,12
+1100.0,2.0,2.0,Rizvi Builders,Furnished,Bandra West,2019-11-26,110000.0,Apartment,Agent,2019,11
+1200.0,3.0,2.0,Neev Infrastructure,Furnished,Prabhadevi,2019-12-13,110000.0,Apartment,Agent,2019,12
+1225.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-14,110000.0,Apartment,Agent,2019,12
+1368.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-11-03,110000.0,Apartment,Agent,2019,11
 1350.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-06,100000.0,Apartment,Agent,2019,12
 1300.0,3.0,2.0,Lodha Group,Semi-Furnished,BPT Colony,2019-12-29,105000.0,Apartment,Agent,2019,12
+1175.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-14,110000.0,Apartment,Agent,2019,12
 1100.0,2.0,2.0,K Raheja Construction,Furnished,Bandra West,2019-12-16,105000.0,Apartment,Agent,2019,12
+1300.0,2.0,2.0,Lokhandwala Infrastructure,Furnished,Worli,2019-12-06,120000.0,Apartment,Agent,2019,12
 1375.0,3.0,2.0,Lodha Group,Unfurnished,Worli,2019-11-14,100000.0,Apartment,Agent,2019,11
+1150.0,2.0,2.0,Sethna Constructions,Furnished,Santacruz West,2019-12-10,120000.0,Apartment,Agent,2019,12
+1150.0,2.0,2.0,The Wadhwa Group,Semi-Furnished,Bandra West,2019-12-10,110000.0,Apartment,Agent,2019,12
+1100.0,2.0,2.0,Lok Housing and Constructions Ltd.,Furnished,Khar West,2019-12-05,120000.0,Apartment,Agent,2019,12
+1100.0,2.0,2.0,Supreme Universal,Furnished,Khar West,2019-11-19,120000.0,Apartment,Agent,2019,11
+1151.0,2.0,2.0,Rizvi Builders,Furnished,Bandra West,2019-11-17,110000.0,Apartment,Agent,2019,11
+1050.0,2.0,2.0,Ahuja Constructions,Furnished,Bandra West,2019-11-19,110000.0,Apartment,Agent,2019,11
+1157.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli Sea Face,2020-01-12,130000.0,Apartment,Agent,2020,01
+1218.0,2.0,2.0,Sheth Creators,Semi-Furnished,Bandra West,2020-01-12,130000.0,Apartment,Agent,2020,01
+1335.0,2.0,2.0,Peninsula Land Limited,Furnished,Parel,2019-11-18,150000.0,Apartment,Agent,2019,11
+1218.0,2.0,2.0,Sheth Creators,Semi-Furnished,Bandra West,2020-01-14,130000.0,Apartment,Agent,2020,01
+1332.0,2.0,2.0,Lodha Group,Semi-Furnished,Mahalakshmi,2020-01-13,150000.0,Apartment,Agent,2020,01
+1250.0,2.0,2.0,Lodha Group,Furnished,Parel,2019-12-12,130000.0,Apartment,Agent,2019,12
+1300.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,130000.0,Apartment,Agent,2020,01
+1351.0,2.0,2.0,Godrej Properties,Semi-Furnished,Mahalakshmi,2020-01-09,140000.0,Apartment,Owner,2020,01
+1200.0,2.0,2.0,Mittal Builders,Furnished,Juhu,2020-01-13,135000.0,Apartment,Agent,2020,01
+1200.0,3.0,2.0,Hilla Builder Pvt. Ltd.,Unfurnished,Bandra West,2020-01-13,140000.0,Apartment,Agent,2020,01
+1500.0,2.0,2.0,Godrej Properties,Semi-Furnished,Mahalakshmi,2020-01-14,145000.0,Apartment,Agent,2020,01
+1100.0,2.0,2.0,Sheth Developers,Semi-Furnished,Bandra West,2020-01-13,130000.0,Apartment,Agent,2020,01
+1150.0,2.0,2.0,Rizvi Group,Furnished,Kalina,2020-01-13,140000.0,Apartment,Agent,2020,01
+1150.0,2.0,2.0,Raheja Universal Pvt Ltd.,Furnished,Worli,2020-01-14,150000.0,Apartment,Agent,2020,01
+1350.0,2.0,2.0,Godrej Properties,Unfurnished,Mahalakshmi,2020-01-14,140000.0,Apartment,Agent,2020,01
+1800.0,2.0,2.0,Kalpataru Limited,Furnished,Mumbai Central,2020-01-14,150000.0,Apartment,Agent,2020,01
+1405.0,3.0,2.0,Peninsula Land,Semi-Furnished,Parel,2020-01-13,130000.0,Apartment,Agent,2020,01
+1250.0,2.0,2.0,Raheja Universal Pvt Ltd.,Furnished,Worli,2020-01-13,150000.0,Apartment,Agent,2020,01
+1185.0,2.0,2.0,Chaitanya Group,Furnished,Prabhadevi,2020-01-13,150000.0,Apartment,Agent,2020,01
+1050.0,3.0,2.0,Makers Developers,Furnished,Cuffe Parade,2020-01-14,150000.0,Apartment,Agent,2020,01
+1100.0,2.0,2.0,Runwal Developers,Furnished,Veera Desai Road,2020-01-13,130000.0,Apartment,Agent,2020,01
+1090.0,1.0,2.0,Peninsula Land Limited,Semi-Furnished,Parel,2020-01-13,130000.0,Apartment,Agent,2020,01
+986.0,2.0,2.0,Oberoi Realty Limited,Furnished,Andheri West,2020-01-10,150000.0,Apartment,Agent,2020,01
+1350.0,3.0,2.0,Oberoi Realty Limited,Furnished,Lokhandwala Complex,2020-01-14,150000.0,Apartment,Agent,2020,01
+1580.0,2.0,2.0,Peninsula Land,Furnished,Parel,2020-01-14,150000.0,Apartment,Agent,2020,01
+1350.0,2.0,2.0,Peninsula Land,Unfurnished,Parel,2020-01-12,140000.0,Apartment,Agent,2020,01
+1220.0,2.0,2.0,Rizvi Builders,Furnished,Pali Hill,2020-01-10,140000.0,Apartment,Agent,2020,01
+1218.0,2.0,2.0,Sheth Creators,Semi-Furnished,Bandra West,2020-01-13,130001.0,Apartment,Agent,2020,01
+1125.0,2.0,2.0,Peninsula Land Limited,Semi-Furnished,Parel,2020-01-02,150000.0,Apartment,Agent,2020,01
+1450.0,3.0,2.0,Dheeraj Realty,Furnished,Bandra West,2020-01-14,155000.0,Apartment,Agent,2020,01
+1287.0,2.0,2.0,Lodha Group,Semi-Furnished,Mahalaxmi Race Course,2020-01-10,140000.0,Apartment,Agent,2020,01
+1300.0,2.0,2.0,Lodha Group,Furnished,BPT Colony,2020-01-10,150000.0,Apartment,Agent,2020,01
+1400.0,3.0,2.0,Peninsula Land,Semi-Furnished,Parel,2020-01-10,150000.0,Apartment,Agent,2020,01
+1125.0,2.0,2.0,Peninsula Land,Semi-Furnished,Parel,2020-01-08,130000.0,Apartment,Agent,2020,01
+1200.0,2.0,2.0,Raheja Universal Pvt Ltd.,Semi-Furnished,Worli,2019-11-27,150000.0,Apartment,Agent,2019,11
+980.0,2.0,2.0,Hilla Builder Pvt. Ltd.,Semi-Furnished,Bandra West,2019-12-05,150000.0,Apartment,Agent,2019,12
+1250.0,2.0,2.0,Ariisto Realtors,Furnished,Santacruz West,2020-01-07,130000.0,Apartment,Agent,2020,01
+1400.0,2.0,2.0,Lodha Group,Unfurnished,Mahalakshmi,2019-12-19,145000.0,Apartment,Agent,2019,12
+1405.0,3.0,2.0,Peninsula Land Limited,Semi-Furnished,Lal Baug,2019-12-17,150000.0,Apartment,Agent,2019,12
+1310.0,2.0,2.0,Lodha Group,Semi-Furnished,Worli,2019-12-16,140000.0,Apartment,Agent,2019,12
+1344.0,2.0,2.0,Godrej Properties,Semi-Furnished,Mahalakshmi,2019-12-07,130000.0,Apartment,Agent,2019,12
+1200.0,2.0,2.0,Peninsula Land,Furnished,Parel,2019-12-05,135000.0,Apartment,Agent,2019,12
+1650.0,4.0,2.0,Rustomjee,Unfurnished,Bandra Kurla Complex,2019-11-18,155000.0,Apartment,Agent,2019,11
+1400.0,2.0,2.0,TATA Housing Development Company Limited,Semi-Furnished,Prabhadevi,2020-01-06,145000.0,Apartment,Agent,2020,01
+1020.0,3.0,2.0,Cooperative Group Housing Society,Semi-Furnished,Cuffe Parade,2020-01-02,145000.0,Apartment,Agent,2020,01
+1350.0,2.0,2.0,Godrej Properties,Semi-Furnished,Mahalakshmi,2019-11-21,145000.0,Apartment,Agent,2019,11
+1820.0,3.0,2.0,Redstone Group,Unfurnished,Mazgaon,2019-12-28,130000.0,Apartment,Agent,2019,12
+1287.0,2.0,2.0,Lodha Group,Semi-Furnished,Mahalaxmi Race Course,2019-12-12,140000.0,Apartment,Agent,2019,12
+1335.0,2.0,2.0,Peninsula Land Limited,Semi-Furnished,Parel,2019-11-29,150000.0,Apartment,Agent,2019,11
+1400.0,3.0,2.0,Peninsula Land,Unfurnished,Parel,2019-11-22,150000.0,Apartment,Agent,2019,11
+1690.0,3.0,2.0,Lokhandwala Builders,Furnished,Worli,2019-11-15,130000.0,Apartment,Agent,2019,11
+900.0,2.0,2.0,Darvesh Group,Furnished,Khar West,2020-01-06,140000.0,Apartment,Agent,2020,01
+1125.0,2.0,2.0,Peninsula Land,Furnished,Parel,2020-01-10,150000.0,Apartment,Owner,2020,01
+1287.0,2.0,2.0,Lodha Group,Semi-Furnished,Mahalakshmi,2019-12-29,130000.0,Apartment,Agent,2019,12
+1000.0,2.0,2.0,Shree Laxmi Developers,Semi-Furnished,Mazgaon,2019-12-10,150000.0,Apartment,Agent,2019,12
+1680.0,2.0,2.0,Lodha Group,Unfurnished,Mahalaxmi Race Course,2020-01-13,150000.0,Apartment,Agent,2020,01
+1218.0,2.0,2.0,Sheth Creators,Semi-Furnished,Bandra West,2019-12-11,130000.0,Apartment,Agent,2019,12
+1218.0,2.0,2.0,Sheth Creators,Semi-Furnished,Bandra West,2019-11-26,130000.0,Apartment,Agent,2019,11
+1454.0,2.0,2.0,Godrej Properties,Semi-Furnished,Advocate Devarshi N Khuman Chowk,2019-11-22,150000.0,Apartment,Agent,2019,11
+1500.0,2.0,2.0,Aristo Realty Developers Limited,Semi-Furnished,Prabhadevi,2020-01-04,130000.0,Apartment,Agent,2020,01
+1150.0,2.0,2.0,Marathon NextGen Realty Ltd.,Furnished,Lower Parel,2020-01-14,140000.0,Apartment,Agent,2020,01
+1450.0,2.0,2.0,Godrej Properties,Semi-Furnished,Mahalakshmi,2019-12-01,140000.0,Apartment,Agent,2019,12
+1125.0,2.0,2.0,Peninsula Land Limited,Furnished,Parel,2020-01-14,128000.0,Apartment,Agent,2020,01
+1388.0,2.0,2.0,Marathon Realty Pvt Ltd,Semi-Furnished,Lower Parel,2020-01-12,130000.0,Apartment,Agent,2020,01
+1175.0,3.0,2.0,Godrej Properties,Furnished,Mahalakshmi,2020-01-09,140000.0,Apartment,Agent,2020,01
+1300.0,3.0,2.0,Sheth Developers,Semi-Furnished,Bandra West,2019-12-12,130000.0,Apartment,Agent,2019,12
+1350.0,2.0,2.0,Godrej Properties,Semi-Furnished,Mahalakshmi,2020-01-09,130000.0,Apartment,Agent,2020,01
+1150.0,2.0,2.0,Rustomjee,Unfurnished,Khar West,2020-01-09,155000.0,Apartment,Agent,2020,01
+1218.0,2.0,2.0,Sheth Creators,Semi-Furnished,Bandra West,2020-01-12,130000.0,Apartment,Agent,2020,01
+900.0,2.0,2.0,Hilla Builder Pvt. Ltd.,Furnished,Bandra West,2019-12-12,150000.0,Apartment,Agent,2019,12
+1500.0,2.0,2.0,Aristo Realty Developers Limited,Semi-Furnished,Prabhadevi,2020-01-09,130000.0,Apartment,Agent,2020,01
+1125.0,2.0,2.0,Peninsula Land Limited,Semi-Furnished,Parel,2020-01-08,130000.0,Apartment,Agent,2020,01
+1450.0,2.0,2.0,Peninsula Land Limited,Semi-Furnished,Lal Baug,2019-12-04,150000.0,Apartment,Agent,2019,12
+1750.0,3.0,2.0,Cooperative Group Housing Society,Furnished,Peddar Road,2019-12-04,150000.0,Apartment,Agent,2019,12
+1287.0,2.0,2.0,Lodha Group,Semi-Furnished,Mahalakshmi,2019-12-06,130000.0,Apartment,Agent,2019,12
+1425.0,2.0,2.0,Peninsula Land Limited,Semi-Furnished,Parel,2019-12-12,150000.0,Apartment,Agent,2019,12
+1350.0,2.0,2.0,Millennium Group,Semi-Furnished,Lower Parel,2019-12-04,135000.0,Apartment,Agent,2019,12
+1300.0,2.0,2.0,Supreme Universal,Unfurnished,Khar West,2019-11-25,150000.0,Apartment,Agent,2019,11
+1405.0,1.0,2.0,Peninsula Land,Semi-Furnished,Parel,2019-11-29,135000.0,Apartment,Agent,2019,11
+1050.0,2.0,2.0,Lloyads Group,Semi-Furnished,Prabhadevi,2019-12-29,140000.0,Apartment,Agent,2019,12
+2240.0,2.0,2.0,L&T Realty,Semi-Furnished,Bhoiwada,2020-01-13,135000.0,Apartment,Agent,2020,01
+1218.0,2.0,2.0,Sheth Creators,Semi-Furnished,Bandra West,2019-11-30,130000.0,Apartment,Agent,2019,11
+1218.0,2.0,2.0,Sheth Creators,Semi-Furnished,Bandra West,2019-11-27,130000.0,Apartment,Agent,2019,11
+1366.0,2.0,2.0,Godrej Properties,Semi-Furnished,Advocate Devarshi N Khuman Chowk,2019-12-07,155000.0,Apartment,Agent,2019,12
+1300.0,2.0,2.0,Lodha Group,Semi-Furnished,Mahalakshmi,2019-12-24,150000.0,Apartment,Agent,2019,12
+1250.0,2.0,2.0,Godrej Properties,Furnished,Mahalakshmi,2020-01-08,140000.0,Apartment,Agent,2020,01
+1200.0,3.0,2.0,Rustomjee,Semi-Furnished,Khar West,2019-12-12,155000.0,Apartment,Agent,2019,12
+1218.0,2.0,2.0,Sheth Creators,Semi-Furnished,Bandra West,2020-01-12,130000.0,Apartment,Agent,2020,01
+1335.0,2.0,2.0,Peninsula Land Limited,Semi-Furnished,Parel,2020-01-10,150000.0,Apartment,Agent,2020,01
+1050.0,2.0,2.0,Dhan Lakhani Realty,Semi-Furnished,Pali Hill,2019-12-03,130000.0,Apartment,Agent,2019,12
+1360.0,2.0,2.0,Cooperative Group Housing Society,Semi-Furnished,Prabhadevi,2019-11-28,135000.0,Apartment,Agent,2019,11
+1200.0,2.0,2.0,Lakhani Builders,Semi-Furnished,Breach Candy,2019-12-03,145000.0,Apartment,Agent,2019,12
+1425.0,2.0,2.0,Peninsula Land Limited,Semi-Furnished,Parel,2019-11-21,140000.0,Apartment,Agent,2019,11
+1250.0,2.0,2.0,Rustomjee,Semi-Furnished,Khar West,2019-11-24,150000.0,Apartment,Agent,2019,11
+1600.0,3.0,2.0,Raheja Universal Pvt Ltd.,Semi-Furnished,Worli,2019-11-25,150000.0,Apartment,Agent,2019,11
+1218.0,2.0,2.0,Sheth Creators,Semi-Furnished,Bandra West,2019-11-30,130000.0,Apartment,Agent,2019,11
+1275.0,3.0,2.0,Peninsula Land Limited,Semi-Furnished,Parel,2020-01-08,130000.0,Apartment,Agent,2020,01
+1351.0,2.0,2.0,Godrej Properties,Semi-Furnished,Mahalaxmi Race Course,2020-01-10,140000.0,Apartment,Agent,2020,01
+1218.0,2.0,2.0,Sheth Creators,Semi-Furnished,Bandra West,2019-12-04,130000.0,Apartment,Agent,2019,12
+1525.0,3.0,2.0,Peninsula Land Limited,Semi-Furnished,Parel,2020-01-08,140000.0,Apartment,Agent,2020,01
+1351.0,2.0,2.0,Godrej Properties,Semi-Furnished,Mahalaxmi Race Course,2019-12-30,140000.0,Apartment,Agent,2019,12
+1151.0,2.0,2.0,Rizvi Builders,Furnished,Bandra West,2019-11-28,130000.0,Apartment,Agent,2019,11
+1525.0,2.0,2.0,Ravi Group,Semi-Furnished,Prabhadevi,2020-01-09,155000.0,Apartment,Agent,2020,01
+1287.0,2.0,2.0,Lodha Group,Semi-Furnished,Mahalaxmi Race Course,2019-12-30,140000.0,Apartment,Agent,2019,12
+1750.0,3.0,2.0,Cooperative Group Housing Society,Furnished,Peddar Road,2019-11-21,150000.0,Apartment,Agent,2019,11
+1400.0,2.0,2.0,Peninsula Land Limited,Semi-Furnished,Parel,2020-01-06,140000.0,Apartment,Agent,2020,01
+1351.0,2.0,2.0,Godrej Properties,Semi-Furnished,Mahalakshmi,2019-12-17,140000.0,Apartment,Agent,2019,12
+1425.0,2.0,2.0,Peninsula Land Limited,Semi-Furnished,Parel,2019-11-18,150000.0,Apartment,Agent,2019,11
+1287.0,2.0,2.0,Lodha Group,Semi-Furnished,Mahalakshmi,2019-12-14,140000.0,Apartment,Agent,2019,12
+1050.0,3.0,2.0,Rustomjee,Furnished,Khar West,2019-11-14,140000.0,Apartment,Agent,2019,11
+1325.0,2.0,2.0,Raheja Universal Pvt Ltd.,Furnished,Worli,2020-01-06,155000.0,Apartment,Agent,2020,01
+1500.0,2.0,2.0,Aristo Realty Developers Limited,Semi-Furnished,Prabhadevi,2019-12-12,130000.0,Apartment,Agent,2019,12
+1275.0,3.0,2.0,Peninsula Land Limited,Semi-Furnished,Parel,2020-01-06,135000.0,Apartment,Agent,2020,01
+1325.0,2.0,2.0,Raheja Universal Pvt Ltd.,Furnished,Worli,2020-01-04,155000.0,Apartment,Agent,2020,01
+1335.0,2.0,2.0,Peninsula Land Limited,Semi-Furnished,Parel,2019-12-17,150000.0,Apartment,Agent,2019,12
+1350.0,3.0,2.0,Godrej Properties,Semi-Furnished,Jacob Circle,2020-01-03,135000.0,Apartment,Agent,2020,01
+1500.0,2.0,2.0,Aristo Realty Developers Limited,Semi-Furnished,Prabhadevi,2019-12-26,130000.0,Apartment,Agent,2019,12
+1175.0,3.0,2.0,Lodha Group,Furnished,Mahalakshmi,2019-12-17,140000.0,Apartment,Agent,2019,12
+1287.0,2.0,2.0,Lodha Group,Semi-Furnished,Mahalakshmi,2019-12-04,140000.0,Apartment,Agent,2019,12
+1335.0,2.0,2.0,Peninsula Land Limited,Semi-Furnished,Parel,2019-12-05,150000.0,Apartment,Agent,2019,12
+1351.0,2.0,2.0,Godrej Properties,Semi-Furnished,Mahalaxmi Race Course,2019-12-07,140000.0,Apartment,Agent,2019,12
+1500.0,2.0,2.0,Aristo Realty Developers Limited,Semi-Furnished,Prabhadevi,2019-11-30,130000.0,Apartment,Agent,2019,11
+1220.0,2.0,2.0,Makers Developers,Furnished,World Trade Centre,2019-12-13,150000.0,Apartment,Agent,2019,12
 560.0,2.0,1.0,Deep Homes Developers,Semi-Furnished,Nalasopara West,2019-12-11,5000.0,Apartment,Agent,2019,12
 500.0,2.0,1.0,JSB Group,Unfurnished,Naigaon East,2019-12-26,5000.0,Apartment,Agent,2019,12
 550.0,1.0,1.0,Maharaja Developer,Unfurnished,Virar,2019-12-03,5000.0,Apartment,Owner,2019,12
@@ -13887,67 +14570,983 @@ area,bathroom_num,bedroom_num,dev_name,furnishing,locality,post_date,price,type,
 1470.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-13,80000.0,Apartment,Agent,2020,01
 1850.0,3.0,3.0,Lodha Group,Semi-Furnished,Wadala East,2019-12-06,79999.0,Apartment,Agent,2019,12
 1980.0,3.0,3.0,Lodha Group,Semi-Furnished,Wadala East,2019-11-30,90000.0,Apartment,Agent,2019,11
+1960.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-13,110000.0,Apartment,Agent,2020,01
+1696.0,3.0,3.0,Adani Realty,Semi-Furnished,Andheri West,2020-01-14,115000.0,Apartment,Agent,2020,01
+1400.0,4.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,115000.0,Apartment,Agent,2020,01
+1700.0,3.0,3.0,Adani Realty,Furnished,Andheri West,2020-01-13,125000.0,Apartment,Agent,2020,01
+1995.0,4.0,3.0,Runwal Developers,Semi-Furnished,Lokhandwala Complex,2020-01-12,125000.0,Apartment,Agent,2020,01
+1330.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,115000.0,Apartment,Agent,2020,01
+1500.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,115000.0,Apartment,Agent,2020,01
+1875.0,3.0,3.0,Oberoi Realty Limited,Furnished,Goregaon East,2020-01-13,110000.0,Apartment,Agent,2020,01
+1500.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,115000.0,Apartment,Agent,2020,01
+1700.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2019-12-29,125000.0,Apartment,Agent,2019,12
+1760.0,3.0,3.0,Runwal Developers,Unfurnished,Lokhandwala Complex,2020-01-12,125000.0,Apartment,Agent,2020,01
+1820.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Goregaon East,2020-01-13,110000.0,Apartment,Agent,2020,01
+1550.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Central Area,2020-01-14,110000.0,Apartment,Agent,2020,01
+1800.0,4.0,3.0,Runwal Developers,Semi-Furnished,Andheri West,2020-01-14,110000.0,Apartment,Agent,2020,01
+1600.0,3.0,3.0,Adani Realty,Unfurnished,Four Bungalows,2020-01-14,110000.0,Apartment,Agent,2020,01
+1500.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2019-12-15,120000.0,Apartment,Agent,2019,12
+2520.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-14,125000.0,Apartment,Agent,2020,01
+1760.0,3.0,3.0,Runwal Developers,Unfurnished,Andheri West,2020-01-12,110000.0,Apartment,Agent,2020,01
+2250.0,4.0,3.0,Nahar Group,Semi-Furnished,Chandivali,2020-01-14,125000.0,Apartment,Agent,2020,01
 1770.0,3.0,3.0,Oberoi Realty Limited,Unfurnished,Film City Road,2020-01-13,103000.0,Apartment,Agent,2020,01
+2268.0,3.0,3.0,Lodha Group,Unfurnished,Worli,2020-01-13,124000.0,Apartment,Agent,2020,01
+1820.0,3.0,3.0,Oberoi Realty Limited,Unfurnished,Gokuldham,2020-01-09,110000.0,Apartment,Agent,2020,01
 1700.0,3.0,3.0,Adani Realty,Semi-Furnished,Andheri West,2020-01-13,105000.0,Apartment,Agent,2020,01
+1380.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,110000.0,Apartment,Agent,2020,01
 1820.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Goregaon East,2020-01-08,105000.0,Apartment,Agent,2020,01
+1665.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,120000.0,Apartment,Agent,2020,01
+1900.0,3.0,3.0,Rustomjee,Semi-Furnished,Andheri West,2020-01-12,120000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,Atul Projects,Furnished,Mazgaon,2020-01-13,125000.0,Apartment,Agent,2020,01
+1750.0,3.0,3.0,Chandak Group,Unfurnished,Juhu,2020-01-12,125000.0,Apartment,Agent,2020,01
+1820.0,3.0,3.0,Oberoi Realty Limited,Furnished,Andheri East,2020-01-14,125000.0,Apartment,Agent,2020,01
+1850.0,3.0,3.0,K Raheja Corp,Furnished,Andheri West,2020-01-13,110000.0,Apartment,Agent,2020,01
+1965.0,4.0,3.0,Ajmera Group,Semi-Furnished,Wadala,2020-01-12,110000.0,Apartment,Agent,2020,01
+1801.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,125000.0,Apartment,Agent,2020,01
+2880.0,4.0,3.0,Oberoi Realty Limited,Unfurnished,Goregaon East,2020-01-12,110000.0,Apartment,Agent,2020,01
+1880.0,4.0,3.0,Magnum Developers,Furnished,Lal Baug,2020-01-13,125000.0,Apartment,Owner,2020,01
+1610.0,4.0,3.0,Mahindra Lifespace Developers Ltd.,Furnished,Kanjurmarg West,2019-12-16,125000.0,Builder Floor Apartment,Owner,2019,12
 1587.0,3.0,3.0,Kabra Group,Semi-Furnished,Santacruz East,2020-01-12,105000.0,Apartment,Agent,2020,01
+1750.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-12,120000.0,Apartment,Agent,2020,01
+1801.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,125000.0,Apartment,Agent,2020,01
 1820.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Goregaon East,2020-01-09,101000.0,Apartment,Agent,2020,01
+1034.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2019-12-05,125000.0,Apartment,Agent,2019,12
+2275.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-09,125000.0,Apartment,Agent,2020,01
+1820.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Gokuldham,2020-01-12,125000.0,Apartment,Agent,2020,01
+1200.0,2.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Unfurnished,Bandra Kurla Complex,2020-01-13,110000.0,Apartment,Agent,2020,01
+1200.0,2.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-01,125000.0,Apartment,Owner,2020,01
+1850.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-14,120000.0,Apartment,Agent,2020,01
+2650.0,4.0,3.0,Cooperative Group Housing Society,Unfurnished,Chembur,2020-01-13,115000.0,Apartment,Agent,2020,01
+1400.0,3.0,3.0,Hiranandani Group,Furnished,Powai,2020-01-14,115000.0,Apartment,Agent,2020,01
+1695.0,2.0,3.0,Runwal Developers,Unfurnished,Andheri West,2020-01-14,110000.0,Apartment,Agent,2020,01
+1600.0,3.0,3.0,Hubtown Limited,Semi-Furnished,Bandra East,2019-12-22,115000.0,Apartment,Owner,2019,12
+1800.0,3.0,3.0,Lodha Group,Semi-Furnished,Parel,2020-01-13,110000.0,Apartment,Agent,2020,01
+1550.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,110000.0,Apartment,Agent,2020,01
+2575.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-14,122000.0,Apartment,Agent,2020,01
+1955.0,3.0,3.0,Omkar Realtors and Developers Pvt. Ltd.,Unfurnished,Parel,2020-01-13,110000.0,Apartment,Agent,2020,01
+1700.0,3.0,3.0,Adani Realty,Unfurnished,Andheri West,2020-01-13,110000.0,Apartment,Agent,2020,01
+2195.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Goregaon East,2020-01-13,110000.0,Apartment,Agent,2020,01
+1347.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,125000.0,Apartment,Agent,2020,01
+1700.0,3.0,3.0,Neelkanth Group,Unfurnished,Ghatkopar East,2020-01-10,115000.0,Apartment,Agent,2020,01
+2105.0,3.0,3.0,Bharat Infrastructure and Engineering,Semi-Furnished,Andheri West,2020-01-10,110000.0,Apartment,Agent,2020,01
+1470.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-07,119000.0,Apartment,Agent,2020,01
+1850.0,3.0,3.0,K Raheja Corp,Unfurnished,Andheri West,2020-01-13,120700.0,Apartment,Agent,2020,01
 1700.0,3.0,3.0,Adani Realty,Unfurnished,Andheri West,2020-01-14,105000.0,Apartment,Agent,2020,01
 1695.0,3.0,3.0,Runwal Developers,Unfurnished,Andheri West,2020-01-13,105000.0,Apartment,Agent,2020,01
 2000.0,3.0,3.0,Lodha Group,Furnished,Goregaon East,2020-01-14,105000.0,Apartment,Agent,2020,01
+1600.0,3.0,3.0,Hubtown Limited,Furnished,Kala Nagar,2020-01-12,110000.0,Apartment,Agent,2020,01
+1820.0,3.0,3.0,Oberoi Realty Limited,Furnished,Aarey Milk Colony,2020-01-12,125000.0,Apartment,Agent,2020,01
+1820.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Goregaon East,2020-01-12,110000.0,Apartment,Agent,2020,01
+1750.0,3.0,3.0,Adani Realty,Semi-Furnished,4 Bunglows,2020-01-09,120000.0,Apartment,Agent,2020,01
+1250.0,2.0,3.0,Matoshree Infrastructure Pvt. Ltd.,Unfurnished,Parel,2020-01-09,120000.0,Apartment,Agent,2020,01
+965.0,2.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Unfurnished,Bandra Kurla Complex,2019-11-13,120000.0,Apartment,Agent,2019,11
+1696.0,3.0,3.0,Adani Realty,Semi-Furnished,Andheri West,2020-01-13,120000.0,Apartment,Agent,2020,01
+1700.0,3.0,3.0,DB Realty Limited,Semi-Furnished,Mumbai Central,2020-01-14,120000.0,Apartment,Agent,2020,01
+1805.0,3.0,3.0,L&T Realty,Furnished,Powai,2019-12-13,110000.0,Apartment,Agent,2019,12
+2100.0,4.0,3.0,Lodha Group,Semi-Furnished,Wadala,2019-12-28,110000.0,Apartment,Agent,2019,12
+1820.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,2020-01-13,110000.0,Apartment,Agent,2020,01
+1950.0,3.0,3.0,Lodha Group,Semi-Furnished,Parel,2020-01-14,110000.0,Apartment,Agent,2020,01
+1700.0,3.0,3.0,Raheja Developers,Unfurnished,Andheri West,2019-12-14,115000.0,Apartment,Agent,2019,12
 1650.0,3.0,3.0,Runwal Developers,Semi-Furnished,Andheri West,2020-01-14,105000.0,Apartment,Agent,2020,01
+1650.0,3.0,3.0,Lodha Group,Semi-Furnished,Lal Baug,2020-01-10,110000.0,Apartment,Agent,2020,01
+2173.0,3.0,3.0,Ekta World,Semi-Furnished,Chembur,2020-01-11,110000.0,Apartment,Agent,2020,01
+1475.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-13,120000.0,Apartment,Agent,2020,01
+1500.0,3.0,3.0,Runwal Developers,Semi-Furnished,Andheri West,2019-12-06,110009.0,Apartment,Agent,2019,12
+1500.0,3.0,3.0,Lodha Group,Furnished,Prabhadevi,2019-11-27,125000.0,Apartment,Agent,2019,11
+1900.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Sai Baba Complex,2019-12-26,110000.0,Apartment,Agent,2019,12
+2520.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-13,125000.0,Apartment,Agent,2020,01
+2195.0,3.0,3.0,Oberoi Realty Limited,Unfurnished,Goregaon East,2020-01-13,110000.0,Apartment,Agent,2020,01
+1600.0,3.0,3.0,Adani Realty,Semi-Furnished,Andheri West,2019-11-25,110000.0,Apartment,Agent,2019,11
+1412.0,3.0,3.0,Bhoomi Group,Unfurnished,Khar West,2020-01-13,125000.0,Apartment,Agent,2020,01
+1683.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-11,125000.0,Apartment,Agent,2020,01
+1490.0,3.0,3.0,Hiranandani Group,Furnished,Powai,2020-01-07,110000.0,Apartment,Agent,2020,01
+1300.0,2.0,3.0,Samruddhi Builder,Furnished,Dadar East,2020-01-13,120000.0,Apartment,Agent,2020,01
+1200.0,3.0,3.0,Cooperative Group Housing Society,Furnished,Oshiwara,2019-12-21,120000.0,Apartment,Agent,2019,12
+2575.0,2.0,3.0,L&T Realty,Unfurnished,Parel,2020-01-13,125000.0,Apartment,Agent,2020,01
+2200.0,3.0,3.0,L&T Realty,Semi-Furnished,Bhoiwada,2020-01-13,115000.0,Apartment,Agent,2020,01
+1820.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Goregaon East,2020-01-13,110000.0,Apartment,Agent,2020,01
+2100.0,3.0,3.0,Ruparel Realty,Semi-Furnished,Parel,2020-01-13,110000.0,Apartment,Agent,2020,01
+1650.0,3.0,3.0,Kamala Group,Semi-Furnished,Santacruz West,2019-11-03,110000.0,Apartment,Agent,2019,11
+2275.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-12,120000.0,Apartment,Agent,2020,01
+1500.0,3.0,3.0,Hiranandani Group,Unfurnished,Powai,2020-01-08,125000.0,Apartment,Agent,2020,01
+1600.0,3.0,3.0,Hiranandani Group,Furnished,Powai,2019-12-12,110000.0,Apartment,Agent,2019,12
+2175.0,4.0,3.0,L&T Realty,Furnished,Powai,2019-12-20,110000.0,Apartment,Agent,2019,12
+1300.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Unfurnished,Bandra Kurla Complex,2019-12-27,120000.0,Apartment,Agent,2019,12
+1377.0,3.0,3.0,Oberoi Realty Limited,Furnished,JVLR-Jogeshwari Vikhroli Link Road,2019-12-05,115000.0,Apartment,Agent,2019,12
+2225.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-12,110000.0,Apartment,Agent,2020,01
+2400.0,3.0,3.0,Hubtown Limited,Semi-Furnished,Kala Nagar,2020-01-11,125000.0,Apartment,Agent,2020,01
+1680.0,3.0,3.0,Runwal Developers,Semi-Furnished,Ghatkopar West,2019-12-24,125000.0,Apartment,Agent,2019,12
+1350.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-19,125000.0,Apartment,Agent,2019,12
+2192.0,3.0,3.0,Neumec Group,Unfurnished,Tardeo,2020-01-13,115000.0,Apartment,Agent,2020,01
 1400.0,2.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Unfurnished,Bandra Kurla Complex,2019-11-25,105000.0,Apartment,Agent,2019,11
+1800.0,3.0,3.0,Raheja Developers Ltd.,Furnished,Seven Bungalows,2019-12-10,120000.0,Apartment,Agent,2019,12
+1865.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Gokuldham,2020-01-04,125000.0,Apartment,Agent,2020,01
+2200.0,3.0,3.0,Runwal Developers,Furnished,Lokhandwala Complex,2019-12-29,110000.0,Apartment,Agent,2019,12
+2190.0,3.0,3.0,Runwal Developers,Semi-Furnished,Andheri West,2020-01-02,115000.0,Apartment,Agent,2020,01
+1450.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Unfurnished,Bandra Kurla Complex,2020-01-03,110000.0,Apartment,Agent,2020,01
+2200.0,3.0,3.0,Nahar Group,Semi-Furnished,Andheri East,2020-01-06,120000.0,Apartment,Agent,2020,01
 1760.0,3.0,3.0,Runwal Developers,Unfurnished,Lokhandwala Complex,2019-12-03,105000.0,Apartment,Agent,2019,12
+1810.0,3.0,3.0,Oberoi Realty Limited,Unfurnished,Andheri East,2019-12-13,125000.0,Apartment,Agent,2019,12
+1800.0,3.0,3.0,L&T Realty,Furnished,Chandivali,2019-11-18,110000.0,Apartment,Agent,2019,11
 1665.0,3.0,3.0,Omkar Realtors and Developers Pvt. Ltd.,Semi-Furnished,Parel,2020-01-10,105000.0,Apartment,Agent,2020,01
+1750.0,3.0,3.0,Rustomjee,Semi-Furnished,D.N. Nagar,2020-01-07,125000.0,Apartment,Agent,2020,01
+1760.0,3.0,3.0,Neev Infrastructure,Unfurnished,Prabhadevi,2019-11-26,125000.0,Apartment,Agent,2019,11
 1400.0,3.0,3.0,Oberoi Realty Limited,Unfurnished,Andheri West,2020-01-07,105000.0,Apartment,Agent,2020,01
+1550.0,3.0,3.0,Lodha Group,Furnished,Prabhadevi,2019-12-22,120000.0,Apartment,Agent,2019,12
+1750.0,3.0,3.0,Omkar Realtors and Developers Pvt. Ltd.,Unfurnished,Parel,2019-12-26,110000.0,Apartment,Agent,2019,12
 1990.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Oberoi Splendor,2019-12-20,105000.0,Apartment,Agent,2019,12
 1587.0,3.0,3.0,Kabra Group,Semi-Furnished,Santacruz East,2019-12-16,105000.0,Apartment,Agent,2019,12
+2700.0,3.0,3.0,Sunteck Realty Limited,Semi-Furnished,Magathane,2019-11-15,120000.0,Apartment,Agent,2019,11
+1200.0,3.0,3.0,RE Infra,Unfurnished,Bandra West,2019-11-19,120000.0,Apartment,Agent,2019,11
 1690.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Goregaon East,2020-01-02,105000.0,Apartment,Agent,2020,01
+2300.0,3.0,3.0,Oberoi Realty Limited,Unfurnished,Aarey Milk Colony,2019-11-29,110000.0,Apartment,Agent,2019,11
+1990.0,3.0,3.0,Ekta World,Semi-Furnished,Chembur,2019-11-25,125000.0,Apartment,Agent,2019,11
+1100.0,3.0,3.0,Sadguru Group Builders & Developers,Unfurnished,Matunga West,2019-12-14,120000.0,Apartment,Agent,2019,12
 1500.0,2.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2019-12-21,105000.0,Apartment,Agent,2019,12
+1820.0,3.0,3.0,The Wadhwa Group,Furnished,Ghatkopar West,2019-12-15,120000.0,Apartment,Agent,2019,12
+1500.0,2.0,3.0,Runwal Developers,Furnished,Lokhandwala Complex,2019-12-27,125000.0,Apartment,Agent,2019,12
+2200.0,3.0,3.0,Transcon Group,Unfurnished,Andheri West,2019-12-20,120000.0,Apartment,Agent,2019,12
+1800.0,3.0,3.0,Runwal Developers,Semi-Furnished,Lokhandwala Complex,2019-12-06,110000.0,Apartment,Agent,2019,12
 1820.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Aarey Milk Colony,2019-12-06,105000.0,Apartment,Agent,2019,12
+2275.0,3.0,3.0,L&T Realty,Semi-Furnished,Bhoiwada,2019-11-29,120000.0,Apartment,Agent,2019,11
+2664.0,4.0,3.0,Kalpataru Limited,Semi-Furnished,Goregaon West,2019-11-15,120000.0,Apartment,Agent,2019,11
+1700.0,3.0,3.0,Cooperative Group Housing Society,Unfurnished,Oshiwara,2019-11-15,110000.0,Apartment,Agent,2019,11
 1800.0,4.0,3.0,Sabari Group,Unfurnished,Chembur,2019-12-24,105000.0,Apartment,Agent,2019,12
+1600.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-07,110000.0,Apartment,Agent,2020,01
+1350.0,2.0,3.0,Oberoi Realty Limited,Unfurnished,Andheri West,2020-01-06,125000.0,Apartment,Agent,2020,01
+2175.0,3.0,3.0,L&T Realty,Furnished,Powai,2019-12-12,125000.0,Apartment,Agent,2019,12
+1650.0,3.0,3.0,Hilla Builder Pvt. Ltd.,Semi-Furnished,Bandra West,2020-01-01,110000.0,Apartment,Agent,2020,01
+1450.0,3.0,3.0,Lodha Group,Furnished,Prabhadevi,2020-01-04,120000.0,Apartment,Agent,2020,01
 1850.0,3.0,3.0,Omkar Realtors and Developers Pvt. Ltd.,Semi-Furnished,Parel,2020-01-03,105000.0,Apartment,Agent,2020,01
+2100.0,4.0,3.0,Nahar Group,Semi-Furnished,Chandivali,2019-12-16,120000.0,Apartment,Agent,2019,12
+2120.0,3.0,3.0,Nahar Group,Semi-Furnished,Chandivali,2019-12-27,120000.0,Penthouse,Agent,2019,12
+1650.0,3.0,3.0,Redstone Group,Semi-Furnished,Mazgaon,2019-12-28,125000.0,Apartment,Agent,2019,12
+1900.0,3.0,3.0,Ruparel Realty,Semi-Furnished,Parel,2019-12-16,120000.0,Apartment,Agent,2019,12
+1750.0,3.0,3.0,Adani Realty,Semi-Furnished,Andheri West,2019-12-12,110000.0,Apartment,Agent,2019,12
+2225.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2019-12-12,115000.0,Apartment,Agent,2019,12
 1388.0,3.0,3.0,Hubtown Limited,Semi-Furnished,Kala Nagar,2019-12-17,104000.0,Apartment,Agent,2019,12
+2050.0,3.0,3.0,Kotari,Furnished,Parel,2019-12-03,110000.0,Apartment,Agent,2019,12
+1500.0,3.0,3.0,Lodha Group,Semi-Furnished,Wadala,2019-12-01,125000.0,Apartment,Agent,2019,12
+1539.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-11-28,125000.0,Apartment,Agent,2019,11
+1750.0,3.0,3.0,Lokhandwala Infrastructure,Furnished,Worli,2019-11-15,110000.0,Apartment,Agent,2019,11
 1550.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2019-11-23,105000.0,Apartment,Agent,2019,11
+1683.0,3.0,3.0,Lodha Group,Unfurnished,Worli,2020-01-13,120100.0,Apartment,Agent,2020,01
+1750.0,4.0,3.0,Neumec Group,Semi-Furnished,Tardeo,2020-01-11,125000.0,Apartment,Agent,2020,01
+1850.0,3.0,3.0,Arok Construction,Unfurnished,Agripada,2019-12-24,110000.0,Apartment,Agent,2019,12
+1600.0,3.0,3.0,L&T Realty,Unfurnished,Parel,2020-01-09,125000.0,Apartment,Agent,2020,01
+1820.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Goregaon East,2020-01-03,110000.0,Apartment,Agent,2020,01
 1800.0,3.0,3.0,Joy Builders and Developers,Unfurnished,Juhu Vile Parle Development Scheme,2019-11-16,104000.0,Apartment,Owner,2019,11
+2100.0,3.0,3.0,Ruparel Realty,Unfurnished,Parel,2019-12-07,110000.0,Apartment,Owner,2019,12
+2100.0,3.0,3.0,Ruparel Realty,Semi-Furnished,Parel,2019-12-05,110000.0,Apartment,Owner,2019,12
+1200.0,2.0,3.0,Oberoi Realty Limited,Semi-Furnished,D.N. Nagar,2019-11-15,125000.0,Apartment,Owner,2019,11
+1800.0,4.0,3.0,Lok Housing and Constructions Ltd.,Semi-Furnished,Khar West,2020-01-08,114000.0,Apartment,Owner,2020,01
+1750.0,3.0,3.0,Kamla Landmarc Construction,Furnished,"Sundar Nagar, Kalina",2020-01-08,110000.0,Apartment,Owner,2020,01
+1960.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-13,110000.0,Apartment,Agent,2020,01
+2195.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Yeshodham,2020-01-12,110000.0,Apartment,Agent,2020,01
 1544.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-12,105000.0,Apartment,Agent,2020,01
+1600.0,4.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,125000.0,Apartment,Agent,2020,01
+1368.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,120000.0,Apartment,Agent,2020,01
+1695.0,3.0,3.0,Runwal Developers,Semi-Furnished,Lokhandwala Complex,2020-01-12,110000.0,Apartment,Agent,2020,01
+1330.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,120000.0,Apartment,Agent,2020,01
+1500.0,4.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-12,115000.0,Apartment,Agent,2020,01
+1550.0,4.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,120000.0,Apartment,Agent,2020,01
+2100.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-12,110000.0,Apartment,Agent,2020,01
+1750.0,2.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2019-12-13,110000.0,Apartment,Agent,2019,12
+1750.0,4.0,3.0,Runwal Developers,Semi-Furnished,Lokhandwala Complex,2020-01-14,110000.0,Apartment,Agent,2020,01
+1295.0,2.0,3.0,Oberoi Realty Limited,Furnished,Laxmi Industrial Estate,2020-01-13,120000.0,Apartment,Agent,2020,01
+1450.0,3.0,3.0,Amrut Group,Semi-Furnished,Matunga East,2019-11-20,110000.0,Apartment,Agent,2019,11
+1960.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-14,110000.0,Apartment,Agent,2020,01
+1550.0,3.0,3.0,Raheja Developers,Furnished,Andheri West,2020-01-12,110000.0,Apartment,Agent,2020,01
+1801.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,125000.0,Apartment,Agent,2020,01
+1500.0,3.0,3.0,Hiranandani Group,Furnished,Powai,2020-01-12,115000.0,Apartment,Agent,2020,01
+2195.0,4.0,3.0,Oberoi Realty Limited,Semi-Furnished,Goregaon East,2020-01-14,110000.0,Apartment,Agent,2020,01
+1526.0,3.0,3.0,Oberoi Realty Limited,Unfurnished,D.N. Nagar,2020-01-07,125000.0,Apartment,Agent,2020,01
+1470.0,3.0,3.0,Lodha Group,Unfurnished,Worli,2020-01-13,120000.0,Apartment,Agent,2020,01
+2270.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-14,125000.0,Apartment,Agent,2020,01
+2420.0,3.0,3.0,L&T Realty,Furnished,Bhoiwada,2020-01-13,115000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,Adani Realty,Unfurnished,Andheri West,2020-01-13,110000.0,Apartment,Agent,2020,01
+1820.0,3.0,3.0,Oberoi Realty Limited,Unfurnished,Andheri East,2020-01-12,125000.0,Apartment,Agent,2020,01
+2200.0,5.0,3.0,Runwal Developers,Unfurnished,Lokhandwala Complex,2020-01-12,120000.0,Apartment,Agent,2020,01
+1588.0,2.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-14,120000.0,Apartment,Agent,2020,01
+1650.0,3.0,3.0,Lodha Group,Semi-Furnished,Parel,2020-01-14,110000.0,Apartment,Agent,2020,01
+1700.0,2.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-13,110000.0,Apartment,Agent,2020,01
+1800.0,4.0,3.0,Oberoi Realty Limited,Unfurnished,Goregaon East,2020-01-13,110000.0,Apartment,Agent,2020,01
+1650.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-12,110000.0,Apartment,Agent,2020,01
+14.0,3.0,3.0,Hiranandani Group,Furnished,Powai,2020-01-14,120000.0,Apartment,Agent,2020,01
+1801.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,125000.0,Apartment,Agent,2020,01
 1820.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Goregaon East,2020-01-08,103500.0,Apartment,Agent,2020,01
+2250.0,3.0,3.0,Ekta World,Semi-Furnished,Sion Trombay Road,2020-01-12,125000.0,Apartment,Agent,2020,01
+1821.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Sai Baba Complex,2020-01-12,110000.0,Apartment,Agent,2020,01
+1740.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-14,125000.0,Apartment,Agent,2020,01
+1600.0,3.0,3.0,Ruparel Realty,Semi-Furnished,Parel,2020-01-12,115000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,Adani Realty,Semi-Furnished,Andheri West,2020-01-14,110000.0,Apartment,Agent,2020,01
+1470.0,4.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-12,120000.0,Apartment,Agent,2020,01
+2100.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-13,124000.0,Apartment,Agent,2020,01
+2200.0,4.0,3.0,L&T Realty,Semi-Furnished,Powai,2020-01-10,110000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,K Raheja Corp,Furnished,New Link Road,2019-11-21,110000.0,Apartment,Agent,2019,11
+1550.0,3.0,3.0,Lokhandwala Infrastructure,Semi-Furnished,Worli,2020-01-10,120000.0,Apartment,Agent,2020,01
+1695.0,3.0,3.0,Runwal Developers,Unfurnished,Andheri West,2020-01-13,110000.0,Apartment,Agent,2020,01
+1875.0,2.0,3.0,Suraj Estate Developers Pvt Ltd,Furnished,Mahim West,2020-01-09,110000.0,Apartment,Agent,2020,01
+1799.0,4.0,3.0,Adani Realty,Unfurnished,Andheri West,2019-11-22,125000.0,Apartment,Agent,2019,11
+1675.0,3.0,3.0,DB Realty Limited,Semi-Furnished,Mumbai Central,2019-12-05,115000.0,Apartment,Agent,2019,12
 1765.0,2.0,3.0,L&T Realty,Semi-Furnished,Parel,2019-12-28,105000.0,Apartment,Agent,2019,12
 1450.0,3.0,3.0,K Raheja Corp,Furnished,Lokhandwala Complex,2020-01-13,106000.0,Apartment,Agent,2020,01
+1820.0,3.0,3.0,Oberoi Realty Limited,Furnished,JVLR-Jogeshwari Vikhroli Link Road,2020-01-14,115000.0,Apartment,Agent,2020,01
+2200.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-14,110000.0,Apartment,Agent,2020,01
+1700.0,3.0,3.0,Raheja Developers,Furnished,Andheri West,2020-01-01,115000.0,Apartment,Agent,2020,01
+1500.0,3.0,3.0,Samarth Development Corporation,Semi-Furnished,Andheri West,2019-12-17,125000.0,Apartment,Agent,2019,12
+1299.0,2.0,3.0,Oberoi Realty Limited,Furnished,Andheri West,2020-01-07,120000.0,Apartment,Agent,2020,01
+1400.0,3.0,3.0,Hiranandani Group,Furnished,Powai,2019-11-25,110000.0,Apartment,Agent,2019,11
+1960.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-12,110000.0,Apartment,Agent,2020,01
 1703.0,3.0,3.0,Adani Realty,Semi-Furnished,Andheri West,2019-11-29,105000.0,Apartment,Agent,2019,11
+2079.0,3.0,3.0,Lodha Group,Semi-Furnished,Parel,2020-01-12,120000.0,Apartment,Agent,2020,01
+1368.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-12,125000.0,Apartment,Agent,2020,01
+1660.0,1.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-07,110000.0,Apartment,Agent,2020,01
+2300.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-13,125000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,Sanjay Jain Developer Group,Furnished,Jacob Circle,2020-01-13,120000.0,Apartment,Agent,2020,01
+1700.0,3.0,3.0,Runwal Developers,Unfurnished,Andheri West,2019-12-25,115000.0,Apartment,Agent,2019,12
 2100.0,3.0,3.0,Adani Realty,Unfurnished,Andheri West,2020-01-12,105000.0,Apartment,Agent,2020,01
+2575.0,3.0,3.0,L&T Realty,Semi-Furnished,Bhoiwada,2019-12-12,120000.0,Apartment,Agent,2019,12
+2256.0,3.0,3.0,Oberoi Realty Limited,Unfurnished,Goregaon East,2020-01-12,110000.0,Apartment,Agent,2020,01
+1800.0,4.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-09,110000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,Lodha Group,Semi-Furnished,Parel,2020-01-10,110000.0,Apartment,Agent,2020,01
+2195.0,4.0,3.0,Oberoi Realty Limited,Furnished,Gokuldham,2020-01-14,120000.0,Apartment,Agent,2020,01
+1650.0,3.0,3.0,RNA Corp,Semi-Furnished,Santacruz West,2019-11-03,115000.0,Apartment,Agent,2019,11
+1950.0,3.0,3.0,Neev Infrastructure,Unfurnished,Prabhadevi,2019-12-28,120000.0,Apartment,Agent,2019,12
+1500.0,3.0,3.0,Hiranandani Group,Unfurnished,Powai,2020-01-12,110000.0,Apartment,Agent,2020,01
+2450.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-10,120000.0,Apartment,Agent,2020,01
+1692.0,3.0,3.0,Adani Realty,Unfurnished,Andheri West,2019-12-17,120000.0,Apartment,Agent,2019,12
+1500.0,3.0,3.0,Hiranandani Group,Furnished,Powai,2019-11-30,110000.0,Apartment,Agent,2019,11
+1500.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-03,120000.0,Apartment,Agent,2020,01
+2225.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-13,110000.0,Apartment,Agent,2020,01
+2415.0,3.0,3.0,Hubtown Limited,Semi-Furnished,Gandhi Nagar,2020-01-11,115000.0,Apartment,Agent,2020,01
+1645.0,3.0,3.0,Runwal Developers,Semi-Furnished,Ghatkopar West,2019-12-14,125000.0,Apartment,Agent,2019,12
+1865.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Aarey Milk Colony,2019-12-21,125000.0,Apartment,Agent,2019,12
+2175.0,2.0,3.0,L&T Realty,Furnished,Powai,2019-12-28,120000.0,Apartment,Agent,2019,12
+2280.0,4.0,3.0,Oberoi Realty Limited,Semi-Furnished,Goregaon East,2019-11-25,110000.0,Apartment,Agent,2019,11
 1665.0,3.0,3.0,Omkar Realtors and Developers Pvt. Ltd.,Semi-Furnished,Parel,2020-01-10,102000.0,Apartment,Agent,2020,01
 2043.0,3.0,3.0,Lodha Group,Semi-Furnished,Wadala,2020-01-04,108000.0,Apartment,Agent,2020,01
+1650.0,3.0,3.0,Adani Realty,Semi-Furnished,Andheri West,2020-01-07,120000.0,Apartment,Agent,2020,01
+2048.0,3.0,3.0,Mittal Universal,Semi-Furnished,Parel,2019-11-26,120000.0,Apartment,Agent,2019,11
+1500.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-15,125000.0,Apartment,Agent,2019,12
 1650.0,3.0,3.0,Omkar Realtors and Developers Pvt. Ltd.,Semi-Furnished,Parmanand Wadi,2019-12-07,100000.0,Apartment,Agent,2019,12
+1820.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Andheri East,2019-12-12,115000.0,Apartment,Agent,2019,12
+1820.0,3.0,3.0,Oberoi Realty Limited,Unfurnished,Goregaon East,2019-12-03,115000.0,Apartment,Agent,2019,12
+1600.0,3.0,3.0,Adani Realty,Semi-Furnished,4 Bunglows,2019-12-24,120000.0,Apartment,Agent,2019,12
+1635.0,3.0,3.0,Lodha Group,Semi-Furnished,Parel,2019-12-05,110000.0,Apartment,Agent,2019,12
+1800.0,4.0,3.0,K Raheja Corp,Furnished,Lokhandwala Complex,2019-11-23,120000.0,Apartment,Agent,2019,11
+2100.0,3.0,3.0,Ekta World,Unfurnished,Chembur,2019-12-20,120000.0,Apartment,Agent,2019,12
+1600.0,3.0,3.0,Ruparel Realty,Semi-Furnished,Parel,2020-01-04,110000.0,Apartment,Agent,2020,01
+2000.0,3.0,3.0,Runwal Developers,Semi-Furnished,Andheri West,2019-12-25,120000.0,Apartment,Agent,2019,12
+2175.0,3.0,3.0,L&T Realty,Furnished,Powai,2019-12-12,125000.0,Apartment,Agent,2019,12
+1850.0,3.0,3.0,Lodha Group,Semi-Furnished,Parel,2019-12-29,115000.0,Apartment,Agent,2019,12
+2100.0,3.0,3.0,Nahar Group,Unfurnished,Chandivali,2019-12-27,125000.0,Penthouse,Agent,2019,12
+1625.0,2.0,3.0,DB Realty Limited,Semi-Furnished,Mumbai Central,2019-12-28,110000.0,Apartment,Agent,2019,12
+2500.0,3.0,3.0,Neumec Group,Unfurnished,Tardeo,2019-11-21,125000.0,Apartment,Agent,2019,11
+2225.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2019-12-17,115000.0,Apartment,Agent,2019,12
 1034.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2019-12-12,101000.0,Apartment,Agent,2019,12
 1850.0,3.0,3.0,Lodha Group,Unfurnished,Worli,2019-12-09,103000.0,Apartment,Agent,2019,12
+1350.0,3.0,3.0,Radius Developers,Unfurnished,Santacruz West,2019-11-27,125000.0,Apartment,Agent,2019,11
+1683.0,3.0,3.0,Lodha Group,Unfurnished,Worli,2020-01-09,125000.0,Apartment,Agent,2020,01
+2118.0,3.0,3.0,Neev Infrastructure,Unfurnished,Prabhadevi,2019-12-29,120000.0,Apartment,Agent,2019,12
+2195.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Goregaon East,2019-12-30,115000.0,Apartment,Agent,2019,12
+2520.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-14,125000.0,Apartment,Agent,2020,01
+1950.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-14,125000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-12,125000.0,Apartment,Agent,2020,01
+1463.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-12,125000.0,Apartment,Agent,2020,01
+1875.0,3.0,3.0,Runwal Developers,Semi-Furnished,Lokhandwala Complex,2020-01-12,123000.0,Apartment,Agent,2020,01
+1330.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-10,110000.0,Apartment,Agent,2020,01
+1700.0,4.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,125000.0,Apartment,Agent,2020,01
+1674.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-11-22,120000.0,Apartment,Agent,2019,11
+1500.0,3.0,3.0,Hiranandani Group,Furnished,Powai,2019-12-13,110000.0,Apartment,Agent,2019,12
 1760.0,3.0,3.0,Runwal Developers,Semi-Furnished,Lokhandwala Complex,2020-01-14,105000.0,Apartment,Agent,2020,01
+2520.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-14,125000.0,Apartment,Agent,2020,01
+1705.0,3.0,3.0,Adani Realty,Semi-Furnished,Andheri West,2020-01-14,115000.0,Apartment,Agent,2020,01
+2200.0,3.0,3.0,L&T Realty,Semi-Furnished,Powai,2020-01-12,110000.0,Apartment,Agent,2020,01
 1820.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Goregaon East,2020-01-14,105000.0,Apartment,Agent,2020,01
+1500.0,3.0,3.0,Bharat Infrastructure and Engineering,Semi-Furnished,Andheri West,2020-01-14,125000.0,Apartment,Agent,2020,01
+1980.0,3.0,3.0,Adani Realty,Unfurnished,Andheri West,2020-01-14,115000.0,Apartment,Agent,2020,01
+1820.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Goregaon East,2020-01-13,110000.0,Apartment,Agent,2020,01
+1700.0,3.0,3.0,Adani Realty,Semi-Furnished,Andheri West,2020-01-14,110000.0,Apartment,Agent,2020,01
+1150.0,3.0,3.0,W & M Group,Semi-Furnished,Prabhadevi,2020-01-14,125000.0,Apartment,Agent,2020,01
+1670.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Goregaon East,2020-01-13,110000.0,Apartment,Agent,2020,01
+1650.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-12,125000.0,Apartment,Agent,2020,01
 1820.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Andheri East,2020-01-14,105000.0,Apartment,Agent,2020,01
+2105.0,3.0,3.0,Bharat Infrastructure and Engineering,Semi-Furnished,Andheri West,2020-01-13,125000.0,Apartment,Agent,2020,01
+1500.0,3.0,3.0,Lodha Group,Furnished,Parel,2020-01-12,125000.0,Apartment,Agent,2020,01
+1750.0,3.0,3.0,Raheja Developers,Unfurnished,Andheri West,2020-01-14,110000.0,Apartment,Agent,2020,01
+1750.0,3.0,3.0,Cooperative Group Housing Society,Unfurnished,Chembur,2020-01-13,116000.0,Apartment,Agent,2020,01
+1897.0,4.0,3.0,Adani Realty,Unfurnished,4 Bunglows,2020-01-13,115000.0,Apartment,Agent,2020,01
+1250.0,2.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2019-11-28,110000.0,Apartment,Agent,2019,11
+2150.0,3.0,3.0,L&T Realty,Semi-Furnished,Bhoiwada,2019-12-25,120000.0,Apartment,Agent,2019,12
+1650.0,3.0,3.0,K Raheja Corp,Furnished,Lokhandwala Complex,2019-12-21,120000.0,Apartment,Agent,2019,12
+1800.0,3.0,3.0,Runwal Developers,Furnished,Lokhandwala Complex,2019-12-18,125000.0,Apartment,Agent,2019,12
+2100.0,2.0,3.0,L&T Realty,Semi-Furnished,Parel,2019-11-27,120000.0,Apartment,Agent,2019,11
+1400.0,3.0,3.0,Oberoi Realty Limited,Furnished,New Link Road,2020-01-13,115000.0,Apartment,Agent,2020,01
+1674.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-09,122000.0,Apartment,Agent,2020,01
+1670.0,3.0,3.0,Runwal Developers,Unfurnished,Lokhandwala Complex,2019-12-25,115000.0,Apartment,Agent,2019,12
 1300.0,3.0,3.0,Bharat Infrastructure and Engineering,Unfurnished,Andheri West,2019-12-12,100000.0,Apartment,Agent,2019,12
+2356.0,4.0,3.0,Nahar Group,Semi-Furnished,Chandivali,2019-11-27,120000.0,Apartment,Agent,2019,11
+1900.0,3.0,3.0,Adani Realty,Semi-Furnished,4 Bunglows,2020-01-06,115000.0,Apartment,Agent,2020,01
+1960.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-12,110000.0,Apartment,Agent,2020,01
+1750.0,3.0,3.0,Cosmos Group,Furnished,Prabhadevi,2020-01-12,110000.0,Apartment,Agent,2020,01
+1297.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-11,125000.0,Apartment,Agent,2020,01
+1470.0,3.0,3.0,Hiranandani Group,Furnished,Powai,2020-01-07,110000.0,Apartment,Agent,2020,01
+2150.0,3.0,3.0,Hubtown Limited,Semi-Furnished,Bandra East,2020-01-14,120000.0,Apartment,Agent,2020,01
+1450.0,3.0,3.0,Sanjay Jain Developer Group,Furnished,Jacob Circle,2020-01-14,120000.0,Apartment,Agent,2020,01
+1700.0,4.0,3.0,The Wadhwa Group,Furnished,Goregaon West,2019-12-06,110000.0,Apartment,Agent,2019,12
+2200.0,2.0,3.0,L&T Realty,Semi-Furnished,Bhoiwada,2019-11-26,120000.0,Apartment,Agent,2019,11
+1550.0,3.0,3.0,Lokhandwala Infrastructure,Semi-Furnished,Worli,2020-01-06,120000.0,Apartment,Agent,2020,01
 1820.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,2020-01-14,105000.0,Apartment,Agent,2020,01
+1485.0,3.0,3.0,Lodha Group,Furnished,Prabhadevi,2019-12-14,120000.0,Apartment,Agent,2019,12
+1500.0,3.0,3.0,Lodha Group,Semi-Furnished,Gopal Nagar,2019-12-21,125000.0,Apartment,Agent,2019,12
 1800.0,3.0,3.0,Runwal Developers,Furnished,4 Bunglows,2019-12-28,100000.0,Apartment,Agent,2019,12
 1799.0,3.0,3.0,Adani Realty,Semi-Furnished,Andheri West,2019-12-25,105000.0,Apartment,Agent,2019,12
 2340.0,4.0,3.0,Ajmera Realty & Infra India Ltd.,Unfurnished,Wadala,2020-01-04,105000.0,Apartment,Agent,2020,01
+1456.0,3.0,3.0,Adani Realty,Semi-Furnished,4 Bunglows,2020-01-07,115000.0,Apartment,Agent,2020,01
+2187.0,3.0,3.0,Lodha Group,Furnished,Prabhadevi,2019-11-27,120000.0,Apartment,Agent,2019,11
+1900.0,4.0,3.0,Lodha Group,Semi-Furnished,Bhakti Park,2019-11-15,110000.0,Apartment,Agent,2019,11
+1118.0,3.0,3.0,RNA NG Builders,Semi-Furnished,Andheri West,2019-12-17,110000.0,Apartment,Agent,2019,12
+1500.0,3.0,3.0,Adani Realty,Semi-Furnished,Andheri West,2019-12-03,110000.0,Apartment,Agent,2019,12
+1850.0,3.0,3.0,Raheja Developers,Unfurnished,Andheri West,2019-11-20,115000.0,Apartment,Agent,2019,11
+1800.0,4.0,3.0,K Raheja Corp,Furnished,Lokhandwala Complex,2019-11-28,120000.0,Apartment,Agent,2019,11
+1955.0,3.0,3.0,Rustomjee,Semi-Furnished,D.N. Nagar,2019-11-15,114999.0,Apartment,Agent,2019,11
+1850.0,3.0,3.0,Lodha Group,Furnished,Prabhadevi,2019-12-19,110000.0,Apartment,Agent,2019,12
+1600.0,3.0,3.0,Runwal Developers,Semi-Furnished,Andheri West,2019-11-23,125000.0,Apartment,Agent,2019,11
+1850.0,3.0,3.0,Omkar Realtors and Developers Pvt. Ltd.,Semi-Furnished,Parel,2019-12-20,110000.0,Apartment,Agent,2019,12
+1500.0,3.0,3.0,Lodha Group,Semi-Furnished,Parel,2019-11-18,110000.0,Apartment,Agent,2019,11
+1750.0,3.0,3.0,Adani Realty,Semi-Furnished,D.N. Nagar,2019-12-17,110000.0,Apartment,Agent,2019,12
+1388.0,3.0,3.0,Hubtown Limited,Semi-Furnished,Kala Nagar,2019-11-27,118000.0,Apartment,Agent,2019,11
+1683.0,3.0,3.0,Lodha Group,Unfurnished,Worli,2020-01-10,125000.0,Apartment,Agent,2020,01
+1675.0,3.0,3.0,DB Realty Limited,Unfurnished,Mumbai Central,2019-12-18,110000.0,Apartment,Agent,2019,12
+1960.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-13,110000.0,Apartment,Agent,2020,01
+2195.0,3.0,3.0,Adani Realty,Semi-Furnished,Andheri West,2020-01-12,120000.0,Apartment,Agent,2020,01
 2100.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-13,105000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,Lodha Group,Semi-Furnished,Parel,2020-01-12,110000.0,Apartment,Agent,2020,01
+1650.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,125000.0,Apartment,Agent,2020,01
+1674.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-06,125000.0,Apartment,Agent,2020,01
+1450.0,3.0,3.0,Adani Realty,Unfurnished,Andheri West,2020-01-14,110000.0,Apartment,Agent,2020,01
+1470.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-13,110000.0,Apartment,Agent,2020,01
+2673.0,4.0,3.0,Lodha Group,Unfurnished,Goregaon East,2020-01-07,110000.0,Apartment,Agent,2020,01
+2000.0,4.0,3.0,Runwal Developers,Semi-Furnished,Andheri West,2020-01-13,115000.0,Apartment,Agent,2020,01
+1450.0,3.0,3.0,Avarsekar Builder,Semi-Furnished,Prabhadevi,2020-01-04,125000.0,Apartment,Agent,2020,01
+1820.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Goregaon East,2020-01-08,110000.0,Apartment,Agent,2020,01
+1650.0,2.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-12,125000.0,Apartment,Agent,2020,01
+1760.0,3.0,3.0,Runwal Developers,Semi-Furnished,Andheri West,2020-01-12,120000.0,Apartment,Agent,2020,01
+1700.0,3.0,3.0,Samartha Development Corporation,Semi-Furnished,Andheri West,2019-11-28,125000.0,Apartment,Agent,2019,11
+2520.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-13,125000.0,Apartment,Agent,2020,01
+1600.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-14,120000.0,Apartment,Agent,2020,01
+1995.0,3.0,3.0,Runwal Developers,Semi-Furnished,Lokhandwala Complex,2020-01-12,115000.0,Apartment,Agent,2020,01
 2150.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-14,105000.0,Apartment,Agent,2020,01
+1450.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,120000.0,Apartment,Agent,2020,01
+1900.0,1.0,3.0,Ruparel Realty,Semi-Furnished,Abhyudaya Nagar,2019-12-13,110000.0,Apartment,Agent,2019,12
+1500.0,3.0,3.0,Hiranandani Group,Furnished,Powai,2019-12-29,115000.0,Apartment,Agent,2019,12
+1295.0,2.0,3.0,Oberoi Realty Limited,Furnished,Andheri West,2020-01-14,125000.0,Apartment,Agent,2020,01
+2520.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-13,125000.0,Apartment,Agent,2020,01
+1280.0,3.0,3.0,Lodha Group,Unfurnished,Worli,2019-12-31,120000.0,Apartment,Agent,2019,12
+1820.0,3.0,3.0,Oberoi Realty Limited,Furnished,Goregaon East,2019-11-18,125000.0,Apartment,Agent,2019,11
+1650.0,3.0,3.0,Kamala Group,Semi-Furnished,Santacruz West,2020-01-14,110000.0,Apartment,Agent,2020,01
+2500.0,4.0,3.0,Adani Realty,Unfurnished,Andheri West,2020-01-14,125000.0,Apartment,Agent,2020,01
+1700.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-12,123000.0,Apartment,Agent,2020,01
+1400.0,3.0,3.0,Kotari,Semi-Furnished,Lal Baug,2019-11-15,110000.0,Apartment,Agent,2019,11
+1500.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,125000.0,Apartment,Agent,2020,01
+1400.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-12,115000.0,Apartment,Agent,2020,01
+1970.0,3.0,3.0,Runwal Developers,Semi-Furnished,Lokhandwala Complex,2019-12-28,115000.0,Apartment,Agent,2019,12
 2100.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-13,105000.0,Apartment,Agent,2020,01
+1700.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2019-12-16,125000.0,Apartment,Agent,2019,12
+1740.0,3.0,3.0,Hiranandani Group,Furnished,Powai,2019-12-29,115000.0,Apartment,Agent,2019,12
+1750.0,4.0,3.0,Adani Realty,Unfurnished,Andheri West,2020-01-13,115000.0,Apartment,Agent,2020,01
+1295.0,2.0,3.0,Oberoi Realty Limited,Semi-Furnished,Andheri West,2019-11-25,110000.0,Apartment,Agent,2019,11
+1960.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-14,110000.0,Apartment,Agent,2020,01
+1650.0,3.0,3.0,Lodha Group,Unfurnished,Goregaon East,2019-11-14,110000.0,Apartment,Agent,2019,11
+1280.0,3.0,3.0,Lodha Group,Unfurnished,Worli,2019-12-31,125000.0,Apartment,Agent,2019,12
+1650.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-12,115000.0,Apartment,Agent,2020,01
+1820.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Andheri East,2019-12-11,115000.0,Apartment,Agent,2019,12
+1400.0,3.0,3.0,Adani Realty,Semi-Furnished,Andheri West,2020-01-12,120000.0,Apartment,Agent,2020,01
+2315.0,3.0,3.0,Adani Realty,Semi-Furnished,Andheri West,2020-01-12,120000.0,Apartment,Agent,2020,01
+1450.0,2.0,3.0,Kotari,Semi-Furnished,Parel,2019-12-06,110000.0,Apartment,Agent,2019,12
+1720.0,3.0,3.0,Raheja Developers,Furnished,Andheri West,2020-01-14,110000.0,Apartment,Agent,2020,01
+1900.0,3.0,3.0,Cooperative Group Housing Society,Furnished,Oshiwara,2019-12-13,119000.0,Apartment,Agent,2019,12
+1875.0,3.0,3.0,Cosmos Group,Semi-Furnished,Prabhadevi,2020-01-06,125000.0,Apartment,Agent,2020,01
+1960.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-11,110000.0,Apartment,Agent,2020,01
+2085.0,3.0,3.0,Rustomjee,Semi-Furnished,Juhu,2019-12-30,125000.0,Apartment,Agent,2019,12
+2150.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-14,115000.0,Apartment,Agent,2020,01
+2200.0,4.0,3.0,L&T Realty,Furnished,Parel,2019-12-12,120000.0,Apartment,Agent,2019,12
+1550.0,3.0,3.0,Runwal Developers,Unfurnished,Lokhandwala Complex,2020-01-13,110000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,Samarth Development Corporation,Unfurnished,Andheri West,2019-11-22,125000.0,Apartment,Agent,2019,11
+1700.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Goregaon East,2020-01-14,110000.0,Apartment,Agent,2020,01
+1550.0,3.0,3.0,Hiranandani Group,Furnished,Powai,2020-01-13,119000.0,Apartment,Agent,2020,01
+1650.0,2.0,3.0,Oberoi Realty Limited,Furnished,Andheri West,2020-01-14,122000.0,Apartment,Agent,2020,01
+1830.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli Tip,2019-12-28,115000.0,Apartment,Agent,2019,12
+1550.0,4.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,120000.0,Apartment,Agent,2020,01
+2000.0,3.0,3.0,Rustomjee,Semi-Furnished,Andheri West,2020-01-12,120000.0,Apartment,Agent,2020,01
 1760.0,3.0,3.0,Runwal Developers,Unfurnished,Andheri West,2020-01-12,105000.0,Apartment,Agent,2020,01
+1850.0,3.0,3.0,K Raheja Corp,Furnished,Andheri West,2020-01-12,118000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,Runwal Developers,Furnished,Lokhandwala Complex,2019-12-18,122000.0,Apartment,Agent,2019,12
+1500.0,3.0,3.0,Hubtown Limited,Furnished,Bandra East,2020-01-12,125000.0,Apartment,Agent,2020,01
+1925.0,2.0,3.0,Neev Infrastructure,Unfurnished,Prabhadevi,2019-12-17,110000.0,Apartment,Agent,2019,12
+1960.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-11,110000.0,Apartment,Agent,2020,01
+2750.0,5.0,3.0,L&T Realty,Unfurnished,Parel,2020-01-12,125000.0,Apartment,Agent,2020,01
+1850.0,3.0,3.0,Samartha Development Corporation,Semi-Furnished,Andheri West,2020-01-13,125000.0,Apartment,Agent,2020,01
+1295.0,2.0,3.0,Oberoi Realty Limited,Furnished,Andheri West,2019-12-03,125000.0,Apartment,Agent,2019,12
+1960.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-14,110000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,Lodha Group,Unfurnished,Lower Parel,2019-12-30,125000.0,Apartment,Agent,2019,12
+1980.0,3.0,3.0,Leocadia Group,Semi-Furnished,Willingdon Colony,2020-01-08,120000.0,Apartment,Agent,2020,01
 1760.0,3.0,3.0,Runwal Developers,Unfurnished,Andheri West,2020-01-12,105000.0,Apartment,Agent,2020,01
+1880.0,3.0,3.0,Samartha Development Corporation,Furnished,Lokhandwala Complex,2019-12-12,124000.0,Apartment,Agent,2019,12
+1600.0,3.0,3.0,Bhoomi Group,Furnished,Khar West,2020-01-14,120000.0,Apartment,Agent,2020,01
+1975.0,2.0,3.0,Aman Builders,Furnished,Worli,2019-12-17,120000.0,Apartment,Agent,2019,12
 1820.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Goregaon East,2019-11-26,100000.0,Apartment,Agent,2019,11
+2195.0,4.0,3.0,Oberoi Realty Limited,Semi-Furnished,Goregaon East,2020-01-12,110000.0,Apartment,Agent,2020,01
+1250.0,2.0,3.0,Oberoi Realty Limited,Furnished,Andheri West,2019-12-02,115000.0,Apartment,Agent,2019,12
 2100.0,3.0,3.0,L&T Realty,Unfurnished,Parel,2020-01-12,105000.0,Apartment,Agent,2020,01
+2187.0,3.0,3.0,Lodha Group,Furnished,Prabhadevi,2019-11-18,125000.0,Apartment,Agent,2019,11
+2000.0,3.0,3.0,Hiranandani Group,Unfurnished,Powai,2019-11-29,120000.0,Apartment,Agent,2019,11
 1650.0,3.0,3.0,Adani Realty,Unfurnished,Andheri West,2020-01-13,105000.0,Apartment,Agent,2020,01
+1440.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,125000.0,Apartment,Agent,2020,01
+1300.0,2.0,3.0,Oberoi Realty Limited,Semi-Furnished,Andheri West,2020-01-12,110000.0,Apartment,Agent,2020,01
+1722.0,3.0,3.0,RNA Corp,Semi-Furnished,Santacruz West,2020-01-14,120000.0,Apartment,Agent,2020,01
+1980.0,3.0,3.0,Shrey Associates,Furnished,Khar West,2020-01-12,120000.0,Apartment,Agent,2020,01
 1960.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-13,108000.0,Apartment,Agent,2020,01
 2100.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2019-12-21,105000.0,Apartment,Agent,2019,12
+1450.0,3.0,3.0,Adani Realty,Unfurnished,Andheri West,2020-01-13,110000.0,Apartment,Agent,2020,01
+1295.0,2.0,3.0,Oberoi Realty Limited,Furnished,Andheri West,2019-11-19,120000.0,Apartment,Agent,2019,11
+1631.0,3.0,3.0,Lodha Group,Semi-Furnished,Lal Baug,2020-01-08,110000.0,Apartment,Agent,2020,01
+1450.0,3.0,3.0,Hiranandani Group,Furnished,Powai,2020-01-13,110000.0,Apartment,Agent,2020,01
+1750.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Goregaon East,2020-01-13,120000.0,Apartment,Agent,2020,01
+1130.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-12,120000.0,Apartment,Agent,2020,01
+2000.0,3.0,3.0,Cooperative Group Housing Society,Furnished,Oshiwara,2019-12-17,111000.0,Apartment,Agent,2019,12
+1300.0,2.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-13,110000.0,Apartment,Agent,2020,01
+2150.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2019-11-27,110000.0,Apartment,Agent,2019,11
+1800.0,3.0,3.0,L&T Realty,Furnished,Powai lake,2019-12-06,120000.0,Apartment,Agent,2019,12
+1650.0,3.0,3.0,Adani Realty,Furnished,Andheri West,2020-01-13,125000.0,Apartment,Agent,2020,01
+1558.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-11-22,125000.0,Apartment,Agent,2019,11
+1631.0,3.0,3.0,Lodha Group,Semi-Furnished,Lal Baug,2020-01-06,110000.0,Apartment,Agent,2020,01
+2295.0,3.0,3.0,Oberoi Realty Limited,Furnished,Goregaon East,2020-01-10,114000.0,Apartment,Agent,2020,01
+1700.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Goregaon East,2020-01-13,110000.0,Apartment,Agent,2020,01
+1850.0,3.0,3.0,Ruparel Realty,Semi-Furnished,Parel,2020-01-07,120000.0,Apartment,Agent,2020,01
+1650.0,3.0,3.0,Adani Realty,Unfurnished,Andheri West,2020-01-13,120000.0,Apartment,Agent,2020,01
+1540.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2019-12-24,110000.0,Apartment,Agent,2019,12
+1750.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Goregaon East,2020-01-10,115000.0,Apartment,Agent,2020,01
+1305.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,New Link Road,2020-01-12,120000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,Patel Developers,Semi-Furnished,Goregaon West,2020-01-14,110000.0,Apartment,Agent,2020,01
+1950.0,3.0,3.0,Samartha Development Corporation,Furnished,Lokhandwala Complex,2019-12-12,118000.0,Apartment,Agent,2019,12
+1850.0,4.0,3.0,Aman Builders,Furnished,Worli,2019-11-15,110000.0,Apartment,Agent,2019,11
 1820.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Goregaon East,2020-01-01,100000.0,Apartment,Agent,2020,01
 1760.0,3.0,3.0,Runwal Developers,Semi-Furnished,Andheri West,2019-12-08,105000.0,Apartment,Agent,2019,12
+1300.0,2.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-12,110000.0,Apartment,Agent,2020,01
+1700.0,3.0,3.0,Cooperative Group Housing Society,Unfurnished,Oshiwara,2020-01-13,115000.0,Apartment,Agent,2020,01
+1190.0,2.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2019-12-24,120000.0,Apartment,Agent,2019,12
+1700.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-13,110000.0,Apartment,Agent,2020,01
+1650.0,3.0,3.0,Runwal Developers,Furnished,Andheri West,2019-12-24,120000.0,Apartment,Agent,2019,12
+1800.0,3.0,3.0,Hubtown Limited,Unfurnished,Bandra East,2020-01-12,120000.0,Apartment,Agent,2020,01
+2520.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-09,125000.0,Apartment,Agent,2020,01
+2520.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-09,125000.0,Apartment,Agent,2020,01
+1960.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-09,110000.0,Apartment,Agent,2020,01
+1631.0,3.0,3.0,Lodha Group,Semi-Furnished,Lal Baug,2019-11-20,110000.0,Apartment,Agent,2019,11
+1450.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-13,120000.0,Apartment,Agent,2020,01
 1700.0,3.0,3.0,Adani Realty,Semi-Furnished,Andheri West,2019-12-14,102000.0,Apartment,Agent,2019,12
+1960.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-11,110000.0,Apartment,Agent,2020,01
+1960.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-11,110000.0,Apartment,Agent,2020,01
+1450.0,3.0,3.0,Hiranandani Group,Furnished,Powai,2020-01-13,125000.0,Apartment,Agent,2020,01
+2000.0,4.0,3.0,Hubtown Limited,Semi-Furnished,Bandra East,2020-01-06,125000.0,Apartment,Agent,2020,01
+1960.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-09,110000.0,Apartment,Agent,2020,01
 1700.0,3.0,3.0,Adani Realty,Semi-Furnished,Andheri West,2019-12-14,103000.0,Apartment,Agent,2019,12
+2520.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-09,125000.0,Apartment,Agent,2020,01
+1700.0,3.0,3.0,Adani Realty,Semi-Furnished,Andheri West,2019-12-07,120000.0,Apartment,Agent,2019,12
+1631.0,3.0,3.0,Lodha Group,Semi-Furnished,Lal Baug,2019-12-04,110000.0,Apartment,Agent,2019,12
+1700.0,3.0,3.0,Adani Realty,Semi-Furnished,Andheri West,2019-11-21,125000.0,Apartment,Agent,2019,11
+1960.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2019-11-28,115000.0,Apartment,Agent,2019,11
 2126.0,3.0,3.0,Adani Realty,Semi-Furnished,Andheri West,2019-12-04,102000.0,Apartment,Agent,2019,12
+1960.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2019-11-28,115000.0,Apartment,Agent,2019,11
+2000.0,4.0,3.0,Runwal Developers,Semi-Furnished,Andheri West,2019-12-11,115000.0,Apartment,Agent,2019,12
+1960.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2019-11-17,115000.0,Apartment,Agent,2019,11
+2000.0,4.0,3.0,Runwal Developers,Semi-Furnished,Andheri West,2019-11-23,122000.0,Apartment,Agent,2019,11
+1960.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2019-11-23,115000.0,Apartment,Agent,2019,11
+2000.0,4.0,3.0,Runwal Developers,Semi-Furnished,Andheri West,2019-11-22,118000.0,Apartment,Agent,2019,11
+1631.0,3.0,3.0,Lodha Group,Semi-Furnished,Lal Baug,2019-11-20,110000.0,Apartment,Agent,2019,11
+1190.0,2.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2019-12-24,120000.0,Apartment,Agent,2019,12
 2315.0,3.0,3.0,Adani Realty,Semi-Furnished,Andheri West,2019-12-28,106000.0,Apartment,Agent,2019,12
+2280.0,4.0,3.0,Oberoi Realty Limited,Unfurnished,Goregaon East,2020-01-06,110000.0,Apartment,Agent,2020,01
 2000.0,3.0,3.0,Lodha Group,Semi-Furnished,Goregaon East,2019-11-30,105000.0,Apartment,Agent,2019,11
+2195.0,5.0,3.0,Lodha Group,Semi-Furnished,Goregaon East,2019-12-22,120000.0,Apartment,Agent,2019,12
 2195.0,4.0,3.0,Oberoi Realty Limited,Semi-Furnished,Goregaon East,2019-11-29,100000.0,Apartment,Agent,2019,11
 2205.0,3.0,3.0,Lodha Group,Furnished,Goregaon East,2019-11-14,102000.0,Apartment,Agent,2019,11
+1500.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,130000.0,Apartment,Agent,2020,01
+1760.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli Sea Face,2020-01-12,150000.0,Apartment,Agent,2020,01
+1820.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Yeshodham,2020-01-12,130000.0,Apartment,Agent,2020,01
+1347.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,150000.0,Apartment,Agent,2020,01
+1400.0,4.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,135000.0,Apartment,Agent,2020,01
+1700.0,3.0,3.0,Hiranandani Group,Furnished,Powai,2020-01-12,130000.0,Apartment,Agent,2020,01
+1683.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,130000.0,Apartment,Agent,2020,01
+1900.0,3.0,3.0,Rustomjee,Semi-Furnished,Andheri West,2020-01-14,135000.0,Apartment,Agent,2020,01
+1995.0,3.0,3.0,Runwal Developers,Furnished,Lokhandwala Complex,2020-01-12,136000.0,Apartment,Agent,2020,01
+1750.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,135000.0,Apartment,Agent,2020,01
+2400.0,4.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-12,156000.0,Apartment,Agent,2020,01
+2750.0,4.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-09,150000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-12,130000.0,Apartment,Agent,2020,01
+1400.0,2.0,3.0,Hiranandani Group,Furnished,Powai,2019-12-29,135000.0,Apartment,Agent,2019,12
+1600.0,3.0,3.0,Adani Realty,Unfurnished,4 Bunglows,2020-01-13,130000.0,Apartment,Agent,2020,01
+1820.0,3.0,3.0,Oberoi Realty Limited,Furnished,Goregaon East,2020-01-13,140000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,Hilla Builder Pvt. Ltd.,Semi-Furnished,Bandra West,2020-01-12,140000.0,Apartment,Agent,2020,01
+1850.0,3.0,3.0,K Raheja Corp,Furnished,Andheri West,2020-01-13,135000.0,Apartment,Agent,2020,01
+1600.0,3.0,3.0,Runwal Developers,Furnished,Lokhandwala Complex,2020-01-12,130000.0,Apartment,Agent,2020,01
+1815.0,3.0,3.0,Godrej Properties,Unfurnished,Vikhroli,2020-01-13,150000.0,Apartment,Agent,2020,01
+1500.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,150000.0,Apartment,Agent,2020,01
+1760.0,3.0,3.0,Runwal Developers,Furnished,Andheri West,2020-01-13,130000.0,Apartment,Agent,2020,01
+2100.0,3.0,3.0,L&T Realty,Furnished,Powai,2020-01-14,150000.0,Apartment,Agent,2020,01
+2412.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,130000.0,Apartment,Agent,2020,01
+1780.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-09,145000.0,Apartment,Agent,2020,01
+2610.0,3.0,3.0,Bombay Realty,Semi-Furnished,Dadar East,2020-01-13,155000.0,Apartment,Agent,2020,01
+1600.0,3.0,3.0,Kesar Group,Semi-Furnished,Dadar East,2020-01-14,150000.0,Apartment,Agent,2020,01
+2100.0,3.0,3.0,Adani Realty,Semi-Furnished,Andheri West,2020-01-14,135000.0,Apartment,Agent,2020,01
+1450.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-12,140000.0,Apartment,Agent,2020,01
+1360.0,3.0,3.0,Runwal Developers,Furnished,Andheri West,2020-01-14,135000.0,Apartment,Agent,2020,01
+1350.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,130000.0,Apartment,Agent,2020,01
+1440.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-07,130000.0,Apartment,Agent,2019,12
+1683.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,130000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,Atul Projects,Semi-Furnished,Mazgaon,2020-01-12,150000.0,Apartment,Agent,2020,01
+1650.0,3.0,3.0,Runwal Developers,Furnished,Andheri West,2020-01-10,134000.0,Apartment,Agent,2020,01
+3271.0,3.0,3.0,Bombay Realty,Semi-Furnished,Dadar East,2019-12-05,150000.0,Apartment,Agent,2019,12
+1470.0,4.0,3.0,Lodha Group,Unfurnished,Worli,2019-12-24,150000.0,Apartment,Agent,2019,12
+1650.0,3.0,3.0,Lodha Group,Unfurnished,Goregaon East,2019-11-14,150000.0,Apartment,Agent,2019,11
+1800.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-13,140000.0,Apartment,Owner,2020,01
+1278.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Unfurnished,Bandra Kurla Complex,2020-01-14,136000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-09,150000.0,Apartment,Owner,2020,01
+1800.0,3.0,3.0,Happy Home Group,Unfurnished,Bandra East,2020-01-12,150000.0,Apartment,Agent,2020,01
+2040.0,4.0,3.0,Cooperative Group Housing Society,Semi-Furnished,Oshiwara,2020-01-14,130000.0,Apartment,Agent,2020,01
+1780.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,152000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,Lodha Group,Unfurnished,Worli,2020-01-11,130000.0,Apartment,Agent,2020,01
+2350.0,3.0,3.0,Nahar Group,Semi-Furnished,Chandivali,2020-01-14,130000.0,Apartment,Agent,2020,01
+1360.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Unfurnished,Bandra Kurla Complex,2020-01-14,150000.0,Apartment,Agent,2020,01
+2420.0,3.0,3.0,L&T Realty,Semi-Furnished,Bhoiwada,2020-01-13,130000.0,Apartment,Agent,2020,01
+1900.0,4.0,3.0,Transcon Group,Semi-Furnished,Andheri West,2020-01-14,140000.0,Apartment,Agent,2020,01
+1700.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-14,150000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,Cooperative Group Housing Society,Furnished,Kalina,2020-01-04,130000.0,Apartment,Owner,2020,01
+1250.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,140000.0,Apartment,Agent,2020,01
+1650.0,3.0,3.0,Ekta World,Semi-Furnished,Khar West,2020-01-14,150000.0,Apartment,Agent,2020,01
+1900.0,3.0,3.0,Rustomjee,Semi-Furnished,Andheri West,2020-01-13,130000.0,Apartment,Agent,2020,01
+2195.0,4.0,3.0,Oberoi Realty Limited,Furnished,Yeshodham,2020-01-13,140000.0,Apartment,Agent,2020,01
+1550.0,3.0,3.0,Hiranandani Group,Furnished,Powai lake,2020-01-14,140000.0,Apartment,Agent,2020,01
+1820.0,3.0,3.0,Oberoi Realty Limited,Furnished,Yeshodham,2020-01-14,150000.0,Apartment,Agent,2020,01
+1580.0,3.0,3.0,Rustomjee,Semi-Furnished,Bandra Kurla Complex,2020-01-14,150000.0,Apartment,Agent,2020,01
+1440.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-14,130000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,Lodha Group,Furnished,Parel,2020-01-12,140000.0,Apartment,Agent,2020,01
+1750.0,3.0,3.0,Lodha Group,Unfurnished,Worli,2020-01-12,150000.0,Apartment,Agent,2020,01
+1700.0,4.0,3.0,Adani Realty,Unfurnished,Andheri West,2020-01-13,135000.0,Apartment,Agent,2020,01
+1800.0,4.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-12,150000.0,Apartment,Agent,2020,01
+2350.0,3.0,3.0,Neev Infrastructure,Semi-Furnished,Prabhadevi,2020-01-09,150000.0,Apartment,Agent,2020,01
+1900.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,140000.0,Apartment,Agent,2020,01
+2100.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-13,129000.0,Apartment,Agent,2020,01
+1815.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-14,140000.0,Apartment,Agent,2020,01
+1500.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-12,150000.0,Apartment,Agent,2020,01
+1600.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-08,130000.0,Apartment,Agent,2020,01
+1350.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,132000.0,Apartment,Agent,2020,01
+1852.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Aarey Milk Colony,2020-01-14,135000.0,Apartment,Agent,2020,01
+1900.0,3.0,3.0,Rustomjee,Semi-Furnished,Andheri West,2020-01-10,135000.0,Apartment,Agent,2020,01
+1200.0,2.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-07,130000.0,Apartment,Agent,2020,01
+1300.0,3.0,3.0,Runwal Developers,Semi-Furnished,Andheri West,2020-01-08,130000.0,Apartment,Agent,2020,01
+2200.0,3.0,3.0,Rustomjee,Semi-Furnished,Bandra Kurla Complex,2020-01-13,140000.0,Apartment,Agent,2020,01
+1400.0,3.0,3.0,Oberoi Realty Limited,Furnished,Lokhandwala Complex,2020-01-13,150000.0,Apartment,Agent,2020,01
+1600.0,3.0,3.0,Rustomjee,Semi-Furnished,Bandra Kurla Complex,2020-01-14,130000.0,Apartment,Agent,2020,01
+2315.0,3.0,3.0,Adani Realty,Semi-Furnished,Andheri West,2020-01-12,135000.0,Apartment,Agent,2020,01
+1674.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-10,127000.0,Apartment,Agent,2020,01
+2150.0,3.0,3.0,Lokhandwala Infrastructure,Semi-Furnished,Worli,2020-01-08,130000.0,Apartment,Agent,2020,01
+2700.0,3.0,3.0,Runwal Developers,Unfurnished,Lokhandwala Complex,2020-01-08,140000.0,Apartment,Agent,2020,01
+1850.0,4.0,3.0,K Raheja Corp,Unfurnished,Lokhandwala Complex,2020-01-09,130000.0,Apartment,Agent,2020,01
+1600.0,3.0,3.0,Hiranandani Group,Furnished,Powai,2019-12-26,140000.0,Apartment,Agent,2019,12
+1700.0,4.0,3.0,Mitta Group,Furnished,Nepeansea Road,2020-01-13,150000.0,Apartment,Agent,2020,01
+2850.0,4.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-13,150000.0,Apartment,Agent,2020,01
+1600.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli Hill,2019-12-11,150000.0,Apartment,Agent,2019,12
+1500.0,4.0,3.0,Rustomjee,Unfurnished,Bandra Kurla Complex,2020-01-11,140000.0,Apartment,Agent,2020,01
+1863.0,3.0,3.0,Lodha Group,Unfurnished,Worli,2019-12-20,145000.0,Apartment,Agent,2019,12
+2000.0,3.0,3.0,Ansal Buildwell Limited,Furnished,Worli,2019-12-13,150000.0,Apartment,Agent,2019,12
+1313.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-09,140000.0,Apartment,Agent,2020,01
+2600.0,5.0,3.0,L&T Realty,Semi-Furnished,Bhoiwada,2020-01-10,150000.0,Apartment,Agent,2020,01
+1820.0,3.0,3.0,Oberoi Realty Limited,Furnished,Goregaon East,2019-12-27,150000.0,Apartment,Agent,2019,12
+1500.0,4.0,3.0,Lodha Group,Furnished,Worli,2019-12-06,140000.0,Apartment,Agent,2019,12
+1650.0,4.0,3.0,Runwal Developers,Furnished,Andheri West,2019-12-20,150000.0,Apartment,Agent,2019,12
+1700.0,3.0,3.0,Runwal Developers,Furnished,Andheri West,2020-01-05,130000.0,Apartment,Agent,2020,01
+1360.0,3.0,3.0,Runwal Developers,Semi-Furnished,Lokhandwala Complex,2019-11-20,130000.0,Apartment,Agent,2019,11
+2345.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2019-12-12,140000.0,Apartment,Agent,2019,12
+2031.0,3.0,3.0,Mahindra Lifespace Developers Ltd.,Semi-Furnished,Mahalakshmi,2020-01-12,140000.0,Apartment,Agent,2020,01
+1574.0,3.0,3.0,Options Group,Semi-Furnished,Santacruz West,2020-01-13,140000.0,Apartment,Agent,2020,01
+2000.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-14,135000.0,Apartment,Agent,2020,01
+1750.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-02,131999.0,Apartment,Agent,2020,01
+2245.0,4.0,3.0,Lodha Group,Unfurnished,Worli,2020-01-13,155000.0,Apartment,Agent,2020,01
+2750.0,4.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-13,135000.0,Apartment,Agent,2020,01
+2000.0,3.0,3.0,Hubtown Limited,Furnished,Andheri East,2020-01-14,140000.0,Apartment,Agent,2020,01
+2565.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-14,130000.0,Apartment,Agent,2020,01
+2000.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai lake,2020-01-08,140000.0,Apartment,Agent,2020,01
+2079.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-08,150000.0,Apartment,Agent,2020,01
+2700.0,4.0,3.0,Bombay Realty,Furnished,Dadar East,2020-01-09,146000.0,Apartment,Agent,2020,01
+2150.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-11,150000.0,Apartment,Agent,2020,01
+1400.0,3.0,3.0,Hiranandani Group,Unfurnished,Powai,2020-01-09,130000.0,Apartment,Agent,2020,01
+1500.0,3.0,3.0,Hiranandani Group,Furnished,Central Area,2019-12-24,145000.0,Apartment,Agent,2019,12
+2100.0,3.0,3.0,Hubtown Limited,Unfurnished,Bandra East,2019-12-27,140000.0,Apartment,Agent,2019,12
+1450.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2019-12-27,140000.0,Apartment,Agent,2019,12
+2187.0,3.0,3.0,Lodha Group,Furnished,Prabhadevi,2019-11-18,135000.0,Apartment,Agent,2019,11
+2000.0,3.0,3.0,Rustomjee,Semi-Furnished,Khar West,2019-11-29,155000.0,Apartment,Agent,2019,11
+1745.0,3.0,3.0,Lodha Group,Unfurnished,Worli,2020-01-12,150000.0,Apartment,Agent,2020,01
+2100.0,4.0,3.0,Hiranandani Group,Furnished,Powai lake,2020-01-06,150000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,L&T Realty,Furnished,Powai,2019-12-19,150000.0,Apartment,Agent,2019,12
+1900.0,3.0,3.0,Samarth Development Corporation,Semi-Furnished,Oshiwara,2019-12-29,130000.0,Apartment,Agent,2019,12
+1820.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Andheri East,2019-12-13,140000.0,Apartment,Agent,2019,12
+1450.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-25,150000.0,Apartment,Agent,2019,12
+2575.0,4.0,3.0,L&T Realty,Semi-Furnished,Bhoiwada,2019-12-13,150000.0,Apartment,Agent,2019,12
+1800.0,3.0,3.0,Ekta World,Unfurnished,Khar West,2020-01-07,150000.0,Apartment,Agent,2020,01
+2250.0,3.0,3.0,CICC Builders,Unfurnished,Andheri West,2020-01-07,150000.0,Apartment,Agent,2020,01
+1799.0,3.0,3.0,Adani Realty,Unfurnished,Andheri West,2019-12-04,130000.0,Apartment,Agent,2019,12
+1850.0,3.0,3.0,K Raheja Corp,Furnished,Lokhandwala Complex,2020-01-07,140000.0,Apartment,Agent,2020,01
+2079.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-26,150000.0,Apartment,Agent,2019,12
+2000.0,3.0,3.0,K Raheja Corp,Furnished,Andheri West,2019-12-17,140000.0,Apartment,Agent,2019,12
+1580.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-16,130000.0,Apartment,Agent,2019,12
+1650.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-02,130000.0,Apartment,Agent,2020,01
+1702.0,3.0,3.0,Krypton Developer,Semi-Furnished,Prabhadevi,2020-01-01,150000.0,Apartment,Agent,2020,01
+2575.0,4.0,3.0,L&T Realty,Semi-Furnished,Bhoiwada,2020-01-10,129500.0,Apartment,Agent,2020,01
+1450.0,3.0,3.0,K Raheja Corp,Furnished,Lokhandwala Complex,2019-11-23,135000.0,Apartment,Agent,2019,11
+1700.0,3.0,3.0,Rustomjee,Furnished,Versova,2019-12-06,135000.0,Apartment,Agent,2019,12
+1910.0,3.0,3.0,Ekta World,Semi-Furnished,Chembur,2019-12-29,135000.0,Apartment,Agent,2019,12
+1800.0,3.0,3.0,Happy Home Group,Semi-Furnished,MIG Colony,2019-12-02,145000.0,Apartment,Agent,2019,12
+1650.0,3.0,3.0,Aksee Real Estate,Semi-Furnished,Matunga West,2019-11-14,140000.0,Apartment,Agent,2019,11
+2626.0,3.0,3.0,Kalpataru Limited,Semi-Furnished,Goregaon West,2019-12-18,150000.0,Apartment,Agent,2019,12
+1675.0,3.0,3.0,Runwal Developers,Furnished,Andheri West,2019-12-30,130000.0,Apartment,Agent,2019,12
+1700.0,3.0,3.0,Sanjay Jain Developer Group,Furnished,Jacob Circle,2019-12-04,150000.0,Apartment,Agent,2019,12
+1560.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2019-12-16,130000.0,Apartment,Agent,2019,12
+1800.0,3.0,3.0,Satellite Developers Pvt Ltd,Furnished,Andheri East,2019-12-13,140000.0,Apartment,Agent,2019,12
+2650.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-04,135000.0,Apartment,Agent,2020,01
+2230.0,4.0,3.0,L&T Realty,Furnished,Powai,2019-11-24,130000.0,Apartment,Agent,2019,11
+1650.0,3.0,3.0,Lokhandwala Infrastructure,Unfurnished,Worli Naka Acharaya Atre Chowk,2019-12-12,135000.0,Apartment,Agent,2019,12
+1300.0,3.0,3.0,Amrut Group,Semi-Furnished,Matunga West,2019-12-13,130000.0,Apartment,Agent,2019,12
+1850.0,3.0,3.0,Atul Projects,Semi-Furnished,Mazgaon,2019-12-28,140000.0,Apartment,Agent,2019,12
+1611.0,3.0,3.0,Bombay Realty,Semi-Furnished,Dadar East,2019-12-21,140000.0,Apartment,Agent,2019,12
+1764.0,3.0,3.0,Lodha Group,Semi-Furnished,Parel,2019-12-17,150000.0,Apartment,Agent,2019,12
+1400.0,2.0,3.0,Millennium Group,Semi-Furnished,Lower Parel,2019-12-23,135000.0,Apartment,Agent,2019,12
+2000.0,3.0,3.0,Krypton Developer,Semi-Furnished,Prabhadevi,2019-12-05,150000.0,Apartment,Agent,2019,12
+1500.0,3.0,3.0,Lokhandwala Infrastructure,Furnished,Worli Naka Acharaya Atre Chowk,2019-11-29,150000.0,Apartment,Agent,2019,11
+2710.0,4.0,3.0,L&T Realty,Semi-Furnished,Parel,2019-12-24,150000.0,Apartment,Agent,2019,12
+1539.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-11-25,150000.0,Apartment,Agent,2019,11
+1034.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2019-11-25,128000.0,Apartment,Agent,2019,11
+2200.0,3.0,3.0,Aristo Realty Developers Limited,Semi-Furnished,Prabhadevi,2020-01-13,150000.0,Apartment,Agent,2020,01
+1900.0,3.0,3.0,Ruparel Realty,Semi-Furnished,Parel,2020-01-09,130000.0,Apartment,Owner,2020,01
+1533.0,3.0,3.0,Kalptaru Construction,Furnished,Parel,2020-01-05,150000.0,Apartment,Owner,2020,01
+2250.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-09,155000.0,Apartment,Agent,2020,01
+1750.0,3.0,3.0,Avarsekar Builder,Semi-Furnished,Prabhadevi,2019-12-29,145000.0,Apartment,Agent,2019,12
+1400.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-18,135000.0,Apartment,Agent,2019,12
+1771.0,3.0,3.0,Marathon Realty Pvt Ltd,Furnished,Lower Parel,2019-12-25,140000.0,Apartment,Agent,2019,12
+2600.0,4.0,3.0,L&T Realty,Semi-Furnished,Parel,2019-12-17,155000.0,Apartment,Agent,2019,12
+2000.0,3.0,3.0,Lodha Group,Furnished,Goregaon East,2020-01-09,150000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,Raheja Universal Pvt Ltd.,Semi-Furnished,Sion,2019-12-28,155000.0,Apartment,Agent,2019,12
+2361.0,3.0,3.0,Nahar Group,Furnished,Andheri East,2019-12-16,150000.0,Apartment,Agent,2019,12
+1800.0,3.0,3.0,Atul Projects,Unfurnished,Mazgaon,2019-12-13,150000.0,Apartment,Agent,2019,12
+1760.0,3.0,3.0,Runwal Developers,Unfurnished,Andheri West,2019-11-28,130000.0,Apartment,Owner,2019,11
+1900.0,4.0,3.0,Lok Housing and Constructions Ltd.,Furnished,Khar West,2019-12-31,150000.0,Apartment,Owner,2019,12
+1500.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,130000.0,Apartment,Agent,2020,01
+1674.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,130000.0,Apartment,Agent,2020,01
+2144.0,3.0,3.0,Aristo Realty Developers Limited,Semi-Furnished,Kowli Chowk,2020-01-13,155000.0,Apartment,Agent,2020,01
+1500.0,3.0,3.0,Aristo Realty Developers Limited,Semi-Furnished,Prabhadevi,2020-01-07,152000.0,Apartment,Agent,2020,01
+1400.0,4.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,132000.0,Apartment,Agent,2020,01
+1683.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,127000.0,Apartment,Agent,2020,01
+2089.0,4.0,3.0,Runwal Developers,Furnished,Lokhandwala Complex,2020-01-13,149000.0,Apartment,Agent,2020,01
+1750.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,130000.0,Apartment,Agent,2020,01
+1650.0,4.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,136000.0,Apartment,Agent,2020,01
+2575.0,4.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-11,135000.0,Apartment,Agent,2020,01
+1818.0,3.0,3.0,Lodha Group,Semi-Furnished,Mahalakshmi,2020-01-12,150000.0,Apartment,Agent,2020,01
+1700.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2019-12-14,135000.0,Apartment,Agent,2019,12
+1600.0,3.0,3.0,Adani Realty,Unfurnished,Andheri West,2020-01-13,130000.0,Apartment,Agent,2020,01
+1290.0,3.0,3.0,Oberoi Realty Limited,Furnished,Goregaon East,2020-01-13,140000.0,Apartment,Agent,2020,01
+2067.0,4.0,3.0,Runwal Developers,Semi-Furnished,Andheri West,2020-01-12,130000.0,Apartment,Agent,2020,01
+2846.0,3.0,3.0,Bombay Realty,Unfurnished,Dadar East,2020-01-13,150000.0,Apartment,Agent,2020,01
+1850.0,3.0,3.0,Kesar Group,Unfurnished,Dadar East,2020-01-13,140000.0,Apartment,Agent,2020,01
+1295.0,2.0,3.0,Oberoi Realty Limited,Furnished,Andheri West,2020-01-14,130000.0,Apartment,Agent,2020,01
+1750.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-12,126000.0,Apartment,Agent,2020,01
+2340.0,3.0,3.0,Ajmera Realty and Infra,Semi-Furnished,Wadala East,2019-12-21,135000.0,Apartment,Agent,2019,12
+1600.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-06,150000.0,Apartment,Agent,2020,01
+1805.0,3.0,3.0,Raheja Universal Pvt Ltd.,Semi-Furnished,Sion,2020-01-14,155000.0,Apartment,Agent,2020,01
+1760.0,3.0,3.0,Runwal Developers,Semi-Furnished,Andheri West,2020-01-14,130000.0,Apartment,Agent,2020,01
+2600.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-12,145000.0,Apartment,Agent,2020,01
+1440.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-11-26,130000.0,Apartment,Agent,2019,11
+1650.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-12,130000.0,Apartment,Agent,2020,01
+1550.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-11-29,135000.0,Apartment,Agent,2019,11
+1683.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-26,140000.0,Apartment,Agent,2019,12
+2000.0,3.0,3.0,Lodha Group,Semi-Furnished,Prabhadevi,2020-01-13,150000.0,Apartment,Agent,2020,01
+1360.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Unfurnished,Bandra Kurla Complex,2020-01-06,150000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Unfurnished,Bandra Kurla Complex,2020-01-12,150000.0,Apartment,Agent,2020,01
+1250.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,135000.0,Apartment,Agent,2020,01
+1760.0,3.0,3.0,Runwal Developers,Furnished,Andheri West,2020-01-14,130000.0,Apartment,Agent,2020,01
+1400.0,2.0,3.0,Oberoi Realty Limited,Furnished,Veera Desai Road,2020-01-13,138000.0,Apartment,Agent,2020,01
+1550.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-14,150000.0,Apartment,Agent,2020,01
+2350.0,3.0,3.0,Transcon Group,Semi-Furnished,Andheri West,2019-12-18,150000.0,Apartment,Agent,2019,12
+1600.0,3.0,3.0,Shree Constructions,Unfurnished,Worli,2019-12-10,150000.0,Apartment,Agent,2019,12
+1781.0,3.0,3.0,Kalptaru Construction,Semi-Furnished,Parel,2020-01-14,155000.0,Apartment,Agent,2020,01
+1500.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-12,135000.0,Apartment,Agent,2020,01
+2260.0,3.0,3.0,Runwal Developers,Unfurnished,Andheri West,2020-01-12,130000.0,Apartment,Agent,2020,01
+1820.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Gokuldham,2020-01-11,128000.0,Apartment,Agent,2020,01
+1920.0,3.0,3.0,Lodha Group,Semi-Furnished,Parel,2019-11-26,150000.0,Apartment,Agent,2019,11
+2150.0,3.0,3.0,Transcon Group,Semi-Furnished,Andheri West,2020-01-09,135000.0,Apartment,Agent,2020,01
+1034.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2019-12-16,130000.0,Apartment,Agent,2019,12
+1750.0,3.0,3.0,Rustomjee,Semi-Furnished,Bandra Kurla Complex,2020-01-13,140000.0,Apartment,Agent,2020,01
+1500.0,3.0,3.0,Runwal Developers,Furnished,Lokhandwala Complex,2020-01-02,130000.0,Apartment,Agent,2020,01
+2120.0,3.0,3.0,Happy Home Group,Furnished,Kala Nagar,2020-01-14,150000.0,Apartment,Agent,2020,01
+2307.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2019-12-12,140000.0,Apartment,Agent,2019,12
+2150.0,3.0,3.0,Lodha Group,Unfurnished,Parel,2020-01-09,150000.0,Apartment,Agent,2020,01
+2000.0,3.0,3.0,Samarth Development Corporation,Unfurnished,Lokhandwala Complex,2019-12-25,130000.0,Apartment,Agent,2019,12
+2000.0,4.0,3.0,Mitta Group,Furnished,Nepeansea Road,2019-12-06,140000.0,Apartment,Agent,2019,12
+2000.0,3.0,3.0,Lodha Group,Furnished,Parel,2020-01-14,150000.0,Apartment,Agent,2020,01
+1443.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-11-27,140000.0,Apartment,Agent,2019,11
+1650.0,3.0,3.0,Kamala Group,Semi-Furnished,Santacruz West,2020-01-14,140000.0,Apartment,Agent,2020,01
+2104.0,3.0,3.0,Omkar Realtors and Developers Pvt. Ltd.,Unfurnished,Mahim West,2019-12-02,140000.0,Apartment,Agent,2019,12
+2600.0,5.0,3.0,L&T Realty,Semi-Furnished,Bhoiwada,2020-01-04,140000.0,Apartment,Agent,2020,01
+1700.0,3.0,3.0,Adani Realty,Furnished,Andheri West,2019-12-25,135000.0,Apartment,Agent,2019,12
+1800.0,3.0,3.0,Adani Realty,Semi-Furnished,D.N. Nagar,2019-11-20,150000.0,Apartment,Agent,2019,11
+2150.0,4.0,3.0,Runwal Developers,Semi-Furnished,Lokhandwala Complex,2019-11-21,130000.0,Apartment,Agent,2019,11
+2031.0,3.0,3.0,Mahindra Lifespace Developers Ltd.,Semi-Furnished,Mahalakshmi,2020-01-12,140000.0,Apartment,Agent,2020,01
+1600.0,3.0,3.0,Options Group,Semi-Furnished,Santacruz West,2020-01-13,140000.0,Apartment,Agent,2020,01
+1440.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-14,155000.0,Apartment,Agent,2020,01
+2750.0,4.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-13,140000.0,Apartment,Agent,2020,01
+2565.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-09,130000.0,Apartment,Agent,2020,01
+1700.0,3.0,3.0,Kripa Developers,Furnished,Khar West,2019-11-03,130000.0,Apartment,Agent,2019,11
+1700.0,2.0,3.0,Hiranandani Group,Semi-Furnished,Powai lake,2020-01-07,130000.0,Apartment,Agent,2020,01
+2041.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-10,150000.0,Apartment,Agent,2020,01
+2650.0,4.0,3.0,Bombay Realty,Semi-Furnished,Dadar East,2020-01-08,153000.0,Apartment,Agent,2020,01
+1600.0,2.0,3.0,Hiranandani Group,Furnished,Powai,2019-12-12,140000.0,Apartment,Agent,2019,12
+1450.0,2.0,3.0,Peninsula Land Limited,Furnished,Parel,2019-12-04,150000.0,Apartment,Agent,2019,12
+1500.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2019-12-27,130000.0,Apartment,Agent,2019,12
+1450.0,3.0,3.0,Patel Enterprises,Semi-Furnished,Khar West,2019-11-23,130000.0,Apartment,Agent,2019,11
+2200.0,3.0,3.0,Runwal Developers,Furnished,Shastri Nagar,2019-12-20,140000.0,Apartment,Agent,2019,12
+1850.0,4.0,3.0,K Raheja Corp,Semi-Furnished,Lokhandwala Complex,2019-12-02,149000.0,Apartment,Agent,2019,12
+1820.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Andheri East,2019-11-23,130000.0,Apartment,Agent,2019,11
+1400.0,3.0,3.0,Millennium Group,Furnished,Lower Parel,2019-12-06,135000.0,Apartment,Agent,2019,12
+1850.0,3.0,3.0,Bharat Infrastructure and Engineering,Unfurnished,Andheri West,2019-11-15,145000.0,Apartment,Agent,2019,11
+1550.0,3.0,3.0,Rustomjee,Semi-Furnished,D.N. Nagar,2020-01-07,135000.0,Apartment,Agent,2020,01
+2000.0,3.0,3.0,Adani Realty,Furnished,Andheri West,2019-12-11,128000.0,Apartment,Agent,2019,12
+2000.0,3.0,3.0,K Raheja Corp,Furnished,Andheri West,2019-12-01,140000.0,Apartment,Agent,2019,12
+1989.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-01,150000.0,Apartment,Agent,2020,01
+2070.0,4.0,3.0,Runwal Developers,Unfurnished,Andheri West,2019-12-20,130000.0,Apartment,Agent,2019,12
+1800.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Andheri East,2019-12-03,130000.0,Apartment,Agent,2019,12
+1850.0,3.0,3.0,K Raheja Corp,Furnished,Andheri West,2019-12-18,130000.0,Apartment,Agent,2019,12
+1400.0,2.0,3.0,Samruddhi Builder,Furnished,Dadar East,2019-12-04,130000.0,Apartment,Agent,2019,12
+1800.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-05,155000.0,Apartment,Agent,2019,12
+2050.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-12,145000.0,Apartment,Agent,2019,12
+1550.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-04,137000.0,Apartment,Agent,2020,01
+1300.0,3.0,3.0,Lodha Group,Furnished,Parel,2019-11-24,140000.0,Apartment,Agent,2019,11
+1500.0,3.0,3.0,Samruddhi Builder,Semi-Furnished,Dadar East,2019-12-04,127000.0,Apartment,Agent,2019,12
+1850.0,3.0,3.0,Atul Projects,Semi-Furnished,Mazgaon,2019-12-28,145000.0,Apartment,Agent,2019,12
+1500.0,3.0,3.0,Lokhandwala Infrastructure,Semi-Furnished,Worli,2019-11-15,140000.0,Apartment,Agent,2019,11
+1728.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-02,135000.0,Apartment,Agent,2020,01
+1750.0,3.0,3.0,Lokhandwala Infrastructure,Furnished,Worli,2019-12-29,135000.0,Apartment,Agent,2019,12
+2000.0,3.0,3.0,Lodha Group,Furnished,Goregaon East,2020-01-09,150000.0,Apartment,Agent,2020,01
+2031.0,3.0,3.0,Mahindra Lifespace Developers Ltd.,Semi-Furnished,Mahalakshmi,2020-01-13,150000.0,Apartment,Agent,2020,01
+1674.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,140000.0,Apartment,Agent,2020,01
+1550.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-03,140000.0,Apartment,Agent,2020,01
+2000.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,150000.0,Apartment,Agent,2020,01
+1683.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,130000.0,Apartment,Agent,2020,01
+1995.0,3.0,3.0,Runwal Developers,Furnished,Lokhandwala Complex,2020-01-13,146000.0,Apartment,Agent,2020,01
+2625.0,4.0,3.0,L&T Realty,Unfurnished,Parel,2020-01-12,145000.0,Apartment,Agent,2020,01
+1650.0,4.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,130000.0,Apartment,Agent,2020,01
+2575.0,4.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-12,135000.0,Apartment,Agent,2020,01
+1400.0,2.0,3.0,Millennium Group,Semi-Furnished,Lower Parel,2019-12-12,140000.0,Apartment,Agent,2019,12
+2000.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2019-12-13,130000.0,Apartment,Agent,2019,12
+1650.0,3.0,3.0,Runwal Developers,Furnished,Andheri West,2020-01-13,130000.0,Apartment,Agent,2020,01
+1300.0,2.0,3.0,Oberoi Realty Limited,Furnished,Andheri West,2020-01-14,135000.0,Apartment,Agent,2020,01
+1295.0,2.0,3.0,Oberoi Realty Limited,Furnished,Lokhandwala Complex,2020-01-12,130000.0,Apartment,Agent,2020,01
+3225.0,3.0,3.0,Bombay Realty,Semi-Furnished,Dadar East,2020-01-12,150000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-13,130100.0,Apartment,Agent,2020,01
+1440.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-02,130000.0,Apartment,Agent,2019,12
+1650.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-12,135000.0,Apartment,Agent,2020,01
+1760.0,3.0,3.0,Ekta World,Unfurnished,Juhu,2019-11-30,130000.0,Apartment,Agent,2019,11
+1250.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,145000.0,Apartment,Agent,2020,01
+1820.0,3.0,3.0,Oberoi Realty Limited,Furnished,Goregaon East,2020-01-13,131000.0,Apartment,Agent,2020,01
+1350.0,4.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,148000.0,Apartment,Agent,2020,01
+1675.0,2.0,3.0,Runwal Developers,Furnished,Andheri West,2019-12-09,130000.0,Apartment,Agent,2019,12
+1870.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Gokuldham,2020-01-03,130000.0,Apartment,Agent,2020,01
+1600.0,3.0,3.0,Lodha Group,Furnished,Prabhadevi,2019-11-26,130000.0,Apartment,Agent,2019,11
+1900.0,3.0,3.0,Samartha Development Corporation,Semi-Furnished,Andheri West,2020-01-13,130000.0,Apartment,Agent,2020,01
+2000.0,3.0,3.0,Ekta World,Semi-Furnished,Khar West,2019-12-30,150000.0,Apartment,Agent,2019,12
+1506.0,3.0,3.0,Lodha Group,Semi-Furnished,Parel,2019-12-13,150000.0,Apartment,Agent,2019,12
+1975.0,3.0,3.0,VVA Vision Realtors,Furnished,Worli,2020-01-08,155000.0,Apartment,Agent,2020,01
+1696.0,3.0,3.0,Adani Realty,Semi-Furnished,Andheri West,2019-12-25,130000.0,Apartment,Agent,2019,12
+1600.0,2.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Unfurnished,Bandra Kurla Complex,2019-12-07,150000.0,Apartment,Agent,2019,12
+1580.0,3.0,3.0,Hiranandani Group,Furnished,Powai,2020-01-14,140000.0,Apartment,Agent,2020,01
+1443.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-11-20,140000.0,Apartment,Agent,2019,11
+1700.0,4.0,3.0,Cooperative Group Housing Society,Furnished,Oshiwara,2019-11-15,135000.0,Apartment,Agent,2019,11
+1850.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Furnished,Bandra Kurla Complex,2020-01-13,135000.0,Apartment,Agent,2020,01
+2000.0,3.0,3.0,Mehta Group,Semi-Furnished,Santacruz West,2020-01-12,150000.0,Apartment,Agent,2020,01
+1365.0,3.0,3.0,Options Group,Semi-Furnished,Santacruz West,2020-01-13,140000.0,Apartment,Agent,2020,01
+1550.0,3.0,3.0,Rustomjee,Semi-Furnished,Bandra Kurla Complex,2020-01-12,145000.0,Apartment,Agent,2020,01
+2750.0,4.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-11,150000.0,Apartment,Agent,2020,01
+1550.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2019-12-21,130000.0,Apartment,Agent,2019,12
+2050.0,3.0,3.0,Lodha Group,Semi-Furnished,Parel,2020-01-11,150000.0,Apartment,Agent,2020,01
+1500.0,2.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-08,130000.0,Apartment,Agent,2020,01
+1700.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2019-12-14,135000.0,Apartment,Agent,2019,12
+1500.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2019-12-27,135000.0,Apartment,Agent,2019,12
+2000.0,3.0,3.0,Adani Realty,Semi-Furnished,4 Bunglows,2019-12-02,134000.0,Apartment,Agent,2019,12
+1820.0,3.0,3.0,Oberoi Realty Limited,Unfurnished,Andheri East,2019-11-28,150000.0,Apartment,Agent,2019,11
+2400.0,3.0,3.0,Kalptaru Construction,Furnished,Parel,2019-11-22,150000.0,Apartment,Agent,2019,11
+1650.0,3.0,3.0,Satyashraya Developers,Unfurnished,Santacruz West,2020-01-07,135000.0,Apartment,Agent,2020,01
+2000.0,3.0,3.0,Adani Realty,Furnished,Andheri West,2019-12-11,126000.0,Apartment,Agent,2019,12
+1680.0,4.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-02,140000.0,Apartment,Agent,2019,12
+2600.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2019-12-19,145000.0,Apartment,Agent,2019,12
+3135.0,3.0,3.0,Rustomjee,Unfurnished,Andheri West,2019-12-04,130000.0,Apartment,Agent,2019,12
+1820.0,3.0,3.0,Oberoi Realty Limited,Furnished,Goregaon East,2019-11-14,130000.0,Apartment,Agent,2019,11
+1450.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-11-27,135000.0,Apartment,Agent,2019,11
+1650.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-16,128000.0,Apartment,Agent,2019,12
+1683.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-04,130000.0,Apartment,Agent,2019,12
+1300.0,3.0,3.0,Neev Infrastructure,Semi-Furnished,Prabhadevi,2019-12-18,150000.0,Apartment,Agent,2019,12
+1800.0,3.0,3.0,Atul Projects,Semi-Furnished,Mazgaon,2019-12-28,140000.0,Apartment,Agent,2019,12
+1500.0,3.0,3.0,Hilla Builder Pvt. Ltd.,Semi-Furnished,Bandra West,2019-12-04,150000.0,Apartment,Agent,2019,12
+1350.0,3.0,3.0,S Raheja Realty,Unfurnished,Khar West,2019-11-25,150000.0,Apartment,Agent,2019,11
+2090.0,3.0,3.0,Lodha Group,Furnished,Parel,2019-11-15,140000.0,Apartment,Agent,2019,11
+1500.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-13,130000.0,Apartment,Agent,2020,01
+1350.0,3.0,3.0,Lodha Group,Unfurnished,Worli,2019-12-15,150000.0,Apartment,Agent,2019,12
+1800.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-12,130000.0,Apartment,Agent,2020,01
+1995.0,3.0,3.0,Runwal Developers,Semi-Furnished,Lokhandwala Complex,2020-01-12,147000.0,Apartment,Agent,2020,01
+2250.0,3.0,3.0,Bombay Realty,Semi-Furnished,Dadar East,2020-01-12,130000.0,Apartment,Agent,2020,01
+1650.0,4.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,135000.0,Apartment,Agent,2020,01
+1650.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,130000.0,Apartment,Agent,2020,01
+1674.0,4.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-07,140000.0,Apartment,Agent,2020,01
+1450.0,3.0,3.0,Hiranandani Group,Furnished,Powai,2019-12-29,150000.0,Apartment,Agent,2019,12
+1660.0,3.0,3.0,Runwal Developers,Furnished,Lokhandwala Complex,2019-11-30,140000.0,Apartment,Agent,2019,11
+2201.0,3.0,3.0,Godrej Properties,Unfurnished,Vikhroli,2020-01-13,150000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-13,130000.0,Apartment,Agent,2020,01
+2630.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-12,150000.0,Apartment,Agent,2020,01
+2240.0,3.0,3.0,Peninsula Land,Semi-Furnished,Parel,2019-12-16,150000.0,Apartment,Agent,2019,12
+1347.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,135000.0,Apartment,Agent,2020,01
+1360.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Unfurnished,Bandra Kurla Complex,2019-11-28,150000.0,Apartment,Agent,2019,11
+1250.0,3.0,3.0,Lodha Group,Furnished,Worli,2020-01-13,150000.0,Apartment,Agent,2020,01
+1500.0,3.0,3.0,Runwal Developers,Furnished,Andheri West,2020-01-12,130000.0,Apartment,Agent,2020,01
+2100.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-14,131000.0,Apartment,Agent,2020,01
+1876.0,3.0,3.0,Oberoi Realty Limited,Semi-Furnished,Gokuldham,2019-12-17,135000.0,Apartment,Agent,2019,12
+1850.0,3.0,3.0,Happy Home Group,Unfurnished,Bandra East,2019-12-31,150000.0,Apartment,Agent,2019,12
+1542.0,3.0,3.0,Runwal Developers,Furnished,Andheri West,2020-01-04,150000.0,Apartment,Agent,2020,01
+1516.0,3.0,3.0,Rustomjee,Semi-Furnished,Kala Nagar,2020-01-14,140000.0,Apartment,Agent,2020,01
+1764.0,3.0,3.0,Lodha Group,Unfurnished,Parel,2019-12-13,150000.0,Apartment,Agent,2019,12
+1875.0,3.0,3.0,Shree Developers,Furnished,Matunga East,2020-01-09,130000.0,Apartment,Agent,2020,01
+1750.0,3.0,3.0,K Raheja Corp,Unfurnished,Shri Swami Samarth Nagar,2019-12-20,130000.0,Apartment,Agent,2019,12
+1580.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-11,130000.0,Apartment,Agent,2020,01
+2770.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-09,130000.0,Apartment,Agent,2020,01
+2565.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2019-12-28,130000.0,Apartment,Agent,2019,12
+1600.0,3.0,3.0,Hiranandani Group,Semi-Furnished,IIT Colony,2019-12-19,135000.0,Apartment,Agent,2019,12
+2041.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-06,150000.0,Apartment,Agent,2020,01
+1700.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Central Area,2019-12-05,130000.0,Apartment,Agent,2019,12
+1900.0,3.0,3.0,Dheeraj Realty,Furnished,Santacruz West,2019-11-23,130000.0,Apartment,Agent,2019,11
+1300.0,3.0,3.0,Exclusive Group,Furnished,Santacruz West,2019-12-03,130000.0,Apartment,Agent,2019,12
+1732.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-11-18,130000.0,Apartment,Agent,2019,11
+1875.0,4.0,3.0,Samartha Development Corporation,Furnished,Andheri West,2019-12-02,130000.0,Apartment,Agent,2019,12
+1650.0,3.0,3.0,Millennium Group,Furnished,Lower Parel,2019-12-19,130000.0,Apartment,Agent,2019,12
+1750.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-11-17,130000.0,Apartment,Agent,2019,11
+2052.0,4.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-10,152000.0,Apartment,Agent,2019,12
+1788.0,3.0,3.0,Godrej Properties,Semi-Furnished,Mahalaxmi Race Course,2019-12-13,130000.0,Apartment,Agent,2019,12
+1800.0,3.0,3.0,Atul Projects,Unfurnished,Mazgaon,2019-11-14,150000.0,Apartment,Agent,2019,11
+1500.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-12,130000.0,Apartment,Agent,2020,01
+1400.0,3.0,3.0,Lodha Group,Furnished,Worli,2019-12-28,150000.0,Apartment,Agent,2019,12
+1800.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-12,132000.0,Apartment,Agent,2020,01
+2176.0,4.0,3.0,Bharat Infrastructure and Engineering,Semi-Furnished,D.N. Nagar,2020-01-13,136000.0,Apartment,Agent,2020,01
+2575.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-12,135000.0,Apartment,Agent,2020,01
+1600.0,2.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-14,130000.0,Apartment,Agent,2020,01
+1550.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-09,135000.0,Apartment,Agent,2020,01
+1750.0,3.0,3.0,Lokhandwala Infrastructure,Semi-Furnished,Worli,2019-12-19,135000.0,Apartment,Agent,2019,12
+1500.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2019-11-22,150000.0,Apartment,Agent,2019,11
+1955.0,3.0,3.0,Rustomjee,Semi-Furnished,Andheri West,2019-11-25,135000.0,Apartment,Agent,2019,11
+1450.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-13,135000.0,Apartment,Agent,2020,01
+1780.0,3.0,3.0,Ansal Buildwell Limited,Furnished,Worli,2020-01-04,130000.0,Apartment,Agent,2020,01
+1350.0,3.0,3.0,Lodha Group,Unfurnished,Worli,2020-01-13,135000.0,Apartment,Agent,2020,01
+1765.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-13,130000.0,Apartment,Agent,2020,01
+1800.0,3.0,3.0,Hubtown Limited,Semi-Furnished,Bandra East,2020-01-13,130000.0,Apartment,Agent,2020,01
+2575.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-13,129000.0,Apartment,Agent,2020,01
+1900.0,4.0,3.0,Runwal Developers,Semi-Furnished,Lokhandwala Complex,2019-12-26,150000.0,Apartment,Agent,2019,12
+1680.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-04,135000.0,Apartment,Agent,2020,01
+1700.0,3.0,3.0,Samarth Development Corporation,Unfurnished,Lokhandwala Complex,2019-12-06,135000.0,Apartment,Agent,2019,12
+1950.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-09,130000.0,Apartment,Agent,2020,01
+1500.0,3.0,3.0,The Wadhwa Group,Semi-Furnished,Bandra West,2020-01-12,140000.0,Apartment,Agent,2020,01
+2725.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-12,140000.0,Apartment,Agent,2020,01
+2565.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2019-12-19,130000.0,Apartment,Agent,2019,12
+2041.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-31,150000.0,Apartment,Agent,2019,12
+930.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-04,130000.0,Apartment,Agent,2020,01
+1600.0,3.0,3.0,Hiranandani Group,Furnished,Powai,2019-11-18,145000.0,Apartment,Agent,2019,11
+2232.0,3.0,3.0,Neumec Group,Semi-Furnished,Worli,2019-11-17,150000.0,Apartment,Agent,2019,11
+2300.0,3.0,3.0,Bharat Infrastructure and Engineering,Semi-Furnished,D.N. Nagar,2019-12-11,140000.0,Apartment,Agent,2019,12
+1850.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-11-21,150000.0,Apartment,Agent,2019,11
+1840.0,3.0,3.0,Aristo Realty Developers Limited,Semi-Furnished,Prabhadevi,2019-12-02,149000.0,Apartment,Agent,2019,12
+1500.0,3.0,3.0,Kalpataru Limited,Semi-Furnished,Gandhi Nagar,2019-11-21,150000.0,Apartment,Agent,2019,11
+2031.0,3.0,3.0,Mahindra Lifespace Developers Ltd.,Semi-Furnished,Mahalakshmi,2020-01-12,140000.0,Apartment,Agent,2020,01
+1500.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-18,140000.0,Apartment,Agent,2019,12
+1600.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Semi-Furnished,Bandra Kurla Complex,2020-01-12,132000.0,Apartment,Agent,2020,01
+2150.0,4.0,3.0,Rustomjee,Semi-Furnished,D.N. Nagar,2020-01-14,131000.0,Apartment,Agent,2020,01
+2750.0,4.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-09,140000.0,Apartment,Agent,2020,01
+1574.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-07,135000.0,Apartment,Agent,2019,12
+2000.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2019-11-29,135000.0,Apartment,Agent,2019,11
+1500.0,4.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-13,140000.0,Apartment,Agent,2020,01
+1280.0,3.0,3.0,VVA Vision Realtors,Furnished,Worli,2020-01-04,145000.0,Apartment,Agent,2020,01
+1950.0,4.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,150000.0,Apartment,Agent,2020,01
+2275.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-12,130000.0,Apartment,Agent,2020,01
+1500.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-14,130000.0,Apartment,Agent,2019,12
+1450.0,3.0,3.0,Lodha Group,Unfurnished,Worli,2019-12-15,130000.0,Apartment,Agent,2019,12
+2580.0,4.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-09,135000.0,Apartment,Agent,2020,01
+1574.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-12,130000.0,Apartment,Agent,2019,12
+1900.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2019-11-22,135500.0,Apartment,Agent,2019,11
+1600.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-14,130000.0,Apartment,Agent,2020,01
+1440.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-13,127000.0,Apartment,Agent,2020,01
+1480.0,3.0,3.0,Lodha Group,Unfurnished,Worli,2019-12-31,140000.0,Apartment,Agent,2019,12
+2195.0,4.0,3.0,Runwal Developers,Semi-Furnished,Lokhandwala Complex,2019-12-07,150000.0,Apartment,Agent,2019,12
+1600.0,3.0,3.0,Rustomjee,Semi-Furnished,Bandra Kurla Complex,2020-01-14,140000.0,Apartment,Agent,2020,01
+1790.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2019-12-07,145000.0,Apartment,Agent,2019,12
+1875.0,2.0,3.0,Avarsekar Builder,Furnished,Prabhadevi,2019-12-13,140000.0,Apartment,Agent,2019,12
+1750.0,3.0,3.0,Samarth Development Corporation,Furnished,Lokhandwala Complex,2019-12-07,150000.0,Apartment,Agent,2019,12
+1870.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-09,150000.0,Apartment,Agent,2020,01
+1790.0,3.0,3.0,Dotom Realty,Unfurnished,Khar West,2020-01-08,155000.0,Apartment,Agent,2020,01
+1600.0,3.0,3.0,Rustomjee,Semi-Furnished,Bandra Kurla Complex,2019-11-26,150000.0,Apartment,Agent,2019,11
+2750.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-01,135000.0,Apartment,Agent,2020,01
+1500.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-18,130000.0,Apartment,Agent,2019,12
+1650.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-15,150000.0,Apartment,Agent,2019,12
+2580.0,4.0,3.0,L&T Realty,Semi-Furnished,Parel,2019-12-14,135000.0,Apartment,Agent,2019,12
+1421.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Unfurnished,Bandra Kurla Complex,2019-12-16,130000.0,Apartment,Agent,2019,12
+2000.0,3.0,3.0,Hiranandani Group,Furnished,Powai,2019-11-29,150000.0,Apartment,Agent,2019,11
+1650.0,3.0,3.0,Ekta World,Semi-Furnished,Khar West,2020-01-14,150000.0,Apartment,Agent,2020,01
+2000.0,3.0,3.0,Hiranandani Group,Furnished,Powai,2020-01-13,145000.0,Apartment,Agent,2020,01
+1280.0,3.0,3.0,Lodha Group,Unfurnished,Worli,2019-12-31,140000.0,Apartment,Agent,2019,12
+1500.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-11-30,130000.0,Apartment,Agent,2019,11
+1500.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-18,140000.0,Apartment,Agent,2019,12
+2580.0,4.0,3.0,L&T Realty,Semi-Furnished,Parel,2019-11-27,140000.0,Apartment,Agent,2019,11
+2187.0,3.0,3.0,Lodha Group,Semi-Furnished,Adv RD Kowte Chowk,2019-12-12,155000.0,Apartment,Agent,2019,12
+2000.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Panchkutir Ganesh Nagar,2019-12-06,150000.0,Apartment,Agent,2019,12
+1747.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,130000.0,Apartment,Agent,2020,01
+1790.0,4.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2020-01-13,130000.0,Apartment,Agent,2020,01
+1700.0,3.0,3.0,Lodha Group,Unfurnished,Worli,2019-12-31,150000.0,Apartment,Agent,2019,12
+1700.0,3.0,3.0,Adani Realty,Furnished,Andheri West,2019-12-05,140000.0,Apartment,Agent,2019,12
+1600.0,3.0,3.0,Hubtown Limited,Furnished,Kala Nagar,2020-01-14,130000.0,Apartment,Agent,2020,01
+1600.0,3.0,3.0,Lodha Group,Furnished,Parel,2019-12-01,140000.0,Apartment,Agent,2019,12
+2275.0,4.0,3.0,SPS Group,Unfurnished,Worli,2019-11-20,155000.0,Apartment,Agent,2019,11
+2254.0,3.0,3.0,Adani Realty,Unfurnished,Andheri West,2019-11-20,130000.0,Apartment,Agent,2019,11
+1500.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-07,130000.0,Apartment,Agent,2019,12
+1840.0,3.0,3.0,Aristo Realty Developers Limited,Semi-Furnished,Prabhadevi,2019-11-20,145000.0,Apartment,Agent,2019,11
+2575.0,4.0,3.0,L&T Realty,Semi-Furnished,Parel,2020-01-06,130000.0,Apartment,Agent,2020,01
+1600.0,3.0,3.0,Kanakia Spaces Realty Pvt. Ltd.,Unfurnished,Bandra Kurla Complex,2020-01-07,130000.0,Apartment,Agent,2020,01
+1450.0,2.0,3.0,Hiranandani Group,Semi-Furnished,Powai,2019-12-06,140000.0,Apartment,Agent,2019,12
+1747.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-13,140000.0,Apartment,Agent,2020,01
+2520.0,3.0,3.0,L&T Realty,Semi-Furnished,Parel,2019-11-16,130000.0,Apartment,Agent,2019,11
+1350.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-06,130000.0,Apartment,Agent,2019,12
+1800.0,3.0,3.0,Hiranandani Group,Semi-Furnished,Panchkutir Ganesh Nagar,2019-12-06,135000.0,Apartment,Agent,2019,12
+1747.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2020-01-12,130000.0,Apartment,Agent,2020,01
+1900.0,3.0,3.0,Hilla Builder Pvt. Ltd.,Furnished,Bandra West,2019-11-18,150000.0,Apartment,Agent,2019,11
+2240.0,3.0,3.0,Peninsula Land,Semi-Furnished,Parel,2019-12-31,150000.0,Apartment,Agent,2019,12
+1674.0,3.0,3.0,Lodha Group,Unfurnished,Worli,2019-11-28,145000.0,Apartment,Agent,2019,11
+1470.0,3.0,3.0,Hiranandani Group,Furnished,Powai,2019-11-15,145000.0,Apartment,Agent,2019,11
+1820.0,3.0,3.0,Joy Builders and Developers,Furnished,JVPD Scheme,2019-12-25,150000.0,Apartment,Agent,2019,12
+1470.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-11-24,150000.0,Apartment,Agent,2019,11
+1365.0,3.0,3.0,Express Housing Complex Pvt Ltd,Furnished,Bandra West,2020-01-04,130000.0,Apartment,Agent,2020,01
+2240.0,3.0,3.0,Peninsula Land Limited,Semi-Furnished,Parel,2019-12-31,150000.0,Apartment,Agent,2019,12
+1350.0,3.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-11-19,140000.0,Apartment,Agent,2019,11
+1650.0,3.0,3.0,Lodha Group,Unfurnished,Lower Parel,2019-12-30,140000.0,Apartment,Agent,2019,12
+2240.0,3.0,3.0,Peninsula Land,Semi-Furnished,Parel,2019-12-14,150000.0,Apartment,Agent,2019,12
+1700.0,3.0,3.0,Lodha Group,Unfurnished,Worli,2019-12-30,150000.0,Apartment,Agent,2019,12
+2240.0,3.0,3.0,Peninsula Land Limited,Semi-Furnished,Parel,2019-12-14,150000.0,Apartment,Agent,2019,12
+1540.0,3.0,3.0,Lodha Group,Unfurnished,Worli,2019-12-30,135000.0,Apartment,Agent,2019,12
+2031.0,3.0,3.0,Mahindra Lifespace Developers Ltd.,Semi-Furnished,Mahalakshmi,2019-12-14,140000.0,Apartment,Agent,2019,12
+1900.0,3.0,3.0,Lodha Group,Furnished,BPT Colony,2019-12-29,150000.0,Apartment,Agent,2019,12
+2100.0,3.0,3.0,Lodha Group,Furnished,BPT Colony,2019-12-29,145000.0,Apartment,Agent,2019,12
+1600.0,3.0,3.0,Rizvi Builders,Furnished,Bandra West,2019-12-03,140000.0,Apartment,Agent,2019,12
+2079.0,4.0,3.0,Lodha Group,Semi-Furnished,Worli,2019-12-06,150000.0,Apartment,Agent,2019,12
 625.0,2.0,1.0,Sai Swapn Developers,Unfurnished,Naigaon East,2020-01-12,6500.0,Apartment,Agent,2020,01
 630.0,2.0,1.0,Sumit Developer,Semi-Furnished,Virar,2020-01-11,6500.0,Apartment,Agent,2020,01
 640.0,2.0,1.0,Anchor Realty,Semi-Furnished,Nalasopara East,2020-01-11,7500.0,Apartment,Agent,2020,01
