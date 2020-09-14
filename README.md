@@ -45,6 +45,22 @@ upper_limit = Q3 + 1.5*(IQR)
 
 The Area Column follows the Bell curve or Binomial Distribution with area = 6000 highest.
 
+# User Count
+![Flats](images/UserCount.png)
+
+In the above diagram, we can see that Agent acts as a middle-person and highest number of Flats for Rent; And builder has very very less amount of flats for Rent.
+
+# Year Count
+![Year](./images/YearCount.png)
+
+The renter population has become more than the previous year.
+
+# Price Distribution 
+![Price](./images/price_distribution.png)
+
+# PairPlot
+![PairPlot](./images/PairPlot.png)
+
 # Barchart for Houses
 ![House Rent](./images/barchart_house.png)
 
