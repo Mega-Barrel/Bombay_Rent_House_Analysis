@@ -6,6 +6,11 @@ Data set taken from Kaggle: https://www.kaggle.com/jedipro/flats-for-rent-in-mum
 1. Plotly Diagrams:  https://www.kaggle.com/shreekant009/mumbai-house-price-with-plotly
 2. Scatter Plot: https://www.youtube.com/watch?v=cbqZa_1vzcg&list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg&index=5&t=0s
 
+**Result:**
+
+From the Bombay Rent House Analysis, There was more number of Agent who act as a middle person for renting house. The year 2020 has more number of house for rent as compared to year 2019. 
+
+
 # Download
 ```
 # Clone or download the repository
